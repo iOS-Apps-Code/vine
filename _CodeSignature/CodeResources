@@ -6,67 +6,59 @@
 	<dict>
 		<key>AddCaptionTextfield.png</key>
 		<data>
-		nyfy17GxgUwv4kdPah9Zd2bmeMc=
+		DeWZrNnMQCV1oRAI3o6c80W0KmE=
 		</data>
 		<key>AddCaptionTextfield@2x.png</key>
 		<data>
-		efs9rAIAzQCBpT9kVw+Qz5TZbJw=
+		qFZQGE1/aAVR2brAV7h9cPzck1s=
 		</data>
 		<key>AddLocation.png</key>
 		<data>
-		YMpWP/0u9/2iC0alIkoR6HS5Co0=
+		zcI2ZGjXd7vcsSkJ1OL+U3nctKk=
 		</data>
 		<key>AddLocation@2x.png</key>
 		<data>
-		XEMd5J4gH9qs3w53YOEPPVF646I=
+		KwuqduR/1awK5cNMGGvk+EhcgDg=
 		</data>
 		<key>AddPhotoCorner.png</key>
 		<data>
-		7ASrr4Db+ys3I3XIEUopocyNZME=
+		4ANNoddGKmjR97yBMTmP27Zpowo=
 		</data>
 		<key>AddPhotoCorner@2x.png</key>
 		<data>
-		VkncZrY9YQuhjTAYOPKqS3VW6D4=
+		2EGqdso7RDmlBPOse4I7vHhnTkA=
 		</data>
 		<key>AddressBookButton.png</key>
 		<data>
-		1ibviyhA11LrSNt7ovANKJlt9hg=
+		BfdfTPAiTQr78tZqELZtCvId/wQ=
 		</data>
 		<key>AddressBookButton@2x.png</key>
 		<data>
-		mDlXRuzIo08EdsyWXtKIRXd1csA=
-		</data>
-		<key>AddressBookButtonTap.png</key>
-		<data>
-		aY9Vmg1RFo0V5CPiAQYy/MstdHw=
-		</data>
-		<key>AddressBookButtonTap@2x.png</key>
-		<data>
-		dI3fNtij6IaC+sdqSJIomh54qe8=
+		7N5tWPux5f5/vrv6uJ58Vrdv3bo=
 		</data>
 		<key>AddressBookOff.png</key>
 		<data>
-		2U6Dcd3oNoaaQnlNbOYnw3ys+QU=
+		CXIXTwbY7hfsp0BsRpusZ5iPI94=
 		</data>
 		<key>AddressBookOff@2x.png</key>
 		<data>
-		/tbGsYe3NttJIwBKn0XswpBjVr4=
+		uaVfiKWoJx1tMfsW5tg6wEad+eU=
 		</data>
 		<key>AddressBookOn.png</key>
 		<data>
-		SJdXIe/pKijGUUnAKxbETThjmo8=
+		K4G2b/NRKkcNVkuFPoiw25qTEEg=
 		</data>
 		<key>AddressBookOn@2x.png</key>
 		<data>
-		WnpEHsvpQfPjzW9oeHDGts8UVLo=
+		GvKBbWg9gxpJ/NkR7R4L/lzyDpY=
 		</data>
 		<key>AddressBookWatermark.png</key>
 		<data>
-		HhrDuaUjcLjJubZxK4Ae12mi0J0=
+		td3Pd67Eh3heY/qhcxCYBx6EOYk=
 		</data>
 		<key>AddressBookWatermark@2x.png</key>
 		<data>
-		iT180fCgW+ywKbtEggwi0TWHaQ8=
+		NLskASR7/xlauMPq7U+FIxONuMc=
 		</data>
 		<key>AdminProfilePhoto.png</key>
 		<data>
@@ -76,101 +68,21 @@
 		<data>
 		5YXWGL2b8QW4TN6+clMKlsL/b9c=
 		</data>
-		<key>AppIcon29x29.png</key>
+		<key>Arrow.png</key>
 		<data>
-		AjLY0FKLNP70Tckw5wttZwJam4E=
+		pxoLgcoB2zv+hvQqnUX9c/SPE7U=
 		</data>
-		<key>AppIcon29x29@2x.png</key>
+		<key>Arrow@2x.png</key>
 		<data>
-		MPPnHpUxkPobg1y7RABv8s34o14=
-		</data>
-		<key>AppIcon29x29@2x~ipad.png</key>
-		<data>
-		MPPnHpUxkPobg1y7RABv8s34o14=
-		</data>
-		<key>AppIcon29x29~ipad.png</key>
-		<data>
-		AjLY0FKLNP70Tckw5wttZwJam4E=
-		</data>
-		<key>AppIcon40x40@2x.png</key>
-		<data>
-		+t6b0ntTg9zc9mH8YkA37PZrJzE=
-		</data>
-		<key>AppIcon40x40@2x~ipad.png</key>
-		<data>
-		+t6b0ntTg9zc9mH8YkA37PZrJzE=
-		</data>
-		<key>AppIcon40x40~ipad.png</key>
-		<data>
-		Fd55mUSCeplz4C4IPKw7LBKX8oU=
-		</data>
-		<key>AppIcon50x50@2x~ipad.png</key>
-		<data>
-		Dvg8EWih7dfDtNigyzwxSf1KWcA=
-		</data>
-		<key>AppIcon50x50~ipad.png</key>
-		<data>
-		V4JgHwBtzmsjhIy4X//mtSfWFsE=
-		</data>
-		<key>AppIcon57x57.png</key>
-		<data>
-		9DoXq+Y4XNI/6JXF7E4lEVZMYTA=
-		</data>
-		<key>AppIcon57x57@2x.png</key>
-		<data>
-		0ENbm8bkQTqeIgg2GvjhHpgh1r4=
-		</data>
-		<key>AppIcon60x60@2x.png</key>
-		<data>
-		+S9wSgO0II+eXJ72wDPhfUQ4ZFc=
-		</data>
-		<key>AppIcon72x72@2x~ipad.png</key>
-		<data>
-		KPaSNJin2d32n0QKO03fKEuOSAs=
-		</data>
-		<key>AppIcon72x72~ipad.png</key>
-		<data>
-		de24NOHF20xyj0D6jVtBOGoho5Y=
-		</data>
-		<key>AppIcon76x76@2x~ipad.png</key>
-		<data>
-		U+PYmd1virFZaq4X4mU/CxaV3Hc=
-		</data>
-		<key>AppIcon76x76~ipad.png</key>
-		<data>
-		YsOZntnOWp0NxXaJorI1VxJt+SY=
-		</data>
-		<key>ArrowIcon.png</key>
-		<data>
-		xvVecpNEKoSBIpbaA1OIVYaG5Tw=
-		</data>
-		<key>ArrowIcon@2x.png</key>
-		<data>
-		lJCyaPlpIO2Yy4yMNNZMtVflPuI=
-		</data>
-		<key>ArrowIconTap.png</key>
-		<data>
-		SFB+sUuiGWaaE58onreGL6GIoZw=
-		</data>
-		<key>ArrowIconTap@2x.png</key>
-		<data>
-		Ji8s+LkhLRj5NeLGoWw2nVsFWQA=
+		vxygPxucQ03NUe+wWlGmUPUwq6Q=
 		</data>
 		<key>BackButton.png</key>
 		<data>
-		XxMYNba/Aj3r//HX3TRxZZE7wwc=
+		CSdNsu3ybK0QXdHQwZrbHZ/vfS4=
 		</data>
 		<key>BackButton@2x.png</key>
 		<data>
-		O+QVIj0LoKkt1Mc2jpVV+n0RmyA=
-		</data>
-		<key>BackButtonTap.png</key>
-		<data>
-		APEi7OpAkR9dlvgKczxTdytorMM=
-		</data>
-		<key>BackButtonTap@2x.png</key>
-		<data>
-		FJkRj92A83hQOzogBOAh0+A/DEw=
+		g/ZeSD5TFTlxBPKpExumsNynp54=
 		</data>
 		<key>BackgroundLocationTag.png</key>
 		<data>
@@ -208,6 +120,14 @@
 		<data>
 		SrUTEtYRf+j1LMWRD/uZ4SMmPnM=
 		</data>
+		<key>BlackPill.png</key>
+		<data>
+		k0P1hs2JqRoQe8KvfbQosQVkM8g=
+		</data>
+		<key>BlackPill@2x.png</key>
+		<data>
+		aMMpyYzpbPba0+vYnUM4xJjzUzI=
+		</data>
 		<key>BlankAvatar.png</key>
 		<data>
 		koYxlqoSn78TvDN23ugQdcVco8A=
@@ -216,49 +136,121 @@
 		<data>
 		NbLBEGZUITQJcvURBu9bXASLLAs=
 		</data>
+		<key>BlankDraft.png</key>
+		<data>
+		fmPpA738je21Ymd/GTLggeNyLrw=
+		</data>
+		<key>BlankDraft@2x.png</key>
+		<data>
+		6FS+M4WBjvzhQga/PR9bUAGf2Eg=
+		</data>
 		<key>BlockedPhotoCorner.png</key>
 		<data>
-		xTLnPoOw19gGuhah9sbOt778wrc=
+		+PqtI7khr0SOkG2lPfunq+PRioM=
 		</data>
 		<key>BlockedPhotoCorner@2x.png</key>
 		<data>
-		vpYhHbPZF9SGfVvxuSY3Wy5Agz0=
+		xuMSM6zL2QjvJHLEOZsFWbM7eoU=
 		</data>
-		<key>Calibre-Black.otf</key>
+		<key>CancelButton.png</key>
 		<data>
-		KmLD0GO6fApABgtkmwG6r5snpjU=
+		K/Kyz14QeHRlLpKtFhR55znBOJI=
 		</data>
-		<key>Calibre-Bold.otf</key>
+		<key>CancelButton@2x.png</key>
 		<data>
-		uIwKa/Tg/zDL6KDhGh2gNzPo8H8=
+		jITi0+u2KBII/SLJtSPJm8LqFS8=
 		</data>
-		<key>Calibre-Light.otf</key>
+		<key>CaptureIconOff.png</key>
 		<data>
-		3kK1Glf0cUnZ+ELwZ8Saw75DooQ=
+		NXfK7JvWLvGrcsyJVeMqN8q2cPM=
 		</data>
-		<key>Calibre-Medium.otf</key>
+		<key>CaptureIconOff@2x.png</key>
 		<data>
-		koIjKUOWb5vFL83tpDYarOhfIqE=
+		sKDpfNb9byovbmr4VUecAmMMg4E=
 		</data>
-		<key>Calibre-Regular.otf</key>
+		<key>CaptureIconOn.png</key>
 		<data>
-		tgF4bpBGD4bW53VW56WWxDjPFlA=
+		OJxTsCCbeCd4EF/M7XQir2yaFGo=
 		</data>
-		<key>Calibre-Semibold.otf</key>
+		<key>CaptureIconOn@2x.png</key>
 		<data>
-		L5dxq+r2i/N/a1DNWNXLSZJoNv4=
+		ynlQICnouZATnGu1yEn2m7j8dHk=
 		</data>
-		<key>Calibre-Thin.otf</key>
+		<key>CaptureStoryboard.storyboardc/Info.plist</key>
 		<data>
-		Egk0vxCZSpblAg3XkEU28RBMBcM=
+		iQqw2nzxiViLtbGVZRKODvQCuP8=
+		</data>
+		<key>CaptureStoryboard.storyboardc/Lc9-I2-7We-view-4ng-D0-hLo.nib/objects.nib</key>
+		<data>
+		El9Kfkrnlggp+o5SuyxpK66J6BA=
+		</data>
+		<key>CaptureStoryboard.storyboardc/Lc9-I2-7We-view-4ng-D0-hLo.nib/runtime.nib</key>
+		<data>
+		XNTTlgj5oALUuZeeeArzVyyp4a0=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UIViewController-Lc9-I2-7We.nib/objects.nib</key>
+		<data>
+		zrl0ggkl3bipa3jTHdzcXDNeRMg=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UIViewController-Lc9-I2-7We.nib/runtime.nib</key>
+		<data>
+		ApFAp9GdV9aqfzngSF0l7D631+I=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UIViewController-UTg-yS-kcL.nib/objects.nib</key>
+		<data>
+		2JZaG3qH8Ox3+Nk9mfcfYRjUYQs=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UIViewController-UTg-yS-kcL.nib/runtime.nib</key>
+		<data>
+		CAElgtT3Le3uoB+XSHIdKQHe4vg=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UIViewController-Y7r-au-1fG.nib/objects.nib</key>
+		<data>
+		qywBNlgPj4jLewUBZeLvkRyvfJo=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UIViewController-Y7r-au-1fG.nib/runtime.nib</key>
+		<data>
+		L4XMpnPe391NiAt95NirF6iQpX0=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UTg-yS-kcL-view-mzM-0t-87L.nib/objects.nib</key>
+		<data>
+		GZQDBgtua3tYpLmX3wacnwr6C+E=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UTg-yS-kcL-view-mzM-0t-87L.nib/runtime.nib</key>
+		<data>
+		GTkeBJ1SGp7Pd0GOfX7O0V0cGQI=
+		</data>
+		<key>CaptureStoryboard.storyboardc/VNCaptureViewController.nib/objects.nib</key>
+		<data>
+		eeb4KCcRsMG7lWUTEgtZZgc+GIQ=
+		</data>
+		<key>CaptureStoryboard.storyboardc/VNCaptureViewController.nib/runtime.nib</key>
+		<data>
+		M2qSXBSAxMdouNfFA7W3oVYZcYg=
+		</data>
+		<key>CaptureStoryboard.storyboardc/Y7r-au-1fG-view-Bqm-xZ-NkK.nib/objects.nib</key>
+		<data>
+		2a/r0kRKdiG20Ki8qnghjmXnHDc=
+		</data>
+		<key>CaptureStoryboard.storyboardc/Y7r-au-1fG-view-Bqm-xZ-NkK.nib/runtime.nib</key>
+		<data>
+		FxzdJ8f8iadFOsfCkHtptdwqfw8=
+		</data>
+		<key>CaptureStoryboard.storyboardc/hrE-fC-Xqi-view-08w-gN-sbf.nib/objects.nib</key>
+		<data>
+		feExdwdk+mXkmq3UTMJaNbA9Y4Q=
+		</data>
+		<key>CaptureStoryboard.storyboardc/hrE-fC-Xqi-view-08w-gN-sbf.nib/runtime.nib</key>
+		<data>
+		NprS6i3hoqo44LW+dqkVG/Afr4o=
 		</data>
 		<key>ChannelsIconOff.png</key>
 		<data>
-		wdjL0mJfgF2min0UBajDb1XYE/U=
+		io4dLBfCw0n3Uizsx5cLM2B6qOo=
 		</data>
 		<key>ChannelsIconOff@2x.png</key>
 		<data>
-		swcuMQ5qzw49xugifK4qhZpeAJ8=
+		w1S6keiEtgAk8ub/WKvZzCSbWIQ=
 		</data>
 		<key>ChannelsIconOn.png</key>
 		<data>
@@ -270,35 +262,107 @@
 		</data>
 		<key>CheckButton.png</key>
 		<data>
-		bO2kr9Z7X10D3wLd8FiBH73zc4s=
+		xZvQpoA8Z3AyY+rLmleJ5GDJS0k=
 		</data>
 		<key>CheckButton@2x.png</key>
 		<data>
-		o2ykSdwTUyFzEc7a2hSzvUXxs4c=
-		</data>
-		<key>CheckButtonTap.png</key>
-		<data>
-		whzmeZbrCiuEo/OptzHzs0CqFgU=
-		</data>
-		<key>CheckButtonTap@2x.png</key>
-		<data>
-		W4l3l4o+mToog0ETxoGNYkwF0tE=
+		XsxHKSwrwUCrZB35T5DfWfahyg4=
 		</data>
 		<key>CommentButton.png</key>
 		<data>
-		w/Kj2FdChyw4V58EOSl0P5i4YOc=
+		SmB8eTKBpfg3T/sCoYgIAkU/RVc=
 		</data>
 		<key>CommentButton@2x.png</key>
 		<data>
-		qEF+EfjmWehSWNRSig99o07BhEk=
+		hXO039c0jYAF7RzsNflOaDsn5gY=
 		</data>
 		<key>CommentPhotoCorner.png</key>
 		<data>
-		oqN27C8UNLlSyxefpWhnitspJZs=
+		AEyGFGZ4kqmQE6g72u0jCGDXGSQ=
 		</data>
 		<key>CommentPhotoCorner@2x.png</key>
 		<data>
-		tlDs+xc0L2oJoSisg2ONtddI4es=
+		y3jYR4FHXIFTsjkPf4FId+YjE/U=
+		</data>
+		<key>DeleteButtonGrey.png</key>
+		<data>
+		IinCK2vLWPKuW4AtdxghI7OZVFk=
+		</data>
+		<key>DeleteButtonGrey@2x.png</key>
+		<data>
+		MpyzCG8/CUYgBF2sT8m9PlepznU=
+		</data>
+		<key>DeleteButtonRed.png</key>
+		<data>
+		4NjEl8wMKfF+uYdxCwMBf8d0U9k=
+		</data>
+		<key>DeleteButtonRed@2x.png</key>
+		<data>
+		RcmBagvrsQZiSBMWYF0102ZkprE=
+		</data>
+		<key>DeleteComment.png</key>
+		<data>
+		BrNcCZ6JDRKlzYaq3KPXv51Ak/c=
+		</data>
+		<key>DeleteComment@2x.png</key>
+		<data>
+		LwjNNqTmaNRS+JAN2c2OU3dlM/8=
+		</data>
+		<key>DeleteIcon.png</key>
+		<data>
+		jijK32GIEIktQP1/8G+7lqVMqEs=
+		</data>
+		<key>DeleteIcon@2x.png</key>
+		<data>
+		ez7XADBw3S5QIm5F3BDsY8ndmBc=
+		</data>
+		<key>DoneButton.png</key>
+		<data>
+		V0TD7sxZtgt18TI53mMw6S5W9UI=
+		</data>
+		<key>DoneButton@2x.png</key>
+		<data>
+		fxV+tlyySOh8fR7Zb91m08TmfVM=
+		</data>
+		<key>DotGrey.png</key>
+		<data>
+		hq/rthJDZSjp7MCc3TSZ83TGzRQ=
+		</data>
+		<key>DotGrey@2x.png</key>
+		<data>
+		gvadNRYB5lW+iOBpT4xO+ODoN3o=
+		</data>
+		<key>DotWhite.png</key>
+		<data>
+		ncwKrouBoPk/Z6Zz5L4tgtPQTHM=
+		</data>
+		<key>DotWhite@2x.png</key>
+		<data>
+		XmvKlBunz4jhK9gks7kn1wkiM90=
+		</data>
+		<key>DownArrow.png</key>
+		<data>
+		soRNz11s9ed7VF3eNvL6lGXkEAY=
+		</data>
+		<key>DownArrow@2x.png</key>
+		<data>
+		ZaJUICA6KoH9fbFgzjw+EqtdotI=
+		</data>
+		<key>DraftsIcon.png</key>
+		<data>
+		HtFdTNqCo9rg0RPlusQFl3Q+FuI=
+		</data>
+		<key>DraftsIcon@2x.png</key>
+		<data>
+		nYuEQdVizQf1Thyv2D2uZTt9RlA=
+		</data>
+		<key>DraftsIconActive.png</key>
+		<data>
+		rV/8I2HqomZtrujy3UZjRFwc0yk=
+		</data>
+		<key>DraftsIconActive@2x.png</key>
+		<data>
+		dqLgDOIYn3tF23wb9POokLyO35k=
 		</data>
 		<key>EbayLocationIcon.png</key>
 		<data>
@@ -322,19 +386,19 @@
 		</data>
 		<key>EditProfilePhotoFrame.png</key>
 		<data>
-		m8xdS/De/FwlQvNV0VzGRHSesVI=
+		WoI4iL5xdeSHww8o85c6ngdqF1c=
 		</data>
 		<key>EditProfilePhotoFrame@2x.png</key>
 		<data>
-		NPUC6Lv7zsXnDpCLISDSbmdL8r4=
+		04CoKg5f7ocVQ1DUo4JvO6VDRHQ=
 		</data>
 		<key>EditorsPick.png</key>
 		<data>
-		1hWvUj1QRdadjpLarnhGZTyjYJM=
+		bOsMYnMWYDpZQjx7mZMAAfG6ydo=
 		</data>
 		<key>EditorsPick@2x.png</key>
 		<data>
-		FeG9ds+IPnwLT29q5Q6/JcmyEqQ=
+		zkq2Z32KWUvkVHzlNfmG7HSjtjI=
 		</data>
 		<key>EntertainmentLocationIcon.png</key>
 		<data>
@@ -358,51 +422,51 @@
 		</data>
 		<key>ExplicitGrey.png</key>
 		<data>
-		IhGeM/aLxG+SqPke3WrtZlDeTBE=
+		kNUZLxq+NXpWouTk1gva32fvNbQ=
 		</data>
 		<key>ExplicitGrey@2x.png</key>
 		<data>
-		mBSPSA1CKL4IcSasrCzg1PNLl+U=
+		Kvv+syQMbxq8xc9W4gBYbAO5JH4=
 		</data>
 		<key>ExplicitRed.png</key>
 		<data>
-		km9cDeZm9SqEP2CfVnhCN2F64Yc=
+		pw2kMcQpk2a9HYlLy54TJkcSFOs=
 		</data>
 		<key>ExplicitRed@2x.png</key>
 		<data>
-		B/hH03b8pBYDsB6DC67dXSLncGY=
+		cgJvgV9JYL8kXJEUm2IEuSE+Bq4=
 		</data>
 		<key>ExploreTabLeftOff.png</key>
 		<data>
-		JxAFsK5kvaryll9SZpFGFW0jjM4=
+		3EddyXIj9g/sPoysOj/zXh3RDGM=
 		</data>
 		<key>ExploreTabLeftOff@2x.png</key>
 		<data>
-		Hk9nZkERTcM1mDUn7abgzcIwraM=
+		tB+IQTI9Gvv+PLtaAKk2nAXHpi4=
 		</data>
 		<key>ExploreTabLeftOn.png</key>
 		<data>
-		Ro2m8eaJ5+nWWbBa9MxN0K6eJOE=
+		PPj92zh12qiEqTR2JRTTJRd/mME=
 		</data>
 		<key>ExploreTabLeftOn@2x.png</key>
 		<data>
-		pPxltkdKAcaNEEl7m4HiGjiCiOg=
+		7jLOpOstsjdoKStWDOFI21WFrPo=
 		</data>
 		<key>ExploreTabRightOff.png</key>
 		<data>
-		G5mferhslmmlu8XF9VJK2y5/5z0=
+		0Gjag+IE366Ab8o0aI328s6gwG4=
 		</data>
 		<key>ExploreTabRightOff@2x.png</key>
 		<data>
-		7XaJ9ibnNyoKNMlxzNf0pJh95WQ=
+		qn5QTGss3B9Mb/TPjjvC4DTjYl8=
 		</data>
 		<key>ExploreTabRightOn.png</key>
 		<data>
-		BMOCgM6CQw5r1Hf9CJUAX4aPIMs=
+		VxEbJ4fDH71mGaZN/YljGKnb9kg=
 		</data>
 		<key>ExploreTabRightOn@2x.png</key>
 		<data>
-		5FB/zkfYlsY5ET7EgodapkbOb4I=
+		pUhmKcK/lBv41nZ9K0uSYB65iTI=
 		</data>
 		<key>FacebookLocationIcon.png</key>
 		<data>
@@ -426,51 +490,43 @@
 		</data>
 		<key>FindButtonOff.png</key>
 		<data>
-		fs4ud1OSVVlSMT+9goNpOeKqa1I=
+		+tMIyHiAOAaUbonaf60bSxVj+0c=
 		</data>
 		<key>FindButtonOff@2x.png</key>
 		<data>
-		wmQeQy2wdpHp5P+OmeBzZCFW6bE=
+		Zr5NkJeIIlGu+TShWYjM7hG0oHg=
 		</data>
 		<key>FindButtonOn.png</key>
 		<data>
-		ySPhu6mBQV82lymLtjxG7iz0IAQ=
+		L0pQfzAoPcLVEsdPRG+WVSGaKgg=
 		</data>
 		<key>FindButtonOn@2x.png</key>
 		<data>
-		VFlpjyDrT6F9EJCAW9KcnjgesOU=
+		2Qq5W25Z1NVmp808U7+y+Kogo4E=
 		</data>
 		<key>FindFriendsBanner.png</key>
 		<data>
-		oT9u/Z57dW6V+H7QPSfY+dSd/Pk=
+		yHjL6TNQkA6KuP1/GYooqmS1VdU=
 		</data>
 		<key>FindFriendsBanner@2x.png</key>
 		<data>
-		dplzAghEISwHx4ZTrqxnOBXKGwg=
-		</data>
-		<key>FindFriendsBannerTap.png</key>
-		<data>
-		eJfjyDDEATT+hSmDjR0hRn6XwWs=
-		</data>
-		<key>FindFriendsBannerTap@2x.png</key>
-		<data>
-		DYtFc9kZ5zoIW0kbmoInuxgvcY8=
+		tyPDgu6JiDgPYuMRYQITTRQnciI=
 		</data>
 		<key>FindFriendsButton.png</key>
 		<data>
-		QEOrZCb4DFFCqkvG835iXLtBx7s=
+		bWPqZ1NKKFcSBz35RzHEGVGMqfI=
 		</data>
 		<key>FindFriendsButton@2x.png</key>
 		<data>
-		CYSd2BAzxmX/Q/DUUid2IE7FXJg=
+		rS2U+0zSLj23r6nXE48B4gzTPxQ=
 		</data>
-		<key>FindFriendsButtonTap.png</key>
+		<key>FlagComment.png</key>
 		<data>
-		botFw8+ifb0DmL6vzhDGSORf3Hg=
+		wXHIJdJjSlNGA7hTg6al2TJBMuI=
 		</data>
-		<key>FindFriendsButtonTap@2x.png</key>
+		<key>FlagComment@2x.png</key>
 		<data>
-		tNBkTexlXxMKbmJMnYNP+GWXcog=
+		tXTiBSN5cUKQnu/gAJKimP8DFYM=
 		</data>
 		<key>FocusCircle.png</key>
 		<data>
@@ -482,11 +538,19 @@
 		</data>
 		<key>FocusIcon.png</key>
 		<data>
-		9RVkezRm4wqcorgzYKPz3wmp6EA=
+		rPHz6GOD8KPEf5iaVOh2wrWN0TQ=
 		</data>
 		<key>FocusIcon@2x.png</key>
 		<data>
-		6sx65ElAaJ8T4+91p6WavODFags=
+		FyAlVMuk+0R2eSdrvZ2lwd/5qIA=
+		</data>
+		<key>FocusIconActive.png</key>
+		<data>
+		69YjcCaBId4P5kBg+n15RBFOnA0=
+		</data>
+		<key>FocusIconActive@2x.png</key>
+		<data>
+		AeiOcbDO7DFEbX1JlDz/dkOn/LA=
 		</data>
 		<key>FocusIconDisabled.png</key>
 		<data>
@@ -496,61 +560,69 @@
 		<data>
 		//kvTY05lY0zvwXfiuc1UVbc9EI=
 		</data>
+		<key>FocusLockIcon.png</key>
+		<data>
+		unSAgO/4zacNR+ieXZbwj9/ogpQ=
+		</data>
+		<key>FocusLockIcon@2x.png</key>
+		<data>
+		ifiaJTU9vDVvDy04fI3Wx8N21Js=
+		</data>
 		<key>FollowButton.png</key>
 		<data>
-		nLIoNUoMtECrkHW9ZF1cmh3XJ48=
+		bfamWL9yi9k7I4I8wQix47Paexs=
 		</data>
 		<key>FollowButton@2x.png</key>
 		<data>
-		SDIVfmIO3LWcJ0nfoq17BL/AFUQ=
-		</data>
-		<key>FollowButtonTap.png</key>
-		<data>
-		jnLvs98y8V/k7ugOy4qpLedPk/Y=
-		</data>
-		<key>FollowButtonTap@2x.png</key>
-		<data>
-		WNO6TSAYsschtixN5Vq1srv8zWg=
+		sEKxPb67pj8x0PknIOIoqvV3cKw=
 		</data>
 		<key>FollowRequestedButton.png</key>
 		<data>
-		hphYTtWXjqwCVUF5WX9+rF77oD0=
+		EBsgmny3j8i/aVZ37wE6Vo8RHKQ=
 		</data>
 		<key>FollowRequestedButton@2x.png</key>
 		<data>
-		TWK4quJVmXwzhsZ1UFJaeWBHSoU=
+		BGMqZLxEEHTy08SiGsOkdCqQ0No=
 		</data>
 		<key>FollowingButton.png</key>
 		<data>
-		6UbrWQM2JoyZKLaqQ39ofUfJ/Y8=
+		WeQzPZMoXmfs56ywg6o47PoyJNw=
 		</data>
 		<key>FollowingButton@2x.png</key>
 		<data>
-		kJzmWj8U9tiekR4I46UZw5bV920=
-		</data>
-		<key>FollowingButtonTap.png</key>
-		<data>
-		rdJGaYVlOJmiQ7YCl/uEUf/s0iA=
-		</data>
-		<key>FollowingButtonTap@2x.png</key>
-		<data>
-		K9Ug+1wM9zSpjkXF8D7HTo+XcR0=
+		lXU1lfLUnZnTDRLoFcFrZfvSiEo=
 		</data>
 		<key>FrontFacingIcon.png</key>
 		<data>
-		SaiCm2ND+oTAKkOOpPUNoRM8ios=
+		NMhcM20Wb8GLrJ3yNG2EWL97gBU=
 		</data>
 		<key>FrontFacingIcon@2x.png</key>
 		<data>
-		zgvMNU7JO/Z3wt64e67snUkbaq0=
+		Z29iJwUFV0b1q+bFY7mKcWaXv0k=
+		</data>
+		<key>FrontfacingIconActive.png</key>
+		<data>
+		pvDnTMXJYeSreYf8Fuy3AeT5TgE=
+		</data>
+		<key>FrontfacingIconActive@2x.png</key>
+		<data>
+		8yirHIHTk+fWEIvNysfIudtoCQw=
 		</data>
 		<key>GhostIcon.png</key>
 		<data>
-		DUGgNnsW12kzqEtOj2E5RrefY10=
+		8jnvkR5p9rUTvztxqsR3jc+y92M=
 		</data>
 		<key>GhostIcon@2x.png</key>
 		<data>
-		fYxUMA6f76Q2g482hgmJvYPqhgk=
+		wlkAd27GT0Swdp91BIEFTewuvio=
+		</data>
+		<key>GhostIconActive.png</key>
+		<data>
+		j/JBimz+iO7EhQhQ//b4nU1R1QY=
+		</data>
+		<key>GhostIconActive@2x.png</key>
+		<data>
+		anMqBi/ZhWdd2TYnEPsC9aOxclo=
 		</data>
 		<key>Gilt2LocationTag.png</key>
 		<data>
@@ -602,35 +674,35 @@
 		</data>
 		<key>GreyArrow.png</key>
 		<data>
-		AVCJ/d0bkYbcZ2zeSili1BMp3iM=
+		3Z4hgtxYCkyAc/jc5D7hAHJS14Y=
 		</data>
 		<key>GreyArrow@2x.png</key>
 		<data>
-		RUD5ggd74g4BVNrU1VmUveoGZo0=
+		Szc0MgiA+MD7TZCCp7wPdd64UuI=
 		</data>
 		<key>GreyButton.png</key>
 		<data>
-		p/cVaFaCgM+8csZLxi8i3h3SIGs=
+		GDiWTj0fXWxcvWL5sTmQXXz4au8=
 		</data>
 		<key>GreyButton@2x.png</key>
 		<data>
-		y60DcYMq7zyUOwykOBX6e/5wRMU=
-		</data>
-		<key>GreyButtonTap.png</key>
-		<data>
-		nKXE8L2CWAVHZgmXj2dR7P4GrHc=
-		</data>
-		<key>GreyButtonTap@2x.png</key>
-		<data>
-		N3S1PI22qiFMZ+PJusD0RpheGmM=
+		6EcJJfaDX6T2iikNI7ka1u1qdm4=
 		</data>
 		<key>GreyLoaderDot.png</key>
 		<data>
-		zww3vZdEc4bMQb5bm3JPEa8lc9E=
+		No2bMy5VMygDTgxD/NlKi+Ug120=
 		</data>
 		<key>GreyLoaderDot@2x.png</key>
 		<data>
-		ZRRmWT7iGPotrk17a87IWaPgJlk=
+		Fi1Y2oAoBoGANuK540vZUYi0RPw=
+		</data>
+		<key>GreyPill.png</key>
+		<data>
+		SNxHe8k5cvYvjbegitzSkJtNAVk=
+		</data>
+		<key>GreyPill@2x.png</key>
+		<data>
+		IbGiTDC1HJFl4LVtsPgBqZbI8Bg=
 		</data>
 		<key>Grid.png</key>
 		<data>
@@ -642,27 +714,31 @@
 		</data>
 		<key>GridIcon.png</key>
 		<data>
-		/U2eSi28P6wWnsnTiuC7fkwtOrk=
+		Sic+wbcTFWR1Ejebn4WMECuq/Ik=
 		</data>
 		<key>GridIcon@2x.png</key>
 		<data>
-		gacqlXV3fV0FZwcxyUilZ33vaIY=
+		/7B/jpZpjmGePj0oFRnYDobwHrQ=
 		</data>
-		<key>HighlightShadow.png</key>
+		<key>GridIconActive.png</key>
 		<data>
-		8GDOnDTO6vsE1OdLOP67Ck4DgQA=
+		c1WV8CHq3kTsEz/oajzMheGEIVs=
 		</data>
-		<key>HighlightShadow@2x.png</key>
+		<key>GridIconActive@2x.png</key>
 		<data>
-		hvLRE8MFWpsqEOnOlBe7GmZKfNs=
+		+kIKQHFx8GMlg+tLYF/lSzUCxt8=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		X9ef9OhzqVNxLUnIUPxbkvd6Xes=
 		</data>
 		<key>InsetSadFace.png</key>
 		<data>
-		x8uRXQ3zR4LSHEu0WSa3QGhxcX4=
+		F2Cor9ulMTPniQ748No/hvUu4xQ=
 		</data>
 		<key>InsetSadFace@2x.png</key>
 		<data>
-		A7HWNhtMYXsrkf/qJ2GljG4P4Y4=
+		NP5DVbYYdguGrCQNFsDjk3Zdw1E=
 		</data>
 		<key>JetSetterLocationIcon.png</key>
 		<data>
@@ -686,83 +762,111 @@
 		</data>
 		<key>KeyboardMention.png</key>
 		<data>
-		hSmn6pqauQdRY3/c9/m4HkOURBw=
+		fWgtaAqCwFXkFzVEa1K5GU+l9ms=
 		</data>
 		<key>KeyboardMention@2x.png</key>
 		<data>
-		1AyDQ3U0q3PyZpNWobEuAGiHjU4=
+		YwAurvkIXsHd2Wv/VFwcfKDX4QI=
 		</data>
 		<key>KeyboardMentionActive.png</key>
 		<data>
-		ns+4gIV9A9BVrh4/vcSgoej66F0=
+		7S3WGK0F97FEMNUUNgs06HlHIss=
 		</data>
 		<key>KeyboardMentionActive@2x.png</key>
 		<data>
-		9mFrnI2o6BGvQX0kiKglMC+Vlb4=
+		f2kR/pWzGdpE1SaM9eIcOl5xF+M=
+		</data>
+		<key>KeyboardMentionActiveIOS6.png</key>
+		<data>
+		xCowdl1t+VomVIuwzrsYi3GT2Y4=
+		</data>
+		<key>KeyboardMentionActiveIOS6@2x.png</key>
+		<data>
+		0fxejBXwP4UT2fqf79grND/zB9w=
+		</data>
+		<key>KeyboardMentionIOS6.png</key>
+		<data>
+		/oZ7qzwH01zYgyIFH/fyaePpfPI=
+		</data>
+		<key>KeyboardMentionIOS6@2x.png</key>
+		<data>
+		Khw5vgeZwvWcBqe0Ue4vhjQ9EfA=
 		</data>
 		<key>KeyboardTag.png</key>
 		<data>
-		TgsN0CnaWGRHhl/iBBI7ba7ghXw=
+		0XztTM3BM6O6nJ1Ei84KS6uztCo=
 		</data>
 		<key>KeyboardTag@2x.png</key>
 		<data>
-		oqvifGgWLehAoRV0FImILriRlrU=
+		e9ZamckRKmjjo/gQ4DpPvGo905k=
 		</data>
 		<key>KeyboardTagActive.png</key>
 		<data>
-		APZLqn9tl03OKhbYkOnubGDjnWY=
+		xZYV7YR8U/v6x/Dn5rVxxNfQ9n8=
 		</data>
 		<key>KeyboardTagActive@2x.png</key>
 		<data>
-		/6zasBvNMt0bi+W1YoqLAFyuJfg=
+		G/nlHCYCfqGIyTp6m/Dh3KRRp8k=
+		</data>
+		<key>KeyboardTagActiveIOS6.png</key>
+		<data>
+		zORCYE6VSYKiKCIsi3tiWzAg90A=
+		</data>
+		<key>KeyboardTagActiveIOS6@2x.png</key>
+		<data>
+		OANLaRc2wM/Ga2/cHyf+ripudYA=
+		</data>
+		<key>KeyboardTagIOS6.png</key>
+		<data>
+		9iixWKhwOMJ9hkDyNP7ah+bxyfg=
+		</data>
+		<key>KeyboardTagIOS6@2x.png</key>
+		<data>
+		CDquFnaHNWX7Dd3JDouJo56LNaM=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
-		1KSCCnsg0YwEZziNKj7dbacsBTI=
+		5TKYBi0f2FZwBjVa7cMJzed+gkk=
 		</data>
 		<key>LaunchImage-700-568h@2x.png</key>
 		<data>
-		1KSCCnsg0YwEZziNKj7dbacsBTI=
+		vJYJPnoo9dARpBLZ+BIwTpEs5WE=
 		</data>
 		<key>LaunchImage-700@2x.png</key>
 		<data>
-		ThiOhKkzUt2JIoanIEOagMfZzi4=
+		FwqIBrMzkmf55yLdGXM/W0r5ng8=
 		</data>
 		<key>LaunchImage.png</key>
 		<data>
-		JHeehmoT0R9hpl1qk38Wbbev2UQ=
+		ozoxk3uE+YF/J2dB66kyhhZHIr0=
 		</data>
 		<key>LaunchImage@2x.png</key>
 		<data>
-		ThiOhKkzUt2JIoanIEOagMfZzi4=
+		GIfmSLrWb/CkTYUyyiSlC7LJu54=
 		</data>
 		<key>LikeButton.png</key>
 		<data>
-		mVRKcs0D/utqD5qqe154Oinjpr0=
+		BR7kC0VYPqSBcsaNsiiqFDpv+Ms=
 		</data>
 		<key>LikeButton@2x.png</key>
 		<data>
-		Zu2f4WyWxh5pXY/YJKY6LluOZX8=
+		F7ZPa43vFU/o7H5c1NSEYDWK3Hw=
 		</data>
 		<key>LikePhotoCorner.png</key>
 		<data>
-		MS/5R9WrPvLJcT4VKx8/IKALk2E=
+		pm/wy2iCP3ZPv4dr5dGlaTerXPw=
 		</data>
 		<key>LikePhotoCorner@2x.png</key>
 		<data>
-		eho9J/MO/Jv8ogRUzA7vDhbr8+8=
-		</data>
-		<key>Localizable.strings</key>
-		<data>
-		aK05gXAZWJtsboTDrSRNStlTVF4=
+		+YHOEptON5bSGV8SNymRNi6tqWw=
 		</data>
 		<key>LocationIconOff.png</key>
 		<data>
-		Hu3tuEBnojrVhrl8xHBgylPibpY=
+		jP2Ch+ZcPKjQ35k0zjxoNFBdVto=
 		</data>
 		<key>LocationIconOff@2x.png</key>
 		<data>
-		SqW5t17olnnUjGMvG77ryomNW2M=
+		vTxBnowexBLb3v7CcJiIP9C3iCg=
 		</data>
 		<key>LocationIconOn.png</key>
 		<data>
@@ -772,197 +876,85 @@
 		<data>
 		2r8ai9RJppgQu0pZExKJktWnH9Y=
 		</data>
-		<key>LocationPin.png</key>
-		<data>
-		mGSA/7kxSHPmn9WDMvNrhHyE3zY=
-		</data>
-		<key>LocationPin@2x.png</key>
-		<data>
-		ppHMkAxon9NG2l08RasKS9xiRhs=
-		</data>
-		<key>LocationPinActive.png</key>
-		<data>
-		6DLyqqN153o3hmW8RTcXRGhBqTw=
-		</data>
-		<key>LocationPinActive@2x.png</key>
-		<data>
-		AB/ix0oxsD+TISWqdMm756owkcc=
-		</data>
 		<key>MediumSadFace.png</key>
 		<data>
-		ruuvLopk0UXH+2FB+JF1lGfXkuE=
+		+PoMA2L6ONI5kMdSMviGTrZUi7A=
 		</data>
 		<key>MediumSadFace@2x.png</key>
 		<data>
-		ThPkiuxY5+5t8aDqi1owbeAtEHc=
+		727HNTl4YWeLix4DkDTS72bZdZo=
 		</data>
-		<key>MenuBottom.png</key>
+		<key>MenuActivity.png</key>
 		<data>
-		EKcm8pcNX9kITqRGBKhEkU0joAM=
+		FHG/Jm0e50RD17himj3jC0Xgn1Q=
 		</data>
-		<key>MenuBottom@2x.png</key>
+		<key>MenuActivity@2x.png</key>
 		<data>
-		wUUdiLfOQX+9IzX9d33ejf/2slw=
+		jJ0C/Os7cX0H5RPEMfzrzrfld1g=
 		</data>
-		<key>MenuBottomPressed.png</key>
+		<key>MenuExplore.png</key>
 		<data>
-		ASBqPeULGdC9KmgnojFzz+NIPNE=
+		8lRDrtw1CzEKC/Kj1UehvWyu8rc=
 		</data>
-		<key>MenuBottomPressed@2x.png</key>
+		<key>MenuExplore@2x.png</key>
 		<data>
-		VI02niW/d0NUZvslOD9QJMuXgk4=
+		gYjQGgjja0E0SKUqoTNzR79zkBo=
 		</data>
-		<key>MenuFromActivityIcon.png</key>
+		<key>MenuHome.png</key>
 		<data>
-		d09qIwomrPD1BYd4WLnH90zwMZg=
+		JtFQBHQTEuFeKQOxsWtDaocuoFI=
 		</data>
-		<key>MenuFromActivityIcon@2x.png</key>
+		<key>MenuHome@2x.png</key>
 		<data>
-		7/xtHdrzUI9NpQFlIWkZf12HRkc=
-		</data>
-		<key>MenuFromActivityIconTap.png</key>
-		<data>
-		ejeJ29NwUf42wXxXpyWqK+36weg=
-		</data>
-		<key>MenuFromActivityIconTap@2x.png</key>
-		<data>
-		/Aau36Fy4cOQm4XkFwcbPMNZrDg=
-		</data>
-		<key>MenuFromExploreIcon.png</key>
-		<data>
-		Zlam4oZXpXUebmnEqWIHVkCj9sk=
-		</data>
-		<key>MenuFromExploreIcon@2x.png</key>
-		<data>
-		xC5Kr8alB4/xbQlciQejp/q0Www=
-		</data>
-		<key>MenuFromExploreIconTap.png</key>
-		<data>
-		pWuOVGMXGdz81tr4LGo1NTfgstc=
-		</data>
-		<key>MenuFromExploreIconTap@2x.png</key>
-		<data>
-		OvRoksuTUMT5NkDmuPLZMcFl//c=
-		</data>
-		<key>MenuFromHomeIcon.png</key>
-		<data>
-		a5aGhL2XdYVZDKew+V9J6oN5VWM=
-		</data>
-		<key>MenuFromHomeIcon@2x.png</key>
-		<data>
-		J/YlEA83VmlibTfVInkCQst8gj8=
-		</data>
-		<key>MenuFromHomeIconTap.png</key>
-		<data>
-		gYXVumNyWGlN4LMVfbpEN7rzclo=
-		</data>
-		<key>MenuFromHomeIconTap@2x.png</key>
-		<data>
-		USpGMlTW9BzbvqU+myIch8AK/0s=
-		</data>
-		<key>MenuFromProfileIcon.png</key>
-		<data>
-		5DzT/UrK8sOLdL5g+F+Db1/4KUg=
-		</data>
-		<key>MenuFromProfileIcon@2x.png</key>
-		<data>
-		rjGgEa3grYVg2aCLD8XaEq+wF3s=
-		</data>
-		<key>MenuFromProfileIconTap.png</key>
-		<data>
-		cmETxghBziKM/7wmgoMbmC/O8Yg=
-		</data>
-		<key>MenuFromProfileIconTap@2x.png</key>
-		<data>
-		bb77c5NPEqIhGOIJutNmJv5Acr8=
-		</data>
-		<key>MenuFromSettingsIcon.png</key>
-		<data>
-		kp3ZNXqcs8//s+aDUsQmp6ej7I4=
-		</data>
-		<key>MenuFromSettingsIcon@2x.png</key>
-		<data>
-		Hc2cxSer3ZUs9IYX5rwHfCYPIg4=
+		wA3WyK2njeChlCltTgGOxUF6Mws=
 		</data>
 		<key>MenuIconExplore.png</key>
 		<data>
-		gdZEGQlwwURNbIhOf4+JbGf9UgU=
+		tAigwjMOW2fZqDaok8PL8l/KL4o=
 		</data>
 		<key>MenuIconExplore@2x.png</key>
 		<data>
-		Se0aruwb3f9YSoz2+aPzeqvyQkk=
-		</data>
-		<key>MenuIconExploreTap.png</key>
-		<data>
-		WL0vWGQ23tJbewB0d5CiobXh/1o=
-		</data>
-		<key>MenuIconExploreTap@2x.png</key>
-		<data>
-		hEdRyCYnZhSPxV2GYKoVwnfnpWo=
+		N/Lx7W2pcfYYiBZHdjKUHAuL+as=
 		</data>
 		<key>MenuIconHome.png</key>
 		<data>
-		gzizUPL1swtI91FT3/RgMtgX8oE=
+		5JL7l1/uKr56gTgLZlYQNM+Qd7k=
 		</data>
 		<key>MenuIconHome@2x.png</key>
 		<data>
-		wrtyJvwwE8IZ/RxNgCVpR5a2+RM=
-		</data>
-		<key>MenuIconHomeTap.png</key>
-		<data>
-		JjdaSxxZKGUx6dTKrJoJ9PN6zwE=
-		</data>
-		<key>MenuIconHomeTap@2x.png</key>
-		<data>
-		hlrHYtxYdGb9ShweWHc16pGoz6Y=
+		PqRaaybqJqpKQu23r72MJji88Ic=
 		</data>
 		<key>MenuIconNotifications.png</key>
 		<data>
-		xqrhOwpcDnAzFPWUZFY1LOc+xwQ=
+		Wi24bsXG8haNkE4njdf9aeaqw5g=
 		</data>
 		<key>MenuIconNotifications@2x.png</key>
 		<data>
-		2/Ely5XhRxJo3XDVjr5fJ9cRhsY=
-		</data>
-		<key>MenuIconNotificationsTap.png</key>
-		<data>
-		EqJt+/AebSGDyJuf9LflDckv/A4=
-		</data>
-		<key>MenuIconNotificationsTap@2x.png</key>
-		<data>
-		tRNX1V9OAxdO/TXklLMyAfuNb2Q=
+		YR3yAflbSC8ru4sZwpTWD+QgGlg=
 		</data>
 		<key>MenuIconProfile.png</key>
 		<data>
-		uX7dyix0Wf5uIGYqntxMcqWhX7k=
+		Hdu2xkvVqoWV2p19V3c6Ak8U3iQ=
 		</data>
 		<key>MenuIconProfile@2x.png</key>
 		<data>
-		dKhFjWnXqDv8d+neFn8RneeO8C4=
+		2OByT3Bmfdiz7oa7bUgYCtRhCbo=
 		</data>
-		<key>MenuIconProfileTap.png</key>
+		<key>MenuProfile.png</key>
 		<data>
-		yP8IGRQToKFEbW1888gV5nwsF30=
+		a24MPaWskSrCWjKZfxkhX6Iq1h4=
 		</data>
-		<key>MenuIconProfileTap@2x.png</key>
+		<key>MenuProfile@2x.png</key>
 		<data>
-		ClVCCP+FH2OfoDHioj04i+UDK8c=
+		377Fp2/z0prgNEms3k1edxvNbME=
 		</data>
 		<key>MenuSeparator.png</key>
 		<data>
-		uN9lgIqkPRuKCYlJmoddF6Pd2rg=
+		jGuYgHbldkwo2Jrpu82L9LpneXg=
 		</data>
 		<key>MenuSeparator@2x.png</key>
 		<data>
-		GfIMLhIGTT5adIqC7rQ8r+Njg/A=
-		</data>
-		<key>NSFW.png</key>
-		<data>
-		bKZgak72rrFQkobO5fKTZpEYmQk=
-		</data>
-		<key>NSFW@2x.png</key>
-		<data>
-		IQs4xwfMCnMAMyXeydqVpF/eGVw=
+		SGf8gWf2MfpSrTCkue2p3BiSDWc=
 		</data>
 		<key>NatureLocationIcon.png</key>
 		<data>
@@ -986,11 +978,11 @@
 		</data>
 		<key>NavBar.png</key>
 		<data>
-		tu9Jrwsop+Dagd6TscZ6yrCUOAI=
+		7+CcEKyfeoMuUuR0vCk4PaNpLys=
 		</data>
 		<key>NavBar@2x.png</key>
 		<data>
-		QOE2tuOYbok+osJM1knx8jLoE+8=
+		wd+CunPJAT5SwW+Mc7zAxNW4iLo=
 		</data>
 		<key>NightlifeLocationIcon.png</key>
 		<data>
@@ -1014,11 +1006,11 @@
 		</data>
 		<key>NotificationsBubble.png</key>
 		<data>
-		YaDglVXYNDfb/XhR9V7bTKGUy3o=
+		N3c6qM3ZMR6RFFOrinnN9ECb1jQ=
 		</data>
 		<key>NotificationsBubble@2x.png</key>
 		<data>
-		ndY8weXnIriCM/xEB0cw3iiNyGY=
+		eF0OHW0CmaaCps8MTOhnaT2s+7Q=
 		</data>
 		<key>OfficeLocationIcon.png</key>
 		<data>
@@ -1042,63 +1034,63 @@
 		</data>
 		<key>OptionsButton.png</key>
 		<data>
-		oCGkVeCl/ywPsumORGTaXF055ms=
+		UU88ZB6Fu6g9+ImpFtXaX83YVR8=
 		</data>
 		<key>OptionsButton@2x.png</key>
 		<data>
-		7HfrXvcEOB4k7jajyenr+vLcm2Y=
-		</data>
-		<key>OptionsButtonTap.png</key>
-		<data>
-		RaFBTggOY7uduget+OC/BJgjOUM=
-		</data>
-		<key>OptionsButtonTap@2x.png</key>
-		<data>
-		yAfq9a9On6ujrLblsDZlfCkjECM=
+		ZF25x24AR/cAcIgn0Lp1sUEBtTg=
 		</data>
 		<key>PeopleIconOff.png</key>
 		<data>
-		zSaHhU0sp6mTr6aW2dhDdUzCmzc=
+		bd96OYWU9fMQYqz8YV6PfL60JpM=
 		</data>
 		<key>PeopleIconOff@2x.png</key>
 		<data>
-		YB11U2zZu/gnzOzL5QKNrWtMNFE=
+		JNjNpTI86y++GdMtpEZOnOXR8Es=
 		</data>
 		<key>PeopleIconOn.png</key>
 		<data>
-		W5af4j/lxnJxlzqIxJY+97gv4zY=
+		NKodR3cMFBjqRyZ1vqj7qox5m9M=
 		</data>
 		<key>PeopleIconOn@2x.png</key>
 		<data>
-		m8g7+f+1MOyTRKSzQ4ZFBndfb6E=
+		s/r0lJztgsPTn3AJ+rj75Q2OQJo=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>PlayButton.png</key>
+		<data>
+		Af963ry2uZ3x9/r0hLP/+OetFp8=
+		</data>
+		<key>PlayButton@2x.png</key>
+		<data>
+		6Heihwcsghi8cyZ8Ve6m7Bd9XlU=
+		</data>
+		<key>PlayButtonClip.png</key>
+		<data>
+		DnRFkAKquBYY2IwflF5xb4gOUuE=
+		</data>
+		<key>PlayButtonClip@2x.png</key>
+		<data>
+		/GPVW8DalS5KnNVAcSkLXU692Ik=
+		</data>
 		<key>PostInfoSeparator.png</key>
 		<data>
-		5BzMEVwG35HHbKYXBDgEDHTyNgA=
+		DVmB4RvMCmSpPwkg4T8bLYLlEyw=
 		</data>
 		<key>PostInfoSeparator@2x.png</key>
 		<data>
-		pZbIpv9J1lwduyFgo/4oyH6zmhQ=
-		</data>
-		<key>PostLocationPin.png</key>
-		<data>
-		CFvEo/9vKgNqjmS/tp4+nvUx78Q=
-		</data>
-		<key>PostLocationPin@2x.png</key>
-		<data>
-		LZjIo6yVnSaOgPBJnmEuxlyigUo=
+		EsyMF1FNxKhMRpLwkjr+sy0AO6o=
 		</data>
 		<key>PostSeparator.png</key>
 		<data>
-		NFdONYbHKEWutf51CRrZj9rBo58=
+		i9Ugma0/6TD/1iH8m4+wjzxiN7Q=
 		</data>
 		<key>PostSeparator@2x.png</key>
 		<data>
-		bmLZ6Til+suqFgrULCoFF7Na/GI=
+		UgXnFsp1RDGkIivBLv0VCBa1pBU=
 		</data>
 		<key>PoweredByFoursquare.png</key>
 		<data>
@@ -1108,245 +1100,257 @@
 		<data>
 		pE1DM71GhxXmr6kxUn2Dko4ZM4w=
 		</data>
+		<key>PrivacyCheckButton.png</key>
+		<data>
+		UQBez4x9nWJtk6En+5EutXblhSA=
+		</data>
+		<key>PrivacyCheckButton@2x.png</key>
+		<data>
+		bL1GvBJuUsJNpvxk/103iKDmt10=
+		</data>
+		<key>PrivacyXButton.png</key>
+		<data>
+		/YmU2dToo3x2BVVvHRcR9Ya33kI=
+		</data>
+		<key>PrivacyXButton@2x.png</key>
+		<data>
+		X+FcV1LcZIic9Dy3o9xwubpnBIs=
+		</data>
 		<key>PrivateGrey.png</key>
 		<data>
-		o7u3p62NiaLVQu/ulEfTythnCQI=
+		lev4K+9rFFU6nhTnzhYGlAEC5QY=
 		</data>
 		<key>PrivateGrey@2x.png</key>
 		<data>
-		BoIN7AA6Sx4R8rrJJydA8xeF8Gc=
-		</data>
-		<key>PrivateGreyArrow.png</key>
-		<data>
-		eLbjpAIr+Wr8QF+KmVoqPVLuGhs=
-		</data>
-		<key>PrivateGreyArrow@2x.png</key>
-		<data>
-		5VLOiOodkuvt5Y7eelU49tK8/bU=
+		ITlgs/8GTa3UYwmHvMatKnFUzUE=
 		</data>
 		<key>PrivatePostThumb.png</key>
 		<data>
-		xTf7oBzQJjuG2Q8wJ1VUv8OVcNY=
+		6q8Xe9CxU9m1VWzoi6/jJumQz4Q=
 		</data>
 		<key>PrivatePostThumb@2x.png</key>
 		<data>
-		Cnli1apRbtDh8PCkM2FQ8f+WuHY=
+		Nmc4gMX1mvFlXfdOk47LZs3SmCI=
 		</data>
 		<key>PrivateYellow.png</key>
 		<data>
-		4VPDIfXpAzp/9rHHwZgjMl1qjQs=
+		FgDmrmC59xTAtqept+e8NrDmjqs=
 		</data>
 		<key>PrivateYellow@2x.png</key>
 		<data>
-		rxjFDfKuVCY7xlPGRbXSj3Ck09I=
+		pv8t0K5HGq+0wG7Ul0XEYjyZFnI=
 		</data>
 		<key>ProfileFollowButton.png</key>
 		<data>
-		+FKMhGKp4C8R2pmdqa4DUAn1SEk=
+		P2HZl+k355u3GynVE8X7He7HhG0=
 		</data>
 		<key>ProfileFollowButton@2x.png</key>
 		<data>
-		XODhmnME03cWI1dWPZwk9Ad0WFg=
-		</data>
-		<key>ProfileFollowButtonTap.png</key>
-		<data>
-		L9s/9uirZInoxnjd9Kw3ROI0lmQ=
-		</data>
-		<key>ProfileFollowButtonTap@2x.png</key>
-		<data>
-		vbJjS0YLJv2J3s7AT1yjNF2fXps=
+		7bTzut2APErGvUGmRfm0hS2xuzQ=
 		</data>
 		<key>ProfileFollowingButton.png</key>
 		<data>
-		IDcYqFVQhP/Vk1yXFqW+0B5EdO4=
+		q9yInWsxFyHR3MchauIF9GRAK00=
 		</data>
 		<key>ProfileFollowingButton@2x.png</key>
 		<data>
-		xq/IbjWwXu5/Ok4ynmyhwIQOW/E=
-		</data>
-		<key>ProfileFollowingButtonTap.png</key>
-		<data>
-		4AkAmuRLe0mU+hzJFYgHqe/kCwk=
-		</data>
-		<key>ProfileFollowingButtonTap@2x.png</key>
-		<data>
-		EP7rPEmrJyViZNyBh/lzflnULRU=
+		T5WSSLIhI3tCsVXKkE7/oKWTQg4=
 		</data>
 		<key>ProfileLock.png</key>
 		<data>
-		1HofJfn3ExXMGUaOYWxkiOPfKJk=
+		ZAJtwB/MUgIJOToGyjkzeZ7QMfA=
 		</data>
 		<key>ProfileLock@2x.png</key>
 		<data>
-		BGw+oboOCTDgWwaFlWMcxDDf38Y=
+		TKwG+GGggRcIjKNYnaakVPNz0LQ=
 		</data>
 		<key>ProfileLockSmall.png</key>
 		<data>
-		Prrdgf+Crf/6+DYIv49IW4sWwFo=
+		lK9bih1H4gZMumdjVGUHrn2wLX8=
 		</data>
 		<key>ProfileLockSmall@2x.png</key>
 		<data>
-		a3jEByvxNut0pOMqlBRY2WDmQQQ=
+		4QMU3ebWmUjqSw7O1geOi6oI3GA=
 		</data>
 		<key>ProfileOptionsButton.png</key>
 		<data>
-		Uw+C+8XNnQfBaAbbNsgIkopLX+o=
+		zHR3vUAL3jaLh53bT4cUI7JIpig=
 		</data>
 		<key>ProfileOptionsButton@2x.png</key>
 		<data>
-		iNEuS7L9qX2zf0cooXsyZ1yjQD4=
-		</data>
-		<key>ProfileOptionsButtonTap.png</key>
-		<data>
-		kpK3XZ2IEoBemhirR0kSNcCVBDc=
-		</data>
-		<key>ProfileOptionsButtonTap@2x.png</key>
-		<data>
-		VdvRixB50vh2tnF6Z/m3ppkfIDY=
+		VpZ0L1F+IIZwRaVKnxS7/1x9BAE=
 		</data>
 		<key>ProfilePhotoFrame.png</key>
 		<data>
-		MruS4OwY+Z/t1uHLwblekUaMSsM=
+		nLRmgnepwcEWflbIFyiCCp/+eKQ=
 		</data>
 		<key>ProfilePhotoFrame@2x.png</key>
 		<data>
-		Y9/V7oKzOx0nqVxw7B2eYXkl7FI=
-		</data>
-		<key>ProfilePhotoShareIcon.png</key>
-		<data>
-		ed8FagUwIV2hiDAaM+hH2IcPkBM=
-		</data>
-		<key>ProfilePhotoShareIcon@2x.png</key>
-		<data>
-		mPVvQ7FBUwQqcOSOAf+FWeE92Ok=
-		</data>
-		<key>ProfilePhotoShareIconTap.png</key>
-		<data>
-		SpGrXs6nQqSvmODE3fmCaGy56h8=
-		</data>
-		<key>ProfilePhotoShareIconTap@2x.png</key>
-		<data>
-		eFsxest3LLHhA/a6xRBj+YKmcVU=
+		RxIIY8RdjKOPDS5sNbBX5wTZTy0=
 		</data>
 		<key>ProfileSettingsButton.png</key>
 		<data>
-		tM0uPtkPK5qARXXngvcnqzu1SAg=
+		r/V1fTG2O9sysbI1qV5IKrbNlwg=
 		</data>
 		<key>ProfileSettingsButton@2x.png</key>
 		<data>
-		SSVTEdC2Iv3uGra5f+oX365gTa8=
-		</data>
-		<key>ProfileSettingsButtonTap.png</key>
-		<data>
-		wDvesCxVRyqbDb/W6q3OdQj9cos=
-		</data>
-		<key>ProfileSettingsButtonTap@2x.png</key>
-		<data>
-		25qR7fJy9NqJADvdzP7MzkVGMks=
+		sOh7z/omU6RHXSl6GcIcwh+AOGM=
 		</data>
 		<key>ProfileTabLeftOff.png</key>
 		<data>
-		9r21w/b2dIOjHujCUFLVlvY5VTc=
+		kxsFlVdQiID+cmdUrn2cfLvE8fM=
 		</data>
 		<key>ProfileTabLeftOff@2x.png</key>
 		<data>
-		PYW0n/n9oGgxUlhKysDU9Fg2bb8=
+		9Qg3BgwC120BI5hZsSTvhBs9+CA=
 		</data>
 		<key>ProfileTabLeftOn.png</key>
 		<data>
-		y4QqeojIDgRAsZWs4Gcpgmtmw/s=
+		IqAT78ETr++XxgDy/bUe6QQXf3E=
 		</data>
 		<key>ProfileTabLeftOn@2x.png</key>
 		<data>
-		JE04ff2Cy+Ns24ugILOkwAnRFG0=
+		NjXsRaS8H4Dx+QkY8/J7+1UNSbM=
 		</data>
 		<key>ProfileTabRightOff.png</key>
 		<data>
-		QG9PhvzQ5fYKmG4HcQ/M1KPOjZ4=
+		hU82ObTYGb/oSGsK+lm4Va2ERxY=
 		</data>
 		<key>ProfileTabRightOff@2x.png</key>
 		<data>
-		cUPy9FxY/dq+/p9tHtrqqNtcK84=
+		tuHr7FhbcNIN456RUhvZFd9AOuw=
 		</data>
 		<key>ProfileTabRightOn.png</key>
 		<data>
-		dsb1HLtkdv2RaDJetYiRXl+iPWA=
+		Wm8kBrQkemBcfGRSKWBfqRVnVFg=
 		</data>
 		<key>ProfileTabRightOn@2x.png</key>
 		<data>
-		Y/4Cl2RRNFlz74LfMqBNBjdqurQ=
+		3KLEtiv8VFytL9tCm6Scost2br0=
+		</data>
+		<key>ProgressBarLarge.png</key>
+		<data>
+		76IRtZfTGi4IYs+3eD3JkVx5jME=
+		</data>
+		<key>ProgressBarLarge@2x.png</key>
+		<data>
+		1aXBU1+807RxWSAdDivRVvdvTf0=
+		</data>
+		<key>ProgressBarSmall.png</key>
+		<data>
+		vrKo3y1SfP3AXoIckafNYArY+qc=
+		</data>
+		<key>ProgressBarSmall@2x.png</key>
+		<data>
+		OyFQd1Vy+T7I1Cvid+JlOgiRxeM=
 		</data>
 		<key>PullToRefreshSingleArrow.png</key>
 		<data>
-		bXa9j/2mNUbaLV+d3sAGVYDVdL4=
+		vVQ5SCc0vnmT1ZosG85UXDg/soI=
 		</data>
 		<key>PullToRefreshSingleArrow@2x.png</key>
 		<data>
-		4Y4w+nmLf7hHMXJc0cZntkgbtTI=
+		JdcjIwQTcrSgOZUxMxgdhVfpdyo=
 		</data>
-		<key>RecordCheckButton.png</key>
+		<key>ReadMe.txt</key>
 		<data>
-		T/HloeYKQZ9SNWGXncaRyEliGQQ=
-		</data>
-		<key>RecordCheckButton@2x.png</key>
-		<data>
-		QNqQnXxXIE1df0WS0WfvLc88iYc=
-		</data>
-		<key>RecordCheckButtonTap.png</key>
-		<data>
-		BGuG4YWAuogSPMph8YDfn1mA3WA=
-		</data>
-		<key>RecordCheckButtonTap@2x.png</key>
-		<data>
-		b7g6wysOFHz4aFVM7PrhRDJ5m84=
+		8qIBADxlTriNxr8PvYsm3FvvNik=
 		</data>
 		<key>RecordIcon.png</key>
 		<data>
-		+J8uAast+6A7zIUjpaVF8XHb66M=
+		3Z/k/DPLHCiurkJq7jEDEouhf0I=
 		</data>
 		<key>RecordIcon@2x.png</key>
 		<data>
-		VDHEzWb9MdtgKObI+x7OEu/k4xY=
+		h1eH6AGcR5UKy93BMRGnwBN+nVg=
 		</data>
-		<key>RecordIconTap.png</key>
+		<key>ReleaseIcon29x29.png</key>
 		<data>
-		masCDbFNi3DyRTFsimSYCIUo85g=
+		trqzC5BZShzIr+O8ZWHeYLMD9Vs=
 		</data>
-		<key>RecordIconTap@2x.png</key>
+		<key>ReleaseIcon29x29@2x.png</key>
 		<data>
-		ks+becpwtWFKBkCNnRKDDk4DHUE=
+		DjRzUc/OD5EdtaQTqElVd397OVc=
 		</data>
-		<key>ReportComment.png</key>
+		<key>ReleaseIcon29x29@2x~ipad.png</key>
 		<data>
-		fjVnxPu5pYNAR/ncxDv9apq3/cE=
+		MPPnHpUxkPobg1y7RABv8s34o14=
 		</data>
-		<key>ReportComment@2x.png</key>
+		<key>ReleaseIcon29x29~ipad.png</key>
 		<data>
-		ecJ0ou/rM+IVZgU3NAlckT7OQVs=
+		AjLY0FKLNP70Tckw5wttZwJam4E=
+		</data>
+		<key>ReleaseIcon40x40@2x.png</key>
+		<data>
+		hOESiNgCya4tFfxYnxKYb0nYCIw=
+		</data>
+		<key>ReleaseIcon40x40@2x~ipad.png</key>
+		<data>
+		+t6b0ntTg9zc9mH8YkA37PZrJzE=
+		</data>
+		<key>ReleaseIcon40x40~ipad.png</key>
+		<data>
+		fAvdAtkhrdqGR/0oQOWSSnlexs4=
+		</data>
+		<key>ReleaseIcon50x50@2x~ipad.png</key>
+		<data>
+		8GOdezF0wIWFCE/qvrVnn86iAVY=
+		</data>
+		<key>ReleaseIcon50x50~ipad.png</key>
+		<data>
+		LhLGypsl4efjPFjgxeR1clXvRRw=
+		</data>
+		<key>ReleaseIcon57x57.png</key>
+		<data>
+		KhOd5dmS02uJ9ArRhY+RGDP/5bc=
+		</data>
+		<key>ReleaseIcon57x57@2x.png</key>
+		<data>
+		x1Fa5Urxg+EVZtYhmiL0yuf0Z/4=
+		</data>
+		<key>ReleaseIcon60x60@2x.png</key>
+		<data>
+		+S9wSgO0II+eXJ72wDPhfUQ4ZFc=
+		</data>
+		<key>ReleaseIcon72x72@2x~ipad.png</key>
+		<data>
+		MJ27WJwRpTshpjgab+BHeuze1es=
+		</data>
+		<key>ReleaseIcon72x72~ipad.png</key>
+		<data>
+		T7p5obfbzp8ygx7ed8tzeoMh6fc=
+		</data>
+		<key>ReleaseIcon76x76@2x~ipad.png</key>
+		<data>
+		5ISXzX1KVsJzG7wc8tcwVbam8OY=
+		</data>
+		<key>ReleaseIcon76x76~ipad.png</key>
+		<data>
+		LsruZjvV41LOde4+FuVwvCV977A=
+		</data>
+		<key>ReplyComment.png</key>
+		<data>
+		BVDE/kisYZdi69awwGiSR7rZ9XE=
+		</data>
+		<key>ReplyComment@2x.png</key>
+		<data>
+		h7RFEAkRebz8nxbvM0dOuyDBdGw=
 		</data>
 		<key>RepostIcon.png</key>
 		<data>
-		FOigy4lfO6wWpNb4fQWyq/Ov5y8=
+		Fow6rGQ12JqN1Pk4D+ldjS4O3HI=
 		</data>
 		<key>RepostIcon@2x.png</key>
 		<data>
-		cP5CeeL4MDMZ+vRwuJj7AoMOYHA=
+		nnzptmNAg7FXWyYFd7BAM0GqXi8=
 		</data>
 		<key>RequestedButton.png</key>
 		<data>
-		HkZIiTPohm/sdJ76tTYUXimMuMo=
+		+JMTmtohK71Fw1PjPEEfG2TQuw0=
 		</data>
 		<key>RequestedButton@2x.png</key>
 		<data>
-		5kVhb+zU3HbabVevJbjB2Ty3Ysc=
-		</data>
-		<key>RequestedButtonTap.png</key>
-		<data>
-		RXEsWOThu9lhh+qpQ/r0ttVAJmQ=
-		</data>
-		<key>RequestedButtonTap@2x.png</key>
-		<data>
-		k+9BAyC98UxJltIECo48Cvwgu+k=
+		drK5ELhxm63I5z7Ebm3N/JMLaNg=
 		</data>
 		<key>ResidentialLocationIcon.png</key>
 		<data>
@@ -1367,6 +1371,10 @@
 		<key>ResidentialMainFeedLocationIcon@2x.png</key>
 		<data>
 		+h9E38MzFYGTE3puo/ICHjKQMI4=
+		</data>
+		<key>ResourceRules.plist</key>
+		<data>
+		d/bl2iIqxwOE4IBWAjyDLXJVwLo=
 		</data>
 		<key>RestaurantLocationIcon.png</key>
 		<data>
@@ -1390,19 +1398,11 @@
 		</data>
 		<key>RevineCorner.png</key>
 		<data>
-		JYhzjtikMdRl0J/66pqyG//0uvs=
+		BUu1/tcbHI4HgAP07XdLX6/P/Zs=
 		</data>
 		<key>RevineCorner@2x.png</key>
 		<data>
-		nIH39kkIYP3ikNi0jT+DqhajR+k=
-		</data>
-		<key>Rounder.png</key>
-		<data>
-		XJxIlZabl36bOJewaEtxM7Hbfxk=
-		</data>
-		<key>Rounder@2x.png</key>
-		<data>
-		PWdUwiMITQZvxD9++aKZVfB6UAs=
+		Xum0t+Fg3nhYnlUmc+OFr+lpP60=
 		</data>
 		<key>SVProgressHUD.bundle/error.png</key>
 		<data>
@@ -1414,195 +1414,131 @@
 		</data>
 		<key>SVProgressHUD.bundle/success.png</key>
 		<data>
-		B+zmanNGMWBIjaa1o/QZJr6lWo0=
+		13Uw/JN7f44Tktyp+ihXJItYAbQ=
 		</data>
 		<key>SVProgressHUD.bundle/success@2x.png</key>
 		<data>
-		DAOcVfIf8j0W1UgSQ/mRafe2clQ=
+		Ns3GJykvNcg+3Axl5YTAIln1L5c=
 		</data>
 		<key>SearchCancel.png</key>
 		<data>
-		6PaWGdD0idMxMgNIPSGYGLUQEWg=
+		Ph7fu9fNPQjGRwnHhYxdwa7lzeg=
 		</data>
 		<key>SearchCancel@2x.png</key>
 		<data>
-		QSKO2fyW9DHx0VNhbPI0E2/ba+Q=
-		</data>
-		<key>SearchCancelTap.png</key>
-		<data>
-		vpl7pso0aFpCnkIQ0yjrPtWN+WQ=
-		</data>
-		<key>SearchCancelTap@2x.png</key>
-		<data>
-		CTfmd572vL8vviTNmt+/zunFWro=
+		uvm3W7QJg020qN58xwGVDfOVn0k=
 		</data>
 		<key>SearchIcon.png</key>
 		<data>
-		VoBbxu4LP9fwmPXcv6gpSasp6j4=
+		xXy8Z41ctbgE+td0r2WZ2s17zus=
 		</data>
 		<key>SearchIcon@2x.png</key>
 		<data>
-		UliIMQA91s1J1DcPiDfu032gjuI=
+		rbA68g8MHP0EN9yXmTrsKwpYbek=
 		</data>
 		<key>SearchLocationIcon.png</key>
 		<data>
-		i3ezwLYkY6ENHnHrGT22jBjwPtY=
+		2NZuro1NG+MFiKJZWtjv5mlQL8E=
 		</data>
 		<key>SearchLocationIcon@2x.png</key>
 		<data>
-		u4sI+gO/Mx296ybVR1R6R0dtuL4=
-		</data>
-		<key>SearchPeopleIcon.png</key>
-		<data>
-		UyjdwOt8UZoeGy4uTGV97fQu4Ng=
-		</data>
-		<key>SearchPeopleIcon@2x.png</key>
-		<data>
-		9Zi/9TlweR57qZNQE83mlcIbVjc=
-		</data>
-		<key>SearchTagsIcon.png</key>
-		<data>
-		894KNgNhP2ilTzLc5chj90uiUYc=
-		</data>
-		<key>SearchTagsIcon@2x.png</key>
-		<data>
-		/8WZF3CZqlI4OOtDhibGlhUXyhk=
+		4mK0+HP9DYgzVkWhvGw0KD1fG0U=
 		</data>
 		<key>SendButton.png</key>
 		<data>
-		Z7kemWJBt+PtQ7nBt9hkDT0JKnI=
+		wX3EKbrlVzL5Iv03pd9PPClpRcc=
 		</data>
 		<key>SendButton@2x.png</key>
 		<data>
-		azUY4a2WcVMQfUwa07Kbq+3PF+Q=
-		</data>
-		<key>SendButtonTap.png</key>
-		<data>
-		g/NIvNYb1y9jh9dgNddwZ508eE0=
-		</data>
-		<key>SendButtonTap@2x.png</key>
-		<data>
-		xhnkRUgBYa1oOzQglvqYDpe1NZ8=
+		7tr62gffTne2oxsIC7WmFJGr2Ew=
 		</data>
 		<key>SettingsFormBottom.png</key>
 		<data>
-		KsjTsQh+BRYR9KB24h4eLLEJTYY=
+		oYcjz/qYJYaicwxWzdqGZQ4phxY=
 		</data>
 		<key>SettingsFormBottom@2x.png</key>
 		<data>
-		T98pUpxY7gn9G2++jZIs5lJR6IQ=
-		</data>
-		<key>SettingsFormBottomTap.png</key>
-		<data>
-		Ot3LXF2bf9sS+s5CxoadAYBp4Sw=
-		</data>
-		<key>SettingsFormBottomTap@2x.png</key>
-		<data>
-		RRkgRbRE+/WOEammXI4gjrVKwvA=
+		pCOICUJzev1O1Fhi0lmFkRSYUx4=
 		</data>
 		<key>SettingsFormMiddle.png</key>
 		<data>
-		yAZWfH0JQkoX6dYRFkRNY9R1sXc=
+		O5IIcUVUL+bIREWJDWmn/A5AdZI=
 		</data>
 		<key>SettingsFormMiddle@2x.png</key>
 		<data>
-		oh3HgQasXYNo2Qu2GYn/BEwxh1I=
-		</data>
-		<key>SettingsFormMiddleTap.png</key>
-		<data>
-		jXFH5v5HEdqUVHlWrKfIgSGXbKI=
-		</data>
-		<key>SettingsFormMiddleTap@2x.png</key>
-		<data>
-		C4lxnz4c0eNIZ+3NhLz1j1OqbQ4=
+		Jb91UpUsge4b7rb9amlIc4R5FEg=
 		</data>
 		<key>SettingsFormSingle.png</key>
 		<data>
-		Gdl5s3rktrRUhG21lxDS7nuHJow=
+		gsLJa7d4iS6643ivvQ3nzpsFEsE=
 		</data>
 		<key>SettingsFormSingle@2x.png</key>
 		<data>
-		Q2LnrZ/b/57sN0FoEQyRDh0bgfk=
-		</data>
-		<key>SettingsFormSingleTap.png</key>
-		<data>
-		FDfcCahY0VHh84Y5NrtLUb5wisA=
-		</data>
-		<key>SettingsFormSingleTap@2x.png</key>
-		<data>
-		2HScLx9F4/Ko679bNUTh2qgvXV0=
+		whZojDmakL5L4vHSi594W9rxvSU=
 		</data>
 		<key>SettingsFormTop.png</key>
 		<data>
-		ysu94PlpFW3iMt4v7ZC+Owh0V+4=
+		XSDmoddMwoTkRVpEVK31Jn+fPtw=
 		</data>
 		<key>SettingsFormTop@2x.png</key>
 		<data>
-		edkbtUaNsTOotV3FckgT6pbWGsk=
-		</data>
-		<key>SettingsFormTopTap.png</key>
-		<data>
-		gTVgFyc5pA/TFqj3rm3Dn+21OxI=
-		</data>
-		<key>SettingsFormTopTap@2x.png</key>
-		<data>
-		d5YBB72C3IQ0f4LMVWNUjkyARvw=
+		aUl76Yagqyhg804H6N5ymkR3kD8=
 		</data>
 		<key>SettingsLogOutButton.png</key>
 		<data>
-		0x0go6FT2YpzcLCx+2MqvAfpFiE=
+		qqPdGd4lSD47ycAKTcWfj0AKJJ4=
 		</data>
 		<key>SettingsLogOutButton@2x.png</key>
 		<data>
-		qooxAya8CSWjYZawb4VNfzOB0rM=
-		</data>
-		<key>SettingsLogOutButtonTap.png</key>
-		<data>
-		olmaNTG++W8xAMfhnAV6fJB8FR4=
-		</data>
-		<key>SettingsLogOutButtonTap@2x.png</key>
-		<data>
-		Q/qBNpjTl79gOukPNuwDjKX7Ptg=
+		U0ZnzUcnlucMAyWoX2v1cfgKzqo=
 		</data>
 		<key>ShareButton.png</key>
 		<data>
-		qtuaqrnmYTZ+P2/OlpRDttO6fLA=
+		5QILbha/sJibahZ8/9vKipgDCNc=
 		</data>
 		<key>ShareButton@2x.png</key>
 		<data>
-		2amL2AAKMixW4ITScoWjW0X3c88=
+		qi5FvjgkLs+NFH2xMU/mgr719jM=
 		</data>
 		<key>ShareFormBottom.png</key>
 		<data>
-		dgRG5oJ5va2d/VabqHxl/DAT9xw=
+		/o/NiZzJMNjepDNnuDpfw+tiNX8=
 		</data>
 		<key>ShareFormBottom@2x.png</key>
 		<data>
-		QfJVcZtD1U5XBtLaWg96Iiko0L0=
+		+Bk80nG01N640gsHrY8wdC5LORk=
 		</data>
 		<key>ShareFormMid.png</key>
 		<data>
-		jwlipBr1BY/oG49vTrdxfbgsD7w=
+		4ijqDz9KQCezS+R2S7QurPAv8e4=
 		</data>
 		<key>ShareFormMid@2x.png</key>
 		<data>
-		BptJnnvKvpJ8PeM+mea3vcFDLFA=
+		YYNoVn2JhCUyOJFhEgg0JZwCHoA=
 		</data>
 		<key>ShareFormTop.png</key>
 		<data>
-		D825ecgGtMEy2zky1CdF7Y79dMA=
+		XdEzMMQXxRRSc0GOqeY24pRs214=
 		</data>
 		<key>ShareFormTop@2x.png</key>
 		<data>
-		jVZ16BZjBdP5YXBju00PIersStg=
+		mGFdexg8EP/APfjL2PU66BKEoVM=
 		</data>
 		<key>ShareKeyboardBar.png</key>
 		<data>
-		klENJWXDBagvj0oV+zl8ideMRa0=
+		bv7Km1jA2c6MSnI9KgKqHxr2Gsg=
 		</data>
 		<key>ShareKeyboardBar@2x.png</key>
 		<data>
-		Yy4rXAOan+Sm871/FTMZCSoZdlE=
+		4MA3cfPy8W+N2kD+C7mvLrG9ZhI=
+		</data>
+		<key>ShareKeyboardBarIOS6.png</key>
+		<data>
+		Pch3q8ipPX/jvqXv9HwLv5DIUAY=
+		</data>
+		<key>ShareKeyboardBarIOS6@2x.png</key>
+		<data>
+		tsVG8ooepZtc08Verp5KGkvglkQ=
 		</data>
 		<key>ShopLocationIcon.png</key>
 		<data>
@@ -1618,163 +1554,123 @@
 		</data>
 		<key>SignInBackArrow.png</key>
 		<data>
-		rh9erzqQYZmIcu8r35bQ85hwWOk=
+		CSdNsu3ybK0QXdHQwZrbHZ/vfS4=
 		</data>
 		<key>SignInBackArrow@2x.png</key>
 		<data>
-		Xt3jOvblaPkfwMeQZF/HyP+4rak=
-		</data>
-		<key>SignInBackArrowTap.png</key>
-		<data>
-		z2sVm/I6hZ1ichKIkSOUU4hTMGk=
-		</data>
-		<key>SignInBackArrowTap@2x.png</key>
-		<data>
-		vMGzEL0gB6cmMDUp1hY5E2JSmC0=
+		g/ZeSD5TFTlxBPKpExumsNynp54=
 		</data>
 		<key>SignInClose.png</key>
 		<data>
-		njQfkAacmAtARv6HF1aPvVDqYBk=
+		5hTc3v0e1ID08WOZ45wdLe2D0aM=
 		</data>
 		<key>SignInClose@2x.png</key>
 		<data>
-		h7MYd+h/CEoY6tpEdpLvKq9vDoM=
-		</data>
-		<key>SignInCloseTap.png</key>
-		<data>
-		yLmIPPXlqVYT7pOOsyMYeJgROFc=
-		</data>
-		<key>SignInCloseTap@2x.png</key>
-		<data>
-		XY1CPPZnIX8hKIRzPkOLspu/MOw=
+		8fR8UevuhymOp4o+cGQL7WJE51s=
 		</data>
 		<key>SignInFormBottom.png</key>
 		<data>
-		24nq1dJRvODQvMw1WOg/pJ17R/Y=
+		vO2Lcm7bXFhs8Hd2PWBIiLmAieo=
 		</data>
 		<key>SignInFormBottom@2x.png</key>
 		<data>
-		E4DF6vusMr3eiLinkYMotvXxRbI=
+		t5/XI35oeoPBIQUll7Xrah4dues=
 		</data>
 		<key>SignInFormMid.png</key>
 		<data>
-		iOI6+zb+6MvmICZBIJjmBNa0zAs=
+		ZXf3nQTEQbAjVacX3JK0xewj1TI=
 		</data>
 		<key>SignInFormMid@2x.png</key>
 		<data>
-		U8bki07fPcQ0U7u4wK4P877ykjY=
+		yue2oidvwvYMS+fBh6ZNfmBU6QY=
 		</data>
 		<key>SignInFormSingle.png</key>
 		<data>
-		d5+e9zh1UkczVNjpip8iHsqqyg4=
+		WsfbfbbASnV+9q+Xg38JgE3C/NI=
 		</data>
 		<key>SignInFormSingle@2x.png</key>
 		<data>
-		TUKCBFZUdZQJ18aUVK15+54OEuc=
+		HQ+NdVjdpTSQA2Dmon8dX1YjFEg=
 		</data>
 		<key>SignInFormTop.png</key>
 		<data>
-		uIPn/UBJHsINxAi2D8llxmB1dPo=
+		zhIDQEKqNVKiC/+1vMZMMuG6mto=
 		</data>
 		<key>SignInFormTop@2x.png</key>
 		<data>
-		F5NstcdwMxlS5Iq988U4qmZoA14=
+		m1I31z0PEDHRp7PwMJQjVscZwt4=
 		</data>
 		<key>SignInGreenButton.png</key>
 		<data>
-		62kGnjggsrHSdGEDXGS+KkE8heg=
+		Ekr8og9qBNCssJpB3l+zBYokhxo=
 		</data>
 		<key>SignInGreenButton@2x.png</key>
 		<data>
-		8IQVA0oUteCmfxEjB5sCJ5PNbbo=
-		</data>
-		<key>SignInGreenButtonTap.png</key>
-		<data>
-		NVHVIlPhW0SlFwlDTcgaTtp3/Ek=
-		</data>
-		<key>SignInGreenButtonTap@2x.png</key>
-		<data>
-		I+hE6B6fZpHxsLms6tZwLFwnrls=
+		qioIbyplj2JF5EPBiUj6Z1kgQ7g=
 		</data>
 		<key>SignInHeaderGrey.png</key>
 		<data>
-		QtSMQB2MdTf7FN3mz3RdicE9pDU=
+		hQf3W7ulUEyY/AhckOHMhgTGyXk=
 		</data>
 		<key>SignInHeaderGrey@2x.png</key>
 		<data>
-		m98++wsHVxHJl0p99VABmxrpYQA=
+		u3q/l6zSHEabViznjwyxT0hzplY=
 		</data>
 		<key>SignInLogo.png</key>
 		<data>
-		6h0jqNKNPWnvoYY9X1RAbsyGWhg=
+		OeejGnHkGKSfTVmzFvv5NXPKmH0=
 		</data>
 		<key>SignInLogo@2x.png</key>
 		<data>
-		LERRKEuh2ugkdFbZmccZ5IwYjAg=
+		2vQJCOCd4lidTfn/Gk68yPGXDPY=
 		</data>
 		<key>SignInMailButton.png</key>
 		<data>
-		Qx9KmIWzJNiH7tk1P0j1wtJD8wA=
+		2kvrP71D/mCqpnn/9UTpLjIFoPs=
 		</data>
 		<key>SignInMailButton@2x.png</key>
 		<data>
-		1f8QfKm5GWEKoJj6J/VpMHglQ1Y=
-		</data>
-		<key>SignInMailButtonTap.png</key>
-		<data>
-		yWmO7lX6ycIh8fb1k7YrMmrHctI=
-		</data>
-		<key>SignInMailButtonTap@2x.png</key>
-		<data>
-		7jwqpWhiX3PUmPYLFczR3bb+JN8=
+		ZSCnEQAVsn4l8JfgJE1xpMorwrI=
 		</data>
 		<key>SignInNext.png</key>
 		<data>
-		00cCWXrBg7X0fXX9ivU3g5UEFek=
+		1U1F7IXWoPSXl53l7BgEzgKTSr0=
 		</data>
 		<key>SignInNext@2x.png</key>
 		<data>
-		dKTEpNWUxrOtnekQH1o3Tw5PFBs=
-		</data>
-		<key>SignInNextTap.png</key>
-		<data>
-		ACKckDuK2USo5TdlMdz/qEQSSQ8=
-		</data>
-		<key>SignInNextTap@2x.png</key>
-		<data>
-		Ip//ibwTR4uWvuPzSi4mt2um4DM=
+		hXcLQNQ502W721BHHZEv7Aq6E00=
 		</data>
 		<key>SignInTopBar.png</key>
 		<data>
-		V/ZUcazHCBCfM4HwIG1sMQiw2J4=
+		wEVQb0QoR6RVXXHArhDCfLEwYpc=
 		</data>
 		<key>SignInTopBar@2x.png</key>
 		<data>
-		V5gZmAIDCmnLLyGlORGfZR6iekw=
+		PcmuCRm6nEahSl/ev6f74Pwp44I=
 		</data>
 		<key>SignInTwitterButton.png</key>
 		<data>
-		6LWJnOBnPFuXJvCry+7VvX2uXPQ=
+		877VLd7O2hsqzD1A6H+WsdRvUNo=
 		</data>
 		<key>SignInTwitterButton@2x.png</key>
 		<data>
-		0vT7ebXxOLwmsoeCMxBBsgwy1rk=
+		WVuirO9Tln9pUpTgz5FIONX0iG0=
 		</data>
-		<key>SignInTwitterButtonTap.png</key>
+		<key>SmallCheckButton.png</key>
 		<data>
-		+9MeE9j5qcQSqwNydAm/gO386Cw=
+		V02kmStIzXKFIub9nSPPFNdhQmk=
 		</data>
-		<key>SignInTwitterButtonTap@2x.png</key>
+		<key>SmallCheckButton@2x.png</key>
 		<data>
-		r2Ci2YUNQsvHLz8KXuFeQs5vMKM=
+		rJXbJ4zAI3fMAjYa7ntScLJifeo=
 		</data>
 		<key>SmallSadFace.png</key>
 		<data>
-		kcP2pQJMTqz1qbTwbWeaAB90Hgg=
+		uGo1f1AcT0lhES+AhgRyCvtbzKQ=
 		</data>
 		<key>SmallSadFace@2x.png</key>
 		<data>
-		y6oI7zgBzgaRyGV3DK3mw8JnkBY=
+		aqzkM3yVk2xZsvFpw6S/eCBbv/8=
 		</data>
 		<key>SquareLocationIcon.png</key>
 		<data>
@@ -1818,19 +1714,11 @@
 		</data>
 		<key>SwitchFace.png</key>
 		<data>
-		vx1y+nOiJ44AhfHXzHx50G8Q4J0=
+		LHdE/C1ZGBwPV44x9vk0/Hd9WaU=
 		</data>
 		<key>SwitchFace@2x.png</key>
 		<data>
-		RMkxZNb64M+OpboEW5TUefeXT5g=
-		</data>
-		<key>SwitchInnerShadow.png</key>
-		<data>
-		Rtk2GX7j7vuMW1DUZYdNvpjZIv0=
-		</data>
-		<key>SwitchInnerShadow@2x.png</key>
-		<data>
-		TYghnPXqwgpX3xDAUxvUNeiahKE=
+		MZnP3S0E4vE58KtKbtH3Wdawf+M=
 		</data>
 		<key>SwitchOffImage.png</key>
 		<data>
@@ -1850,51 +1738,83 @@
 		</data>
 		<key>TabNib.png</key>
 		<data>
-		wV/f4pjR/WMAmjQvg249+OAb/cU=
+		7fSzGf/DOkBviOJjNKyfTToDy00=
 		</data>
 		<key>TabNib@2x.png</key>
 		<data>
-		Cu+RN+6dkDdvhYBms5oqVPBgEuM=
+		OH2PuJlvfYeKgkdI+H/NmX2IzMc=
 		</data>
 		<key>TagIconOff.png</key>
 		<data>
-		NExDJdRl4XQCAGeSV3zyiX+kTh8=
+		QZr933bN2MVmtc3Vx/wJPSzZvWQ=
 		</data>
 		<key>TagIconOff@2x.png</key>
 		<data>
-		uLfLOnrmfP+3ZubLxAt+/29KFrc=
+		jHAK4LyIz7a+tTn8HySQPAJWOYY=
 		</data>
 		<key>TagIconOn.png</key>
 		<data>
-		1qF/0GmpqnGLfsdC46x8g7zPPsg=
+		7uDNfI+Jds4c6Es283vVS0HfAho=
 		</data>
 		<key>TagIconOn@2x.png</key>
 		<data>
-		5lrhluPqdTCaxXPu2zKVUKK0wyY=
+		qxXQqnIITTJFli2mkcAmnKJckYY=
+		</data>
+		<key>TapToPreview.png</key>
+		<data>
+		hsTYueg3Oq+cSaCwj8622aYGOSs=
+		</data>
+		<key>TapToPreview@2x.png</key>
+		<data>
+		VEKLsWmtaTTjNQrY+VZ5ZPGm690=
 		</data>
 		<key>Textfield.png</key>
 		<data>
-		Ol8+37VsJZ/SS0Mg6OYr57AD4+Y=
+		R2QIVpgjFtdK2UvW+Ui+8FJMXu4=
 		</data>
 		<key>Textfield@2x.png</key>
 		<data>
-		xv1v3GXlNCwBFWuLm4N7bDKGRug=
+		hw1+YJpYTLpS/Rtxkve//eUBJQw=
 		</data>
-		<key>ToggleLeft.png</key>
+		<key>TimeTravelBar.png</key>
 		<data>
-		MN37odymatT0N0zKMQ2N+zMyUuI=
+		5JVbdBL50a/IEmZiIQMiwWlyk+4=
 		</data>
-		<key>ToggleLeft@2x.png</key>
+		<key>TimeTravelBar@2x.png</key>
 		<data>
-		9jLWkz87Uphck/S+Tq+T8gjAkZg=
+		+Dzf3w0DrDGeER8qHrjdvxisQ1M=
 		</data>
-		<key>ToggleRight.png</key>
+		<key>TinyCameraGrey.png</key>
 		<data>
-		tRA6yNsAAO52AdULuKWmrAe5nD4=
+		2OziU4ZZS9jt/PE1oOTEg8V0+kg=
 		</data>
-		<key>ToggleRight@2x.png</key>
+		<key>TinyCameraGrey@2x.png</key>
 		<data>
-		QC3JkTPhsKecGDEmPW3zQF8b4yI=
+		DKOo8GebuxDVFd2eCM7m66Li71M=
+		</data>
+		<key>TinyCameraWhite.png</key>
+		<data>
+		eKdjZntvD8BbOKmNgKbXu5tfshw=
+		</data>
+		<key>TinyCameraWhite@2x.png</key>
+		<data>
+		yQ10znqBK+f3/cdZhGpFq4m0XFg=
+		</data>
+		<key>TrashcanSmallGrey.png</key>
+		<data>
+		FwdiAH+Dlcny27g5lPQ8TlGMiTI=
+		</data>
+		<key>TrashcanSmallGrey@2x.png</key>
+		<data>
+		ZiuOhDdDu8YlvWBVC48/hlE8aU0=
+		</data>
+		<key>TrashcanSmallWhite.png</key>
+		<data>
+		M//vF1SWHTo+SnQfoBWpksO43B4=
+		</data>
+		<key>TrashcanSmallWhite@2x.png</key>
+		<data>
+		ZEvibq3DFDMSCH/CLYnHFFrI15s=
 		</data>
 		<key>TravelLocationIcon.png</key>
 		<data>
@@ -1926,19 +1846,11 @@
 		</data>
 		<key>TwitterButton.png</key>
 		<data>
-		uNx7uO/C2DLBs1lsXRGj9griuWM=
+		6Fu88u7nSPIkclZCuN5pFMX1SOY=
 		</data>
 		<key>TwitterButton@2x.png</key>
 		<data>
-		cDGH0s2caBy9LY1pyDn2ugsOHOA=
-		</data>
-		<key>TwitterButtonTap.png</key>
-		<data>
-		ZpwI+pfycH6P+tKN9ypn/nPxU4I=
-		</data>
-		<key>TwitterButtonTap@2x.png</key>
-		<data>
-		IUM+nEe/oeMf91Ml6zdDbo7Cer0=
+		P02UPxJ3NgMuGqu9w/46SpQJzAY=
 		</data>
 		<key>TwitterLocationIcon.png</key>
 		<data>
@@ -1962,51 +1874,43 @@
 		</data>
 		<key>TwitterOff.png</key>
 		<data>
-		F3EKqZaBwcaSRaN4+8qjDSEvfdc=
+		tsl1FA9fy+iQ8g0Pe+pUMYnTMOs=
 		</data>
 		<key>TwitterOff@2x.png</key>
 		<data>
-		JUfEtqs6o0eHPY/nukNfQENabxc=
+		2ZB1jdZtS8iSAaadaa+lN37fNoU=
 		</data>
 		<key>TwitterOn.png</key>
 		<data>
-		6nqAq4TdtrUTHgLuP3JYdzTgpNU=
+		MwWwgc53fD34Wit0yBS9CzDIuno=
 		</data>
 		<key>TwitterOn@2x.png</key>
 		<data>
-		/ATTg/Oi+6m6wX5CewB2m7CWo9E=
+		8aTl2XPxyV2zJL7E4J5QZwDi2sI=
 		</data>
 		<key>TwitterWatermark.png</key>
 		<data>
-		fAE33A7ujGM+KS5ZYEN3eMwoc6k=
+		PsmrljKcI9rNWYDRwAejkCy7T+k=
 		</data>
 		<key>TwitterWatermark@2x.png</key>
 		<data>
-		pAE77kvUHE+PLRMncHkCxjlxmwM=
-		</data>
-		<key>UnCommentButton.png</key>
-		<data>
-		VHNz5MioShez4xKkE9XB6TZdK2E=
-		</data>
-		<key>UnCommentButton@2x.png</key>
-		<data>
-		G/c6uqlj3pZ2ThbzOhExq7m9rRU=
+		gjtXqU4/Ho+Ycx4t7t+p7QugNU4=
 		</data>
 		<key>UnLikeButton.png</key>
 		<data>
-		QqpZi4TdvVZ9XxQk9hUZsS3vOcs=
+		6UftLSyZZkx/rJzZRyP/Rvi9aQ0=
 		</data>
 		<key>UnLikeButton@2x.png</key>
 		<data>
-		DL/G8eU2QHlxXezD1OZc32k4HyY=
+		L+ZZlgO9CxfmRlmds11JaaGCrdc=
 		</data>
 		<key>UnShareButton.png</key>
 		<data>
-		2WhXPai1PzHA2FmxZZBzGDy9urc=
+		lnbUq2e0CGo0A3efaPI+2lQsE/0=
 		</data>
 		<key>UnShareButton@2x.png</key>
 		<data>
-		eWyrswrmtUS1E0/WypLQH2YAq3w=
+		iRCs/vMp6Y9Nt/mxJqWQtgwSwbI=
 		</data>
 		<key>UniversityLocationIcon.png</key>
 		<data>
@@ -2026,19 +1930,19 @@
 		</data>
 		<key>UploadCellSeparator.png</key>
 		<data>
-		GsJkbPgrHMX1YI0HpI5rvhrxxH0=
+		9PEH/n1LrYNHGEk8TWqbixyA/gA=
 		</data>
 		<key>UploadCellSeparator@2x.png</key>
 		<data>
-		kB6eImGXLqmQMs+3INWp+KrW89Q=
+		qZhy0lPoBGppSqq4iNaGuojO7aQ=
 		</data>
 		<key>UploadDeleteButton.png</key>
 		<data>
-		1Edr+OnRwQX6AcrScR3M0m2YQfY=
+		oB4J1s6XtTq1wkr9EPUJ/e4QyLg=
 		</data>
 		<key>UploadDeleteButton@2x.png</key>
 		<data>
-		W6WjjbJPr1cSqp9yRvHA0Y8YxBI=
+		dtGxbX+Z5P023i0aHg7MTfvUx+s=
 		</data>
 		<key>UploadLoader.png</key>
 		<data>
@@ -2058,223 +1962,379 @@
 		</data>
 		<key>UploadWindow.png</key>
 		<data>
-		04IIpHaI3ln5o8/jOJkCsIZO3Jc=
+		/jw407T4i+Axnqul1WpoQKSDCrs=
 		</data>
 		<key>UploadWindow@2x.png</key>
 		<data>
-		ha9rNPiTqj9ryZagsFdbyfNmKjc=
+		WlveZIzzoD8mtgQx8v51rLiZhPE=
 		</data>
 		<key>VBadge.png</key>
 		<data>
-		hzfJ5CD/u+NKm+mEyaGzuY/O2SY=
+		8gY6gPYicekujBWJVfKHG0w160w=
 		</data>
 		<key>VBadge@2x.png</key>
 		<data>
-		4NUlqGtdKWVIA8SknOuPXnLaURo=
+		uSxCHwVL+oT9JugShtTZlv/5yIc=
 		</data>
-		<key>VNActivityTableViewCell.nib</key>
+		<key>VNActivityViewController.nib/objects.nib</key>
 		<data>
-		kOD7MEO0hfgaKi4KIzcmsEMcwM8=
+		LVOOl0K3NF58rkpIVnPXc/O6hus=
 		</data>
-		<key>VNActivityTableViewController.nib</key>
+		<key>VNActivityViewController.nib/runtime.nib</key>
 		<data>
-		D5Hfe/ToqFRPwDDl2tX/urfvlkM=
+		LVOOl0K3NF58rkpIVnPXc/O6hus=
 		</data>
-		<key>VNCaptureViewController.nib/objects.nib</key>
+		<key>VNChannelCell.nib/objects.nib</key>
 		<data>
-		wYsivno7NlZ1Fgu2Z1Si0vQSMJc=
+		A2r4yfO9s5H59AkUuU5QvJjkuLQ=
 		</data>
-		<key>VNCaptureViewController.nib/runtime.nib</key>
+		<key>VNChannelCell.nib/runtime.nib</key>
 		<data>
-		wYsivno7NlZ1Fgu2Z1Si0vQSMJc=
+		XIsM2iq3Sgan9bmbaOu3f59BPuU=
 		</data>
-		<key>VNChannelCell.nib</key>
+		<key>VNChannelHeaderCell.nib/objects.nib</key>
 		<data>
-		p1laCWfUe6pIc6ygq+go5DD6maw=
+		NSompUS82g33NyaMOkB2tQIXUHs=
+		</data>
+		<key>VNChannelHeaderCell.nib/runtime.nib</key>
+		<data>
+		c/T9XKJo6eJBwb2p5ZetV6T0c/I=
+		</data>
+		<key>VNChannelSelectViewController.nib/objects.nib</key>
+		<data>
+		q4bySZRqkvkOUuqHRmgzZdBqfdg=
+		</data>
+		<key>VNChannelSelectViewController.nib/runtime.nib</key>
+		<data>
+		q4bySZRqkvkOUuqHRmgzZdBqfdg=
 		</data>
 		<key>VNCommentTableViewCell.nib/objects.nib</key>
 		<data>
-		GjjiiYLwKvnIkHJUuU3cWRjLKR0=
+		QUiMdf06W0wxZHaktXFyvxHhj0E=
 		</data>
 		<key>VNCommentTableViewCell.nib/runtime.nib</key>
 		<data>
-		HF0RsiSEx4uRVgkz9uEIGk9MzJs=
+		VUTTuZb9yw8RpjzABKqp5W3fCew=
 		</data>
-		<key>VNCommentTagCell.nib</key>
+		<key>VNCommentTagCell.nib/objects.nib</key>
 		<data>
-		t+8bHb+7yfM4oLVBb3caL5vxc/U=
+		Qwz12bdS2EeqUZlJmDa7yr8niHE=
+		</data>
+		<key>VNCommentTagCell.nib/runtime.nib</key>
+		<data>
+		gFIGkh/88d/gZdVl1uovrMCcX6s=
 		</data>
 		<key>VNCommentViewController.nib/objects.nib</key>
 		<data>
-		AhQFxmXKHnbaNnpkz/uezhI5csQ=
+		aqUoug92flLeIkt9IdqoPdjgBqU=
 		</data>
 		<key>VNCommentViewController.nib/runtime.nib</key>
 		<data>
-		t84ZFw+8NuShqjX6IMrzIRjJUsM=
+		BBzjYJiyAk7siX+GGvTQY1o8YsQ=
 		</data>
-		<key>VNContentControlsCell.nib</key>
+		<key>VNContentControlsCell.nib/objects.nib</key>
 		<data>
-		R+Rv0ci3uCJsiLcXNG87XG/ozkY=
+		pusD3c7Exrt29XNwwctzg2IlE1A=
 		</data>
-		<key>VNEmptyLargeCell.nib</key>
+		<key>VNContentControlsCell.nib/runtime.nib</key>
 		<data>
-		c7lXPVTkT2oGnAH4FDxlbqZJ9QA=
+		jgb+QjOBsJtsG9LNAgh7aBUNOe8=
 		</data>
-		<key>VNEmptyMediumCell.nib</key>
+		<key>VNContentControlsViewController.nib/objects.nib</key>
 		<data>
-		7c01bi5iNUSCh3PQTBKctrRfD9s=
+		PA7cvylhiqk8R7OV5bZb1OtwCSM=
 		</data>
-		<key>VNEmptyTextMediumCell.nib</key>
+		<key>VNContentControlsViewController.nib/runtime.nib</key>
 		<data>
-		Mc37NBYFPVIEq/I0xERmoK3gQYk=
+		PA7cvylhiqk8R7OV5bZb1OtwCSM=
 		</data>
-		<key>VNExploreTagCell.nib</key>
+		<key>VNEmptyLargeCell.nib/objects.nib</key>
 		<data>
-		kWzueHlRnCikGx8J17A/F3Gs6mU=
+		yptJM+qfmZ3RDP4u7gR+Y2wi5cU=
 		</data>
-		<key>VNExploreViewController.nib</key>
+		<key>VNEmptyLargeCell.nib/runtime.nib</key>
 		<data>
-		pAKchd2YH1VULzlDxN5rY7QY2AI=
+		DLJcOSx0Mv0TqGMa7nedmkKEr6E=
 		</data>
-		<key>VNFeedViewController.nib/objects.nib</key>
+		<key>VNEmptyMediumCell.nib/objects.nib</key>
 		<data>
-		kBh8iJ2JJUEbQ5AZO/gwH9jGWYo=
+		CViKkJLuKKzyCGGITsrBIUEMQEk=
 		</data>
-		<key>VNFeedViewController.nib/runtime.nib</key>
+		<key>VNEmptyMediumCell.nib/runtime.nib</key>
 		<data>
-		YPl+l7RA4HuLYzQmadBgAcaCBcc=
+		i1w+eBGHmMiV8dQtf7in4ANK+WY=
 		</data>
-		<key>VNFindFriendsViewController.nib</key>
+		<key>VNEmptyTextMediumCell.nib/objects.nib</key>
 		<data>
-		0zByuyOe+kmCEasp/aOBMQCiqH0=
+		6/vMGOin0HKgOvp3jzvCvdRenr0=
 		</data>
-		<key>VNFollowRequestCell.nib/objects.nib</key>
+		<key>VNEmptyTextMediumCell.nib/runtime.nib</key>
 		<data>
-		ARyi/QrIFLUDafvrT76VcSH8q4c=
+		yXEwTYmZGQL5vj3JVRqjoN7YUGg=
 		</data>
-		<key>VNFollowRequestCell.nib/runtime.nib</key>
+		<key>VNEntityTagCell.nib/objects.nib</key>
 		<data>
-		X6v0T+x7UYiExMDxujbtmZO0HY8=
+		uaC2BSvjt2Th+WCKLYtN9tXP5AM=
 		</data>
-		<key>VNLoadMoreCell.nib</key>
+		<key>VNEntityTagCell.nib/runtime.nib</key>
 		<data>
-		LEdhcpSClMSq1A/Be2H/lsMIxUg=
+		9ppdLRgbdyF19m8M4d0oSe+NPRQ=
+		</data>
+		<key>VNEntityUserCell.nib/objects.nib</key>
+		<data>
+		rbuuicOGj33DBL5gpX5vQmARiBw=
+		</data>
+		<key>VNEntityUserCell.nib/runtime.nib</key>
+		<data>
+		pZy8Tk6/0TL5WDzW3USBORISaCE=
+		</data>
+		<key>VNExploreTagCell.nib/objects.nib</key>
+		<data>
+		gcAVk8mjvLAeBSwAgWObBfhnov0=
+		</data>
+		<key>VNExploreTagCell.nib/runtime.nib</key>
+		<data>
+		puPXrbYhfpCUTNaAbkSvybWwrP4=
+		</data>
+		<key>VNExploreViewController.nib/objects.nib</key>
+		<data>
+		PlYG/ib1JiSY26XlWpYrUp0fBr4=
+		</data>
+		<key>VNExploreViewController.nib/runtime.nib</key>
+		<data>
+		iRVvW3Ln1A1VPKseNe3/oejMOls=
+		</data>
+		<key>VNFindFriendsViewController.nib/objects.nib</key>
+		<data>
+		clHlUulfrP7mByiodAoSq8KtZq0=
+		</data>
+		<key>VNFindFriendsViewController.nib/runtime.nib</key>
+		<data>
+		rJtk8vi71AGu4Ugkw5mznPTOEe4=
+		</data>
+		<key>VNFollowRequestTableViewCell.nib/objects.nib</key>
+		<data>
+		9W/2pLbnDzawWt5zGiFtYwq7+rc=
+		</data>
+		<key>VNFollowRequestTableViewCell.nib/runtime.nib</key>
+		<data>
+		p1yU+NxFrhjsWePVKlusbhxNCwM=
+		</data>
+		<key>VNFollowRequestViewController.nib/objects.nib</key>
+		<data>
+		fA/V+1jc9vAK6xYzNBGduHStEZ8=
+		</data>
+		<key>VNFollowRequestViewController.nib/runtime.nib</key>
+		<data>
+		fA/V+1jc9vAK6xYzNBGduHStEZ8=
+		</data>
+		<key>VNHomeFeedViewController.nib/objects.nib</key>
+		<data>
+		QwipJ1r7fMFVCpEr+g6edHiwbxk=
+		</data>
+		<key>VNHomeFeedViewController.nib/runtime.nib</key>
+		<data>
+		QwipJ1r7fMFVCpEr+g6edHiwbxk=
+		</data>
+		<key>VNLoadMoreCell.nib/objects.nib</key>
+		<data>
+		hfKJVskPBAT7AlzlmHk+kqC7lmc=
+		</data>
+		<key>VNLoadMoreCell.nib/runtime.nib</key>
+		<data>
+		IWFnkjeE4MWRgw/D+EOavTkYPNI=
 		</data>
 		<key>VNLoginViewController.nib/objects.nib</key>
 		<data>
-		GCE4MYDCOQ8vjUcw+shd5pYy+5E=
+		KFP5m2xCV7QflzLu2YiifmpKf3M=
 		</data>
 		<key>VNLoginViewController.nib/runtime.nib</key>
 		<data>
-		GCE4MYDCOQ8vjUcw+shd5pYy+5E=
+		KFP5m2xCV7QflzLu2YiifmpKf3M=
 		</data>
-		<key>VNMentionTagTextViewMentionCell.nib</key>
+		<key>VNNotificationTableViewCell.nib/objects.nib</key>
 		<data>
-		TkJZEKoHECnvkThygTHDkD11zgQ=
+		GFqIN8zSL+3AtK9l1lTfd9455z4=
 		</data>
-		<key>VNMentionTagTextViewTagCell.nib</key>
+		<key>VNNotificationTableViewCell.nib/runtime.nib</key>
 		<data>
-		UiXvvoyY7yBe2Z7yJqpMBRCY1MY=
+		eL275l8E9aOXDRpbARqvGChQsJA=
 		</data>
-		<key>VNPersonTableViewCell.nib</key>
+		<key>VNOtherFriendsViewController.nib/objects.nib</key>
 		<data>
-		GWLupfyrXTm/hgk5Cs0D/PLlWZY=
+		onh5Cqaxaiw4TCilNEHFx6quhhE=
 		</data>
-		<key>VNPostViewController.nib</key>
+		<key>VNOtherFriendsViewController.nib/runtime.nib</key>
 		<data>
-		ttGI6F4DGYIM8SYl3FFTxiGHvA8=
+		onh5Cqaxaiw4TCilNEHFx6quhhE=
+		</data>
+		<key>VNPeopleViewController.nib/objects.nib</key>
+		<data>
+		q4bySZRqkvkOUuqHRmgzZdBqfdg=
+		</data>
+		<key>VNPeopleViewController.nib/runtime.nib</key>
+		<data>
+		q4bySZRqkvkOUuqHRmgzZdBqfdg=
+		</data>
+		<key>VNPersonTableViewCell.nib/objects.nib</key>
+		<data>
+		ENV3s+jzcYpM5Rskpsep2aOaIrM=
+		</data>
+		<key>VNPersonTableViewCell.nib/runtime.nib</key>
+		<data>
+		hQwOWxw6MW6TQQF5SEyslz9BAlE=
+		</data>
+		<key>VNPostViewController.nib/objects.nib</key>
+		<data>
+		mF67hby/0hzYPccTwlRwKjSZZBQ=
+		</data>
+		<key>VNPostViewController.nib/runtime.nib</key>
+		<data>
+		Ig4rzFrHiefJTY76cEiEBUvlHnc=
 		</data>
 		<key>VNPrivateContentViewController.nib/objects.nib</key>
 		<data>
-		7Z+isbKhHZxzclNjhtKEdQa+DFI=
+		J2cqPEJyNGOnZTL8eFneYH2UcGE=
 		</data>
 		<key>VNPrivateContentViewController.nib/runtime.nib</key>
 		<data>
-		LcMPdq9Wi3Uvt/1lQMdF5B05pfM=
+		eL1EyNowQ6t5HbJVmGQV54cdfDg=
 		</data>
-		<key>VNPrivateLargeCell.nib</key>
+		<key>VNPrivateLargeCell.nib/objects.nib</key>
 		<data>
-		gJLFVgsz2lSSEvCPQ5KrwhgAT2k=
+		QJxFDJD8sM81IEkOAE77ogZ+SvA=
 		</data>
-		<key>VNPrivateSmallCell.nib</key>
+		<key>VNPrivateLargeCell.nib/runtime.nib</key>
 		<data>
-		VQdkBYJJwKryU08E+cJNZuem+Mg=
+		JifEQ0b6KnYk8KmCglHYi37sNA0=
+		</data>
+		<key>VNPrivateSmallCell.nib/objects.nib</key>
+		<data>
+		ftumvXCl79GoUVmjS7niDIpExRI=
+		</data>
+		<key>VNPrivateSmallCell.nib/runtime.nib</key>
+		<data>
+		i35T2zoba8sGVq9nhblW+S/QwVU=
+		</data>
+		<key>VNRegionCell.nib/objects.nib</key>
+		<data>
+		b4Za2irWK4bCfIz9Jdc2IqP6fBE=
+		</data>
+		<key>VNRegionCell.nib/runtime.nib</key>
+		<data>
+		qUHjSjwMqfjocSVrhdm29r5lxFk=
+		</data>
+		<key>VNRegionViewController.nib/objects.nib</key>
+		<data>
+		AuqLLGTu7xlsT4GMkigmpnmcMoc=
+		</data>
+		<key>VNRegionViewController.nib/runtime.nib</key>
+		<data>
+		7jOrJdy0oLtegE16elOfmAm8sss=
 		</data>
 		<key>VNSearchViewController.nib</key>
 		<data>
 		6CfwqAHakgihUUsILTPbjQes2+g=
 		</data>
-		<key>VNSettingsTableViewController.nib/objects.nib</key>
+		<key>VNSettingsViewController.nib/objects.nib</key>
 		<data>
-		p9J4zP+t5cMBEsxtjilWzV9C2Og=
+		hiFTiRHbbgDiC2PcKxFbqczKtJI=
 		</data>
-		<key>VNSettingsTableViewController.nib/runtime.nib</key>
+		<key>VNSettingsViewController.nib/runtime.nib</key>
 		<data>
-		ZGHFMyarscU8WeWc+d30FUtt4D4=
+		hiFTiRHbbgDiC2PcKxFbqczKtJI=
 		</data>
-		<key>VNShareViewController.nib</key>
+		<key>VNShareViewController.nib/objects.nib</key>
 		<data>
-		I6MTqlNL0CKek0g7kA4WD4EbwIA=
+		yIt9ixdjpDhqxOsPN6ArcQlbd4M=
+		</data>
+		<key>VNShareViewController.nib/runtime.nib</key>
+		<data>
+		az+ZZs6MbhS3cJLOKYPhKlLd2vA=
+		</data>
+		<key>VNSocialNetworkViewController.nib/objects.nib</key>
+		<data>
+		1iyXyzfVEbeYigBMb1rTo/jccXk=
+		</data>
+		<key>VNSocialNetworkViewController.nib/runtime.nib</key>
+		<data>
+		tH6r621k+siRDhNaJCI1XW/abR8=
 		</data>
 		<key>VNTwitterLoginViewController.nib/objects.nib</key>
 		<data>
-		xV2MYXYGd8SCfvstuxOIk/FdOAo=
+		2S5qgjd5/ZMfRnrcHZls2HWAgjc=
 		</data>
 		<key>VNTwitterLoginViewController.nib/runtime.nib</key>
 		<data>
-		Ec9i3TBMl89fpqGECdHifvtN/m8=
+		jjrQtVzcYTjiao/FnxRXNKZjdwM=
 		</data>
 		<key>VNUploadManagerTableViewCell.nib/objects.nib</key>
 		<data>
-		m/vvIjERRreetXBSlL/nA7pqllc=
+		6RBrMA2TuiMVbPQCms5cXE8KzGE=
 		</data>
 		<key>VNUploadManagerTableViewCell.nib/runtime.nib</key>
 		<data>
-		fq5lcWjoWchTwAKW9saQ7mHPiso=
+		5YVUxWH/2lhOcFiwpe3RlmW58gM=
 		</data>
 		<key>VNUploadManagerViewController.nib/objects.nib</key>
 		<data>
-		V1qFV8R17FLj9JdRUzgRYEWNLAA=
+		9HKkTu5qav9AOlCuZS+tOAek+ew=
 		</data>
 		<key>VNUploadManagerViewController.nib/runtime.nib</key>
 		<data>
-		ta+qwhXMf/BSuiwUO0uwLt+qOAo=
+		9HKkTu5qav9AOlCuZS+tOAek+ew=
 		</data>
 		<key>VNUserFeedViewController.nib/objects.nib</key>
 		<data>
-		qPPoYVxCz6n82uhTkEJbHoZ9xP8=
+		6CDG4ruyHdIahBZWkRHkH7hKFTY=
 		</data>
 		<key>VNUserFeedViewController.nib/runtime.nib</key>
 		<data>
-		C0nhYgLd1oA/LGnrBeUbIekkKDA=
+		loktMPfHvDF6hnoDrxf2ydGo9yI=
 		</data>
 		<key>VNVenueFeedViewController.nib</key>
 		<data>
 		8mQrwlabO7eTm0G+pcTXBdc/HCw=
 		</data>
-		<key>VNVenueTableViewCell.nib</key>
+		<key>VNVenueTableViewCell.nib/objects.nib</key>
 		<data>
-		uIXNDskBLZx+bkQrXJ9scBM4Ju8=
+		Q0nrvyRdJjd2RLL+nN+dLaG3T0A=
 		</data>
-		<key>VNVenueViewController.nib</key>
+		<key>VNVenueTableViewCell.nib/runtime.nib</key>
 		<data>
-		s9D4Xq5ShgsYIXp6GiHs5k7bLfU=
+		7wufVGZnT9EHwfN9jI9a6YR6pCg=
 		</data>
-		<key>VNVideoTableViewCell.nib</key>
+		<key>VNVenueViewController.nib/objects.nib</key>
 		<data>
-		G9kEnVeSgLm2FEHzo8sCLM8ZImM=
+		9C2ZeyM+arEgE0c/PatCT6rSU/Y=
+		</data>
+		<key>VNVenueViewController.nib/runtime.nib</key>
+		<data>
+		erxOkVExIJMKe4/KN2A2NiYHEVE=
+		</data>
+		<key>VNVideoTableViewCell.nib/objects.nib</key>
+		<data>
+		oCiT4asvIhMpHlWinuAJUsAVUBA=
+		</data>
+		<key>VNVideoTableViewCell.nib/runtime.nib</key>
+		<data>
+		4gUPwwt75AcuAOLgj6GAvKDf2+E=
 		</data>
 		<key>VNViewController.nib/objects.nib</key>
 		<data>
-		OgULY3hhERYFxtDelefyGtPRPig=
+		AuqLLGTu7xlsT4GMkigmpnmcMoc=
 		</data>
 		<key>VNViewController.nib/runtime.nib</key>
 		<data>
-		HcVdjiLi6GRRRNu8tqg0GPktu9w=
+		7jOrJdy0oLtegE16elOfmAm8sss=
 		</data>
-		<key>VNWebViewController.nib</key>
+		<key>VNWebViewController.nib/objects.nib</key>
 		<data>
-		xhzQqTDv8pBMFjahOsuRNIPKBUI=
+		NoNwu9V9+qNU/oLweizEU0PlC9w=
+		</data>
+		<key>VNWebViewController.nib/runtime.nib</key>
+		<data>
+		UfKVOK9/aBzGsXVWvuDDLFFiJAQ=
 		</data>
 		<key>VenueIconMapping.plist</key>
 		<data>
@@ -2282,11 +2342,11 @@
 		</data>
 		<key>VerifiedBadge.png</key>
 		<data>
-		16r3zViMC5k2n0BF/Q1nqDcLoXU=
+		QK83PWa5ZAG5mL0crZTLLkrnv4U=
 		</data>
 		<key>VerifiedBadge@2x.png</key>
 		<data>
-		AsL5DTyMria9qN8kI44RTqw+0d4=
+		wuwV9RR0N/4dc0PulSJzK7togdA=
 		</data>
 		<key>VineLocationIcon.png</key>
 		<data>
@@ -2306,143 +2366,389 @@
 		</data>
 		<key>VineLogo.png</key>
 		<data>
-		+OtcZ4CT9fWqjJyXd2SXI8/KdBU=
+		ykzNyXb0Zf82x2rKsnq0PUyBobg=
 		</data>
 		<key>VineLogo@2x.png</key>
 		<data>
-		hdGWXG+2+fxzb2E9NMJoxYchkh0=
+		kds2gXb2s/Yhry3LBooCv/8hpw0=
 		</data>
 		<key>VineMainFeedLocationIcon@2x.png</key>
 		<data>
 		wwuF3Mycm9V/P6b5rsD6Y4GCVVA=
 		</data>
+		<key>X.png</key>
+		<data>
+		Xss+ErwBr/NB1UjIgkOd2/doiuc=
+		</data>
+		<key>X@2x.png</key>
+		<data>
+		wLVliiXM4ClgW+0gG4qC5nh8TjE=
+		</data>
 		<key>XButton.png</key>
 		<data>
-		/n0VIO/wj84zlMou7/+dwyNhzDU=
+		AtkZJefFpfz8OcxzNLp2f9vRz98=
 		</data>
 		<key>XButton@2x.png</key>
 		<data>
-		X902q04QpNVW8j0VIOtVDpMd+Rw=
-		</data>
-		<key>XButtonTap.png</key>
-		<data>
-		ROXG90FGmEXdsmYvXKn6djg4kBA=
-		</data>
-		<key>XButtonTap@2x.png</key>
-		<data>
-		N5p6y7IJElerxY1Tu898dUCu4rs=
-		</data>
-		<key>XIcon.png</key>
-		<data>
-		ZndH+GQpE1d0C3DPcHvbuZuvK8Q=
-		</data>
-		<key>XIcon@2x.png</key>
-		<data>
-		ab4aSvdDP62VmZQW850cdz9HoX4=
-		</data>
-		<key>XIconTap.png</key>
-		<data>
-		rh+K0QIoPDDsVQGmdB8h3GbNd4E=
-		</data>
-		<key>XIconTap@2x.png</key>
-		<data>
-		3nt6VlLKVnOuDSkhMg3T6R3nUCo=
-		</data>
-		<key>arrow.png</key>
-		<data>
-		1O6gXVTRtkUFcC40zqxNRQ2jb6s=
-		</data>
-		<key>arrow@2x.png</key>
-		<data>
-		oqmNV0f6BVd/vKyTyBOV682Q6Sc=
+		cm3RTtfd6n+lkkz7clEaRF8/eDU=
 		</data>
 		<key>background.mp4</key>
 		<data>
 		ERGYYR5Wdx0V8qA67L/rP6F8siE=
 		</data>
+		<key>da.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c2zT/v0DeaU7DbIBlCy7gENIdkE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h5d6dL5PosWqwP5R1VCAC/JNI2U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>embedded.mobileprovision</key>
+		<data>
+		VhN2Wpv/AJfy3LxintlmuUGTIzQ=
+		</data>
 		<key>en.lproj/InfoPlist.strings</key>
-		<data>
-		zmV6UqBSo6r1NOz798vd5O4zTBA=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			zmV6UqBSo6r1NOz798vd5O4zTBA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gseqjsNeB+wsPAZkZf4bfdq3f1k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+pqJkY4+bg/uc5Vxe17L9Ef996k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wNVBP6VcNsdXmA6T8eIm0dsAlSU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ozcaaWWIPVJhCD89QBvWk5bWCuo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/da.lproj/Localizable.strings</key>
-		<data>
-		cPHpwCWLhqt77Zfz+6q//1rmC4I=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			cPHpwCWLhqt77Zfz+6q//1rmC4I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/de.lproj/Localizable.strings</key>
-		<data>
-		ddAq22pPXIPu54N5GYlYcghb76U=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			ddAq22pPXIPu54N5GYlYcghb76U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/en.lproj/Localizable.strings</key>
-		<data>
-		CqiHY//LVzlF8xyw7qKwFUPHw3A=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			CqiHY//LVzlF8xyw7qKwFUPHw3A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/es.lproj/Localizable.strings</key>
-		<data>
-		D2iISqDtMl+lzTf5L7AuaUOIdOk=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			D2iISqDtMl+lzTf5L7AuaUOIdOk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/fr.lproj/Localizable.strings</key>
-		<data>
-		HFihyJ8Pz/YjuA8f/Sd32J5OP30=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			HFihyJ8Pz/YjuA8f/Sd32J5OP30=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/he.lproj/Localizable.strings</key>
-		<data>
-		TutPomOiq3PuVxH4m2wSaqGxAvI=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			TutPomOiq3PuVxH4m2wSaqGxAvI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/it.lproj/Localizable.strings</key>
-		<data>
-		Dgj7GCAbPRrPdSIhNGrZSonfljo=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			Dgj7GCAbPRrPdSIhNGrZSonfljo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/ja.lproj/Localizable.strings</key>
-		<data>
-		Bm/+8Wf+n2LazIRjfwbO96z58zI=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			Bm/+8Wf+n2LazIRjfwbO96z58zI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/ko.lproj/Localizable.strings</key>
-		<data>
-		DZnTTnNwuiXtNKPpDPc7buHYDLg=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			DZnTTnNwuiXtNKPpDPc7buHYDLg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/nl.lproj/Localizable.strings</key>
-		<data>
-		gHdTRHzdnFV9HeMQAHu+uvjjvxA=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			gHdTRHzdnFV9HeMQAHu+uvjjvxA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/pl.lproj/Localizable.strings</key>
-		<data>
-		OBx5jt+nbDXRDfjIEv6iu55nn/I=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			OBx5jt+nbDXRDfjIEv6iu55nn/I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/pt.lproj/Localizable.strings</key>
-		<data>
-		vamtUVyclkVWVoNhsNqLckQEpkA=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			vamtUVyclkVWVoNhsNqLckQEpkA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/ru.lproj/Localizable.strings</key>
-		<data>
-		lcqqL0K9XcEfcCPg7nQMBidJrKI=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			lcqqL0K9XcEfcCPg7nQMBidJrKI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/sv.lproj/Localizable.strings</key>
-		<data>
-		MTA6m+6OO8uVXYf4mzbzebg6HBQ=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			MTA6m+6OO8uVXYf4mzbzebg6HBQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/tr.lproj/Localizable.strings</key>
-		<data>
-		FTV3oBPvAX1QMGAO0ZNumXy8YvU=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			FTV3oBPvAX1QMGAO0ZNumXy8YvU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/uk.lproj/Localizable.strings</key>
-		<data>
-		u6t+DVc+wzmdm3CQ1bNEgIewFoA=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			u6t+DVc+wzmdm3CQ1bNEgIewFoA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/zh-Hans.lproj/Localizable.strings</key>
-		<data>
-		/zSZv53ZAQYyE+OFHycc1Ero8j4=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			/zSZv53ZAQYyE+OFHycc1Ero8j4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>iRate.bundle/zh-Hant.lproj/Localizable.strings</key>
-		<data>
-		XQi+RRVwps6/iUy5MKHaWxGpU4g=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			XQi+RRVwps6/iUy5MKHaWxGpU4g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>id.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Efq91GmPpRU4xybd3LsJR8DQUMU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m2wpFUSJCdE43s8ebjW9YizaXTs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HDNq/QBzyubb9zuP09ccwRsJTZ4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cyrIo4K3+x3G3cA4UWYsoNCcTZQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ms.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ax/FpHyivTNeIIlhnkDHURGnWTE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nb.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zB+17iKr9KYwpuEteD3UwkF4fHs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JjJ+WiB4Ag8djn/dHMMKs01uzpU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DHxD9nMHqBZzrsjpvjRGoFp7afc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oVXNXY1xz1lqJdv/ViGEOW5Rark=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iKNA0Izk4J7GOQrQXP5BZr3TdfA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/xsxM051GU2l3Q4kVsui30lnM70=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>th.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8D9zRp5dRiN8TrUmz5MQwYb7JRE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>tr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			heTiZVlET4Tvvf2TOXYLM5gka2w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>tw_logo.png</key>
 		<data>
-		lt2ZBxNkmxeAJJHzbxs+axbLkpQ=
+		7Ohhn1vM7K4NT00tb16LJSmcz+0=
 		</data>
 		<key>tw_logo@2x.png</key>
 		<data>
-		yiXrQ4cRzyP01VXgdmwqoY2kUhU=
+		0/s6fn3fh8UE7lG7Unki1VEM9A4=
 		</data>
 		<key>vinebug.png</key>
 		<data>
@@ -2452,38 +2758,2885 @@
 		<data>
 		Y0vNURQ/3wQMkeqSfigpUVaiu1w=
 		</data>
+		<key>zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DtmHZyDhjKMteATeTDWfZpT304s=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Od2RRQru8ivvuz1/L/BCBIMf5hM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>AddCaptionTextfield.png</key>
+		<data>
+		DeWZrNnMQCV1oRAI3o6c80W0KmE=
+		</data>
+		<key>AddCaptionTextfield@2x.png</key>
+		<data>
+		qFZQGE1/aAVR2brAV7h9cPzck1s=
+		</data>
+		<key>AddLocation.png</key>
+		<data>
+		zcI2ZGjXd7vcsSkJ1OL+U3nctKk=
+		</data>
+		<key>AddLocation@2x.png</key>
+		<data>
+		KwuqduR/1awK5cNMGGvk+EhcgDg=
+		</data>
+		<key>AddPhotoCorner.png</key>
+		<data>
+		4ANNoddGKmjR97yBMTmP27Zpowo=
+		</data>
+		<key>AddPhotoCorner@2x.png</key>
+		<data>
+		2EGqdso7RDmlBPOse4I7vHhnTkA=
+		</data>
+		<key>AddressBookButton.png</key>
+		<data>
+		BfdfTPAiTQr78tZqELZtCvId/wQ=
+		</data>
+		<key>AddressBookButton@2x.png</key>
+		<data>
+		7N5tWPux5f5/vrv6uJ58Vrdv3bo=
+		</data>
+		<key>AddressBookOff.png</key>
+		<data>
+		CXIXTwbY7hfsp0BsRpusZ5iPI94=
+		</data>
+		<key>AddressBookOff@2x.png</key>
+		<data>
+		uaVfiKWoJx1tMfsW5tg6wEad+eU=
+		</data>
+		<key>AddressBookOn.png</key>
+		<data>
+		K4G2b/NRKkcNVkuFPoiw25qTEEg=
+		</data>
+		<key>AddressBookOn@2x.png</key>
+		<data>
+		GvKBbWg9gxpJ/NkR7R4L/lzyDpY=
+		</data>
+		<key>AddressBookWatermark.png</key>
+		<data>
+		td3Pd67Eh3heY/qhcxCYBx6EOYk=
+		</data>
+		<key>AddressBookWatermark@2x.png</key>
+		<data>
+		NLskASR7/xlauMPq7U+FIxONuMc=
+		</data>
+		<key>AdminProfilePhoto.png</key>
+		<data>
+		04NQmP8/UjgR5xRY4OO5288oSoo=
+		</data>
+		<key>AdminProfilePhoto@2x.png</key>
+		<data>
+		5YXWGL2b8QW4TN6+clMKlsL/b9c=
+		</data>
+		<key>Arrow.png</key>
+		<data>
+		pxoLgcoB2zv+hvQqnUX9c/SPE7U=
+		</data>
+		<key>Arrow@2x.png</key>
+		<data>
+		vxygPxucQ03NUe+wWlGmUPUwq6Q=
+		</data>
+		<key>BackButton.png</key>
+		<data>
+		CSdNsu3ybK0QXdHQwZrbHZ/vfS4=
+		</data>
+		<key>BackButton@2x.png</key>
+		<data>
+		g/ZeSD5TFTlxBPKpExumsNynp54=
+		</data>
+		<key>BackgroundLocationTag.png</key>
+		<data>
+		RJKFe1Udfm2o2TXK3n3+ktNjTuI=
+		</data>
+		<key>BackgroundLocationTag@2x.png</key>
+		<data>
+		+axrlSMSkCPTpHzz92KLnpHQtpg=
+		</data>
+		<key>BigHuman2LocationTag.png</key>
+		<data>
+		Oe20x6nI5ZnqJvTJBuj0cAXkR74=
+		</data>
+		<key>BigHuman2LocationTag@2x.png</key>
+		<data>
+		BcXMaoXdfCcXDQCokcErHpcOZ4g=
+		</data>
+		<key>BigHumanLocationIcon.png</key>
+		<data>
+		OwO3dPpzTQCeMoDiAzMwghNgAow=
+		</data>
+		<key>BigHumanLocationIcon@2x.png</key>
+		<data>
+		5zSkaVyAxndCYoT2/RQvlG+qUIk=
+		</data>
+		<key>BigHumanLocationTag.png</key>
+		<data>
+		7VfGVppRl7Nss/dQxZUxLLwMZRQ=
+		</data>
+		<key>BigHumanLocationTag@2x.png</key>
+		<data>
+		nu4vGNL6r25hVIwjsvSNQE/VaA8=
+		</data>
+		<key>BigHumanMainFeedLocationIcon@2x.png</key>
+		<data>
+		SrUTEtYRf+j1LMWRD/uZ4SMmPnM=
+		</data>
+		<key>BlackPill.png</key>
+		<data>
+		k0P1hs2JqRoQe8KvfbQosQVkM8g=
+		</data>
+		<key>BlackPill@2x.png</key>
+		<data>
+		aMMpyYzpbPba0+vYnUM4xJjzUzI=
+		</data>
+		<key>BlankAvatar.png</key>
+		<data>
+		koYxlqoSn78TvDN23ugQdcVco8A=
+		</data>
+		<key>BlankAvatar@2x.png</key>
+		<data>
+		NbLBEGZUITQJcvURBu9bXASLLAs=
+		</data>
+		<key>BlankDraft.png</key>
+		<data>
+		fmPpA738je21Ymd/GTLggeNyLrw=
+		</data>
+		<key>BlankDraft@2x.png</key>
+		<data>
+		6FS+M4WBjvzhQga/PR9bUAGf2Eg=
+		</data>
+		<key>BlockedPhotoCorner.png</key>
+		<data>
+		+PqtI7khr0SOkG2lPfunq+PRioM=
+		</data>
+		<key>BlockedPhotoCorner@2x.png</key>
+		<data>
+		xuMSM6zL2QjvJHLEOZsFWbM7eoU=
+		</data>
+		<key>CancelButton.png</key>
+		<data>
+		K/Kyz14QeHRlLpKtFhR55znBOJI=
+		</data>
+		<key>CancelButton@2x.png</key>
+		<data>
+		jITi0+u2KBII/SLJtSPJm8LqFS8=
+		</data>
+		<key>CaptureIconOff.png</key>
+		<data>
+		NXfK7JvWLvGrcsyJVeMqN8q2cPM=
+		</data>
+		<key>CaptureIconOff@2x.png</key>
+		<data>
+		sKDpfNb9byovbmr4VUecAmMMg4E=
+		</data>
+		<key>CaptureIconOn.png</key>
+		<data>
+		OJxTsCCbeCd4EF/M7XQir2yaFGo=
+		</data>
+		<key>CaptureIconOn@2x.png</key>
+		<data>
+		ynlQICnouZATnGu1yEn2m7j8dHk=
+		</data>
+		<key>CaptureStoryboard.storyboardc/Info.plist</key>
+		<data>
+		iQqw2nzxiViLtbGVZRKODvQCuP8=
+		</data>
+		<key>CaptureStoryboard.storyboardc/Lc9-I2-7We-view-4ng-D0-hLo.nib/objects.nib</key>
+		<data>
+		El9Kfkrnlggp+o5SuyxpK66J6BA=
+		</data>
+		<key>CaptureStoryboard.storyboardc/Lc9-I2-7We-view-4ng-D0-hLo.nib/runtime.nib</key>
+		<data>
+		XNTTlgj5oALUuZeeeArzVyyp4a0=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UIViewController-Lc9-I2-7We.nib/objects.nib</key>
+		<data>
+		zrl0ggkl3bipa3jTHdzcXDNeRMg=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UIViewController-Lc9-I2-7We.nib/runtime.nib</key>
+		<data>
+		ApFAp9GdV9aqfzngSF0l7D631+I=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UIViewController-UTg-yS-kcL.nib/objects.nib</key>
+		<data>
+		2JZaG3qH8Ox3+Nk9mfcfYRjUYQs=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UIViewController-UTg-yS-kcL.nib/runtime.nib</key>
+		<data>
+		CAElgtT3Le3uoB+XSHIdKQHe4vg=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UIViewController-Y7r-au-1fG.nib/objects.nib</key>
+		<data>
+		qywBNlgPj4jLewUBZeLvkRyvfJo=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UIViewController-Y7r-au-1fG.nib/runtime.nib</key>
+		<data>
+		L4XMpnPe391NiAt95NirF6iQpX0=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UTg-yS-kcL-view-mzM-0t-87L.nib/objects.nib</key>
+		<data>
+		GZQDBgtua3tYpLmX3wacnwr6C+E=
+		</data>
+		<key>CaptureStoryboard.storyboardc/UTg-yS-kcL-view-mzM-0t-87L.nib/runtime.nib</key>
+		<data>
+		GTkeBJ1SGp7Pd0GOfX7O0V0cGQI=
+		</data>
+		<key>CaptureStoryboard.storyboardc/VNCaptureViewController.nib/objects.nib</key>
+		<data>
+		eeb4KCcRsMG7lWUTEgtZZgc+GIQ=
+		</data>
+		<key>CaptureStoryboard.storyboardc/VNCaptureViewController.nib/runtime.nib</key>
+		<data>
+		M2qSXBSAxMdouNfFA7W3oVYZcYg=
+		</data>
+		<key>CaptureStoryboard.storyboardc/Y7r-au-1fG-view-Bqm-xZ-NkK.nib/objects.nib</key>
+		<data>
+		2a/r0kRKdiG20Ki8qnghjmXnHDc=
+		</data>
+		<key>CaptureStoryboard.storyboardc/Y7r-au-1fG-view-Bqm-xZ-NkK.nib/runtime.nib</key>
+		<data>
+		FxzdJ8f8iadFOsfCkHtptdwqfw8=
+		</data>
+		<key>CaptureStoryboard.storyboardc/hrE-fC-Xqi-view-08w-gN-sbf.nib/objects.nib</key>
+		<data>
+		feExdwdk+mXkmq3UTMJaNbA9Y4Q=
+		</data>
+		<key>CaptureStoryboard.storyboardc/hrE-fC-Xqi-view-08w-gN-sbf.nib/runtime.nib</key>
+		<data>
+		NprS6i3hoqo44LW+dqkVG/Afr4o=
+		</data>
+		<key>ChannelsIconOff.png</key>
+		<data>
+		io4dLBfCw0n3Uizsx5cLM2B6qOo=
+		</data>
+		<key>ChannelsIconOff@2x.png</key>
+		<data>
+		w1S6keiEtgAk8ub/WKvZzCSbWIQ=
+		</data>
+		<key>ChannelsIconOn.png</key>
+		<data>
+		FsoXG2ZPiEor9G1lkl6izyN3fBQ=
+		</data>
+		<key>ChannelsIconOn@2x.png</key>
+		<data>
+		F7ocSsZ9jAR5hwvROx0TP17oOXk=
+		</data>
+		<key>CheckButton.png</key>
+		<data>
+		xZvQpoA8Z3AyY+rLmleJ5GDJS0k=
+		</data>
+		<key>CheckButton@2x.png</key>
+		<data>
+		XsxHKSwrwUCrZB35T5DfWfahyg4=
+		</data>
+		<key>CommentButton.png</key>
+		<data>
+		SmB8eTKBpfg3T/sCoYgIAkU/RVc=
+		</data>
+		<key>CommentButton@2x.png</key>
+		<data>
+		hXO039c0jYAF7RzsNflOaDsn5gY=
+		</data>
+		<key>CommentPhotoCorner.png</key>
+		<data>
+		AEyGFGZ4kqmQE6g72u0jCGDXGSQ=
+		</data>
+		<key>CommentPhotoCorner@2x.png</key>
+		<data>
+		y3jYR4FHXIFTsjkPf4FId+YjE/U=
+		</data>
+		<key>DeleteButtonGrey.png</key>
+		<data>
+		IinCK2vLWPKuW4AtdxghI7OZVFk=
+		</data>
+		<key>DeleteButtonGrey@2x.png</key>
+		<data>
+		MpyzCG8/CUYgBF2sT8m9PlepznU=
+		</data>
+		<key>DeleteButtonRed.png</key>
+		<data>
+		4NjEl8wMKfF+uYdxCwMBf8d0U9k=
+		</data>
+		<key>DeleteButtonRed@2x.png</key>
+		<data>
+		RcmBagvrsQZiSBMWYF0102ZkprE=
+		</data>
+		<key>DeleteComment.png</key>
+		<data>
+		BrNcCZ6JDRKlzYaq3KPXv51Ak/c=
+		</data>
+		<key>DeleteComment@2x.png</key>
+		<data>
+		LwjNNqTmaNRS+JAN2c2OU3dlM/8=
+		</data>
+		<key>DeleteIcon.png</key>
+		<data>
+		jijK32GIEIktQP1/8G+7lqVMqEs=
+		</data>
+		<key>DeleteIcon@2x.png</key>
+		<data>
+		ez7XADBw3S5QIm5F3BDsY8ndmBc=
+		</data>
+		<key>DoneButton.png</key>
+		<data>
+		V0TD7sxZtgt18TI53mMw6S5W9UI=
+		</data>
+		<key>DoneButton@2x.png</key>
+		<data>
+		fxV+tlyySOh8fR7Zb91m08TmfVM=
+		</data>
+		<key>DotGrey.png</key>
+		<data>
+		hq/rthJDZSjp7MCc3TSZ83TGzRQ=
+		</data>
+		<key>DotGrey@2x.png</key>
+		<data>
+		gvadNRYB5lW+iOBpT4xO+ODoN3o=
+		</data>
+		<key>DotWhite.png</key>
+		<data>
+		ncwKrouBoPk/Z6Zz5L4tgtPQTHM=
+		</data>
+		<key>DotWhite@2x.png</key>
+		<data>
+		XmvKlBunz4jhK9gks7kn1wkiM90=
+		</data>
+		<key>DownArrow.png</key>
+		<data>
+		soRNz11s9ed7VF3eNvL6lGXkEAY=
+		</data>
+		<key>DownArrow@2x.png</key>
+		<data>
+		ZaJUICA6KoH9fbFgzjw+EqtdotI=
+		</data>
+		<key>DraftsIcon.png</key>
+		<data>
+		HtFdTNqCo9rg0RPlusQFl3Q+FuI=
+		</data>
+		<key>DraftsIcon@2x.png</key>
+		<data>
+		nYuEQdVizQf1Thyv2D2uZTt9RlA=
+		</data>
+		<key>DraftsIconActive.png</key>
+		<data>
+		rV/8I2HqomZtrujy3UZjRFwc0yk=
+		</data>
+		<key>DraftsIconActive@2x.png</key>
+		<data>
+		dqLgDOIYn3tF23wb9POokLyO35k=
+		</data>
+		<key>EbayLocationIcon.png</key>
+		<data>
+		H1UciukOX4cQO5QVyr0v2ZN1VUw=
+		</data>
+		<key>EbayLocationIcon@2x.png</key>
+		<data>
+		cMxqH9+hBjSsYnR/fv5kcGMptJ8=
+		</data>
+		<key>EbayLocationTag.png</key>
+		<data>
+		qKBgizn+Rg1zl6ewdagABBoT8lY=
+		</data>
+		<key>EbayLocationTag@2x.png</key>
+		<data>
+		DmQb9ppz4oyX8ZCZSanTV75Ikm8=
+		</data>
+		<key>EbayMainFeedLocationIcon@2x.png</key>
+		<data>
+		iLNFzlzarVHMVrR8lET2PoBG7AY=
+		</data>
+		<key>EditProfilePhotoFrame.png</key>
+		<data>
+		WoI4iL5xdeSHww8o85c6ngdqF1c=
+		</data>
+		<key>EditProfilePhotoFrame@2x.png</key>
+		<data>
+		04CoKg5f7ocVQ1DUo4JvO6VDRHQ=
+		</data>
+		<key>EditorsPick.png</key>
+		<data>
+		bOsMYnMWYDpZQjx7mZMAAfG6ydo=
+		</data>
+		<key>EditorsPick@2x.png</key>
+		<data>
+		zkq2Z32KWUvkVHzlNfmG7HSjtjI=
+		</data>
+		<key>EntertainmentLocationIcon.png</key>
+		<data>
+		ZUU1t84zeO7fTV7U70PoYjjnwS0=
+		</data>
+		<key>EntertainmentLocationIcon@2x.png</key>
+		<data>
+		qxXJbACmhJgOcl78aEaxsiMR3/o=
+		</data>
+		<key>EntertainmentLocationTag.png</key>
+		<data>
+		vy7dNCGvlE4gKqLj0wzVzlSOvo0=
+		</data>
+		<key>EntertainmentLocationTag@2x.png</key>
+		<data>
+		YuW74mL8sQnTpbNhUafrw2Q4Mwg=
+		</data>
+		<key>EntertainmentMainFeedLocationIcon@2x.png</key>
+		<data>
+		GixWHGQeC/wbTjq1zeo0l5vlW4g=
+		</data>
+		<key>ExplicitGrey.png</key>
+		<data>
+		kNUZLxq+NXpWouTk1gva32fvNbQ=
+		</data>
+		<key>ExplicitGrey@2x.png</key>
+		<data>
+		Kvv+syQMbxq8xc9W4gBYbAO5JH4=
+		</data>
+		<key>ExplicitRed.png</key>
+		<data>
+		pw2kMcQpk2a9HYlLy54TJkcSFOs=
+		</data>
+		<key>ExplicitRed@2x.png</key>
+		<data>
+		cgJvgV9JYL8kXJEUm2IEuSE+Bq4=
+		</data>
+		<key>ExploreTabLeftOff.png</key>
+		<data>
+		3EddyXIj9g/sPoysOj/zXh3RDGM=
+		</data>
+		<key>ExploreTabLeftOff@2x.png</key>
+		<data>
+		tB+IQTI9Gvv+PLtaAKk2nAXHpi4=
+		</data>
+		<key>ExploreTabLeftOn.png</key>
+		<data>
+		PPj92zh12qiEqTR2JRTTJRd/mME=
+		</data>
+		<key>ExploreTabLeftOn@2x.png</key>
+		<data>
+		7jLOpOstsjdoKStWDOFI21WFrPo=
+		</data>
+		<key>ExploreTabRightOff.png</key>
+		<data>
+		0Gjag+IE366Ab8o0aI328s6gwG4=
+		</data>
+		<key>ExploreTabRightOff@2x.png</key>
+		<data>
+		qn5QTGss3B9Mb/TPjjvC4DTjYl8=
+		</data>
+		<key>ExploreTabRightOn.png</key>
+		<data>
+		VxEbJ4fDH71mGaZN/YljGKnb9kg=
+		</data>
+		<key>ExploreTabRightOn@2x.png</key>
+		<data>
+		pUhmKcK/lBv41nZ9K0uSYB65iTI=
+		</data>
+		<key>FacebookLocationIcon.png</key>
+		<data>
+		/i71iEtQUFI6UfUs/k8MaJNls/8=
+		</data>
+		<key>FacebookLocationIcon@2x.png</key>
+		<data>
+		P6PAeWsgz6CEILyoSRm4medthjQ=
+		</data>
+		<key>FacebookLocationTag.png</key>
+		<data>
+		CYV9HxtB+a2E063HQ6ByAH3e7R0=
+		</data>
+		<key>FacebookLocationTag@2x.png</key>
+		<data>
+		HRpBFg0ITAvSQvjLCaMLWmYC1Ug=
+		</data>
+		<key>FacebookMainFeedLocationIcon@2x.png</key>
+		<data>
+		z26FSOxqRYK8NNyI+KoEzMS/pjk=
+		</data>
+		<key>FindButtonOff.png</key>
+		<data>
+		+tMIyHiAOAaUbonaf60bSxVj+0c=
+		</data>
+		<key>FindButtonOff@2x.png</key>
+		<data>
+		Zr5NkJeIIlGu+TShWYjM7hG0oHg=
+		</data>
+		<key>FindButtonOn.png</key>
+		<data>
+		L0pQfzAoPcLVEsdPRG+WVSGaKgg=
+		</data>
+		<key>FindButtonOn@2x.png</key>
+		<data>
+		2Qq5W25Z1NVmp808U7+y+Kogo4E=
+		</data>
+		<key>FindFriendsBanner.png</key>
+		<data>
+		yHjL6TNQkA6KuP1/GYooqmS1VdU=
+		</data>
+		<key>FindFriendsBanner@2x.png</key>
+		<data>
+		tyPDgu6JiDgPYuMRYQITTRQnciI=
+		</data>
+		<key>FindFriendsButton.png</key>
+		<data>
+		bWPqZ1NKKFcSBz35RzHEGVGMqfI=
+		</data>
+		<key>FindFriendsButton@2x.png</key>
+		<data>
+		rS2U+0zSLj23r6nXE48B4gzTPxQ=
+		</data>
+		<key>FlagComment.png</key>
+		<data>
+		wXHIJdJjSlNGA7hTg6al2TJBMuI=
+		</data>
+		<key>FlagComment@2x.png</key>
+		<data>
+		tXTiBSN5cUKQnu/gAJKimP8DFYM=
+		</data>
+		<key>FocusCircle.png</key>
+		<data>
+		MxtdVbtBMIjvKvHByJuvIifNajE=
+		</data>
+		<key>FocusCircle@2x.png</key>
+		<data>
+		S9FNtiwmSQEDBntf9IoOPeqpuNw=
+		</data>
+		<key>FocusIcon.png</key>
+		<data>
+		rPHz6GOD8KPEf5iaVOh2wrWN0TQ=
+		</data>
+		<key>FocusIcon@2x.png</key>
+		<data>
+		FyAlVMuk+0R2eSdrvZ2lwd/5qIA=
+		</data>
+		<key>FocusIconActive.png</key>
+		<data>
+		69YjcCaBId4P5kBg+n15RBFOnA0=
+		</data>
+		<key>FocusIconActive@2x.png</key>
+		<data>
+		AeiOcbDO7DFEbX1JlDz/dkOn/LA=
+		</data>
+		<key>FocusIconDisabled.png</key>
+		<data>
+		AVUcmVLoOnJldnjRhj4WNBVcpUA=
+		</data>
+		<key>FocusIconDisabled@2x.png</key>
+		<data>
+		//kvTY05lY0zvwXfiuc1UVbc9EI=
+		</data>
+		<key>FocusLockIcon.png</key>
+		<data>
+		unSAgO/4zacNR+ieXZbwj9/ogpQ=
+		</data>
+		<key>FocusLockIcon@2x.png</key>
+		<data>
+		ifiaJTU9vDVvDy04fI3Wx8N21Js=
+		</data>
+		<key>FollowButton.png</key>
+		<data>
+		bfamWL9yi9k7I4I8wQix47Paexs=
+		</data>
+		<key>FollowButton@2x.png</key>
+		<data>
+		sEKxPb67pj8x0PknIOIoqvV3cKw=
+		</data>
+		<key>FollowRequestedButton.png</key>
+		<data>
+		EBsgmny3j8i/aVZ37wE6Vo8RHKQ=
+		</data>
+		<key>FollowRequestedButton@2x.png</key>
+		<data>
+		BGMqZLxEEHTy08SiGsOkdCqQ0No=
+		</data>
+		<key>FollowingButton.png</key>
+		<data>
+		WeQzPZMoXmfs56ywg6o47PoyJNw=
+		</data>
+		<key>FollowingButton@2x.png</key>
+		<data>
+		lXU1lfLUnZnTDRLoFcFrZfvSiEo=
+		</data>
+		<key>FrontFacingIcon.png</key>
+		<data>
+		NMhcM20Wb8GLrJ3yNG2EWL97gBU=
+		</data>
+		<key>FrontFacingIcon@2x.png</key>
+		<data>
+		Z29iJwUFV0b1q+bFY7mKcWaXv0k=
+		</data>
+		<key>FrontfacingIconActive.png</key>
+		<data>
+		pvDnTMXJYeSreYf8Fuy3AeT5TgE=
+		</data>
+		<key>FrontfacingIconActive@2x.png</key>
+		<data>
+		8yirHIHTk+fWEIvNysfIudtoCQw=
+		</data>
+		<key>GhostIcon.png</key>
+		<data>
+		8jnvkR5p9rUTvztxqsR3jc+y92M=
+		</data>
+		<key>GhostIcon@2x.png</key>
+		<data>
+		wlkAd27GT0Swdp91BIEFTewuvio=
+		</data>
+		<key>GhostIconActive.png</key>
+		<data>
+		j/JBimz+iO7EhQhQ//b4nU1R1QY=
+		</data>
+		<key>GhostIconActive@2x.png</key>
+		<data>
+		anMqBi/ZhWdd2TYnEPsC9aOxclo=
+		</data>
+		<key>Gilt2LocationTag.png</key>
+		<data>
+		2Ii3iGHR/ZHQeF3yD21sxmhy5dQ=
+		</data>
+		<key>Gilt2LocationTag@2x.png</key>
+		<data>
+		cecZCRDkKz5LwjWU4BU79gxBNZg=
+		</data>
+		<key>GiltLocationIcon.png</key>
+		<data>
+		AhcVAStZBhC6tb0E8kF4Ik8tRWI=
+		</data>
+		<key>GiltLocationIcon@2x.png</key>
+		<data>
+		ZckLMdf1LRrM5ACZbaXg1QwiEwc=
+		</data>
+		<key>GiltLocationTag.png</key>
+		<data>
+		yiJxWvIbT2N9IMz2STPAZVikIbw=
+		</data>
+		<key>GiltLocationTag@2x.png</key>
+		<data>
+		jLhfCoNCPw6ODTw290zNZrDUoJw=
+		</data>
+		<key>GiltMainFeedLocationIcon@2x.png</key>
+		<data>
+		1UQ2CyKGsyzeKo3iaLjEIyvlKTE=
+		</data>
+		<key>GoogleLocationIcon.png</key>
+		<data>
+		Z5L6iUCNYXZBiRAqeLkJFcs/5TE=
+		</data>
+		<key>GoogleLocationIcon@2x.png</key>
+		<data>
+		BGFS6GywtDnP8sHPLJ7Fj8QWpMw=
+		</data>
+		<key>GoogleLocationTag.png</key>
+		<data>
+		vNLCNbo8A52BoROp8OsLbpIUEOg=
+		</data>
+		<key>GoogleLocationTag@2x.png</key>
+		<data>
+		0/7bbd9HGLKZq88yGThZbuNbF8M=
+		</data>
+		<key>GoogleMainFeedLocationIcon@2x.png</key>
+		<data>
+		yAxnukt6vReB2rG/SVHQyQYN9pQ=
+		</data>
+		<key>GreyArrow.png</key>
+		<data>
+		3Z4hgtxYCkyAc/jc5D7hAHJS14Y=
+		</data>
+		<key>GreyArrow@2x.png</key>
+		<data>
+		Szc0MgiA+MD7TZCCp7wPdd64UuI=
+		</data>
+		<key>GreyButton.png</key>
+		<data>
+		GDiWTj0fXWxcvWL5sTmQXXz4au8=
+		</data>
+		<key>GreyButton@2x.png</key>
+		<data>
+		6EcJJfaDX6T2iikNI7ka1u1qdm4=
+		</data>
+		<key>GreyLoaderDot.png</key>
+		<data>
+		No2bMy5VMygDTgxD/NlKi+Ug120=
+		</data>
+		<key>GreyLoaderDot@2x.png</key>
+		<data>
+		Fi1Y2oAoBoGANuK540vZUYi0RPw=
+		</data>
+		<key>GreyPill.png</key>
+		<data>
+		SNxHe8k5cvYvjbegitzSkJtNAVk=
+		</data>
+		<key>GreyPill@2x.png</key>
+		<data>
+		IbGiTDC1HJFl4LVtsPgBqZbI8Bg=
+		</data>
+		<key>Grid.png</key>
+		<data>
+		Y2sKd8xWnZXct6cQose14JGz2vo=
+		</data>
+		<key>Grid@2x.png</key>
+		<data>
+		JnFgxa167Zj9VXGpLzMwtDmFOvw=
+		</data>
+		<key>GridIcon.png</key>
+		<data>
+		Sic+wbcTFWR1Ejebn4WMECuq/Ik=
+		</data>
+		<key>GridIcon@2x.png</key>
+		<data>
+		/7B/jpZpjmGePj0oFRnYDobwHrQ=
+		</data>
+		<key>GridIconActive.png</key>
+		<data>
+		c1WV8CHq3kTsEz/oajzMheGEIVs=
+		</data>
+		<key>GridIconActive@2x.png</key>
+		<data>
+		+kIKQHFx8GMlg+tLYF/lSzUCxt8=
+		</data>
+		<key>InsetSadFace.png</key>
+		<data>
+		F2Cor9ulMTPniQ748No/hvUu4xQ=
+		</data>
+		<key>InsetSadFace@2x.png</key>
+		<data>
+		NP5DVbYYdguGrCQNFsDjk3Zdw1E=
+		</data>
+		<key>JetSetterLocationIcon.png</key>
+		<data>
+		LoRTszMG5d757sbiQ1x6U8MYxe0=
+		</data>
+		<key>JetSetterLocationIcon@2x.png</key>
+		<data>
+		na76bLCFgAJsvw6NpZUeTemJEmM=
+		</data>
+		<key>JetSetterLocationTag.png</key>
+		<data>
+		QAPu1pIBtoZYDF+XN6Ba+cf4Z4s=
+		</data>
+		<key>JetSetterLocationTag@2x.png</key>
+		<data>
+		j8yK6lc+ovzrJteLkVfh3fXThkQ=
+		</data>
+		<key>JetSetterMainFeedLocationIcon@2x.png</key>
+		<data>
+		31KuxbR11WwKpveYgbJSEK8hoC0=
+		</data>
+		<key>KeyboardMention.png</key>
+		<data>
+		fWgtaAqCwFXkFzVEa1K5GU+l9ms=
+		</data>
+		<key>KeyboardMention@2x.png</key>
+		<data>
+		YwAurvkIXsHd2Wv/VFwcfKDX4QI=
+		</data>
+		<key>KeyboardMentionActive.png</key>
+		<data>
+		7S3WGK0F97FEMNUUNgs06HlHIss=
+		</data>
+		<key>KeyboardMentionActive@2x.png</key>
+		<data>
+		f2kR/pWzGdpE1SaM9eIcOl5xF+M=
+		</data>
+		<key>KeyboardMentionActiveIOS6.png</key>
+		<data>
+		xCowdl1t+VomVIuwzrsYi3GT2Y4=
+		</data>
+		<key>KeyboardMentionActiveIOS6@2x.png</key>
+		<data>
+		0fxejBXwP4UT2fqf79grND/zB9w=
+		</data>
+		<key>KeyboardMentionIOS6.png</key>
+		<data>
+		/oZ7qzwH01zYgyIFH/fyaePpfPI=
+		</data>
+		<key>KeyboardMentionIOS6@2x.png</key>
+		<data>
+		Khw5vgeZwvWcBqe0Ue4vhjQ9EfA=
+		</data>
+		<key>KeyboardTag.png</key>
+		<data>
+		0XztTM3BM6O6nJ1Ei84KS6uztCo=
+		</data>
+		<key>KeyboardTag@2x.png</key>
+		<data>
+		e9ZamckRKmjjo/gQ4DpPvGo905k=
+		</data>
+		<key>KeyboardTagActive.png</key>
+		<data>
+		xZYV7YR8U/v6x/Dn5rVxxNfQ9n8=
+		</data>
+		<key>KeyboardTagActive@2x.png</key>
+		<data>
+		G/nlHCYCfqGIyTp6m/Dh3KRRp8k=
+		</data>
+		<key>KeyboardTagActiveIOS6.png</key>
+		<data>
+		zORCYE6VSYKiKCIsi3tiWzAg90A=
+		</data>
+		<key>KeyboardTagActiveIOS6@2x.png</key>
+		<data>
+		OANLaRc2wM/Ga2/cHyf+ripudYA=
+		</data>
+		<key>KeyboardTagIOS6.png</key>
+		<data>
+		9iixWKhwOMJ9hkDyNP7ah+bxyfg=
+		</data>
+		<key>KeyboardTagIOS6@2x.png</key>
+		<data>
+		CDquFnaHNWX7Dd3JDouJo56LNaM=
+		</data>
+		<key>LaunchImage-568h@2x.png</key>
+		<data>
+		5TKYBi0f2FZwBjVa7cMJzed+gkk=
+		</data>
+		<key>LaunchImage-700-568h@2x.png</key>
+		<data>
+		vJYJPnoo9dARpBLZ+BIwTpEs5WE=
+		</data>
+		<key>LaunchImage-700@2x.png</key>
+		<data>
+		FwqIBrMzkmf55yLdGXM/W0r5ng8=
+		</data>
+		<key>LaunchImage.png</key>
+		<data>
+		ozoxk3uE+YF/J2dB66kyhhZHIr0=
+		</data>
+		<key>LaunchImage@2x.png</key>
+		<data>
+		GIfmSLrWb/CkTYUyyiSlC7LJu54=
+		</data>
+		<key>LikeButton.png</key>
+		<data>
+		BR7kC0VYPqSBcsaNsiiqFDpv+Ms=
+		</data>
+		<key>LikeButton@2x.png</key>
+		<data>
+		F7ZPa43vFU/o7H5c1NSEYDWK3Hw=
+		</data>
+		<key>LikePhotoCorner.png</key>
+		<data>
+		pm/wy2iCP3ZPv4dr5dGlaTerXPw=
+		</data>
+		<key>LikePhotoCorner@2x.png</key>
+		<data>
+		+YHOEptON5bSGV8SNymRNi6tqWw=
+		</data>
+		<key>LocationIconOff.png</key>
+		<data>
+		jP2Ch+ZcPKjQ35k0zjxoNFBdVto=
+		</data>
+		<key>LocationIconOff@2x.png</key>
+		<data>
+		vTxBnowexBLb3v7CcJiIP9C3iCg=
+		</data>
+		<key>LocationIconOn.png</key>
+		<data>
+		4vR6FlO6erqDyDvKvCBuVggJvoA=
+		</data>
+		<key>LocationIconOn@2x.png</key>
+		<data>
+		2r8ai9RJppgQu0pZExKJktWnH9Y=
+		</data>
+		<key>MediumSadFace.png</key>
+		<data>
+		+PoMA2L6ONI5kMdSMviGTrZUi7A=
+		</data>
+		<key>MediumSadFace@2x.png</key>
+		<data>
+		727HNTl4YWeLix4DkDTS72bZdZo=
+		</data>
+		<key>MenuActivity.png</key>
+		<data>
+		FHG/Jm0e50RD17himj3jC0Xgn1Q=
+		</data>
+		<key>MenuActivity@2x.png</key>
+		<data>
+		jJ0C/Os7cX0H5RPEMfzrzrfld1g=
+		</data>
+		<key>MenuExplore.png</key>
+		<data>
+		8lRDrtw1CzEKC/Kj1UehvWyu8rc=
+		</data>
+		<key>MenuExplore@2x.png</key>
+		<data>
+		gYjQGgjja0E0SKUqoTNzR79zkBo=
+		</data>
+		<key>MenuHome.png</key>
+		<data>
+		JtFQBHQTEuFeKQOxsWtDaocuoFI=
+		</data>
+		<key>MenuHome@2x.png</key>
+		<data>
+		wA3WyK2njeChlCltTgGOxUF6Mws=
+		</data>
+		<key>MenuIconExplore.png</key>
+		<data>
+		tAigwjMOW2fZqDaok8PL8l/KL4o=
+		</data>
+		<key>MenuIconExplore@2x.png</key>
+		<data>
+		N/Lx7W2pcfYYiBZHdjKUHAuL+as=
+		</data>
+		<key>MenuIconHome.png</key>
+		<data>
+		5JL7l1/uKr56gTgLZlYQNM+Qd7k=
+		</data>
+		<key>MenuIconHome@2x.png</key>
+		<data>
+		PqRaaybqJqpKQu23r72MJji88Ic=
+		</data>
+		<key>MenuIconNotifications.png</key>
+		<data>
+		Wi24bsXG8haNkE4njdf9aeaqw5g=
+		</data>
+		<key>MenuIconNotifications@2x.png</key>
+		<data>
+		YR3yAflbSC8ru4sZwpTWD+QgGlg=
+		</data>
+		<key>MenuIconProfile.png</key>
+		<data>
+		Hdu2xkvVqoWV2p19V3c6Ak8U3iQ=
+		</data>
+		<key>MenuIconProfile@2x.png</key>
+		<data>
+		2OByT3Bmfdiz7oa7bUgYCtRhCbo=
+		</data>
+		<key>MenuProfile.png</key>
+		<data>
+		a24MPaWskSrCWjKZfxkhX6Iq1h4=
+		</data>
+		<key>MenuProfile@2x.png</key>
+		<data>
+		377Fp2/z0prgNEms3k1edxvNbME=
+		</data>
+		<key>MenuSeparator.png</key>
+		<data>
+		jGuYgHbldkwo2Jrpu82L9LpneXg=
+		</data>
+		<key>MenuSeparator@2x.png</key>
+		<data>
+		SGf8gWf2MfpSrTCkue2p3BiSDWc=
+		</data>
+		<key>NatureLocationIcon.png</key>
+		<data>
+		NtmmndW6oZtHKyy1fHq/f0HaSkE=
+		</data>
+		<key>NatureLocationIcon@2x.png</key>
+		<data>
+		mXmkBNDDP5d4Goz/SBKBOEZoQDk=
+		</data>
+		<key>NatureLocationTag.png</key>
+		<data>
+		Lj0XnAwkiREqxoza3kMBqo7YBPU=
+		</data>
+		<key>NatureLocationTag@2x.png</key>
+		<data>
+		eeaZMGtHQoBsDzCnAV2nAZrv0js=
+		</data>
+		<key>NatureMainFeedLocationIcon@2x.png</key>
+		<data>
+		Ksiz/XmAi9MorxEzaPR9mVLrfis=
+		</data>
+		<key>NavBar.png</key>
+		<data>
+		7+CcEKyfeoMuUuR0vCk4PaNpLys=
+		</data>
+		<key>NavBar@2x.png</key>
+		<data>
+		wd+CunPJAT5SwW+Mc7zAxNW4iLo=
+		</data>
+		<key>NightlifeLocationIcon.png</key>
+		<data>
+		/LleMppUz0gep+IbkB8oBKRue/E=
+		</data>
+		<key>NightlifeLocationIcon@2x.png</key>
+		<data>
+		A/MJOsvsE8eePn9hsBUVPMtxf2E=
+		</data>
+		<key>NightlifeLocationTag.png</key>
+		<data>
+		C7JCZQBBMxT8gTuS8zSORLAOjIM=
+		</data>
+		<key>NightlifeLocationTag@2x.png</key>
+		<data>
+		GXldjjdjbE8PxTaVZxTo7MR+AKA=
+		</data>
+		<key>NightlifeMainFeedLocationIcon@2x.png</key>
+		<data>
+		+TY6Fa+aXgKpWkopeAoifaStovI=
+		</data>
+		<key>NotificationsBubble.png</key>
+		<data>
+		N3c6qM3ZMR6RFFOrinnN9ECb1jQ=
+		</data>
+		<key>NotificationsBubble@2x.png</key>
+		<data>
+		eF0OHW0CmaaCps8MTOhnaT2s+7Q=
+		</data>
+		<key>OfficeLocationIcon.png</key>
+		<data>
+		LdSNXq/qizBVYBDtQrC3VtCL1bo=
+		</data>
+		<key>OfficeLocationIcon@2x.png</key>
+		<data>
+		hZREpT0sHQ+r0Ijui9Y+C766wSs=
+		</data>
+		<key>OfficeLocationTag.png</key>
+		<data>
+		crfQ/leb9LayZRcvS7JxiXZhz6g=
+		</data>
+		<key>OfficeLocationTag@2x.png</key>
+		<data>
+		Npgirgl6mRLgaezuR29dAgU2k3Q=
+		</data>
+		<key>OfficeMainFeedLocationIcon@2x.png</key>
+		<data>
+		u2ZNg5v9SiVRp4oJksT3YZAg/Jw=
+		</data>
+		<key>OptionsButton.png</key>
+		<data>
+		UU88ZB6Fu6g9+ImpFtXaX83YVR8=
+		</data>
+		<key>OptionsButton@2x.png</key>
+		<data>
+		ZF25x24AR/cAcIgn0Lp1sUEBtTg=
+		</data>
+		<key>PeopleIconOff.png</key>
+		<data>
+		bd96OYWU9fMQYqz8YV6PfL60JpM=
+		</data>
+		<key>PeopleIconOff@2x.png</key>
+		<data>
+		JNjNpTI86y++GdMtpEZOnOXR8Es=
+		</data>
+		<key>PeopleIconOn.png</key>
+		<data>
+		NKodR3cMFBjqRyZ1vqj7qox5m9M=
+		</data>
+		<key>PeopleIconOn@2x.png</key>
+		<data>
+		s/r0lJztgsPTn3AJ+rj75Q2OQJo=
+		</data>
+		<key>PlayButton.png</key>
+		<data>
+		Af963ry2uZ3x9/r0hLP/+OetFp8=
+		</data>
+		<key>PlayButton@2x.png</key>
+		<data>
+		6Heihwcsghi8cyZ8Ve6m7Bd9XlU=
+		</data>
+		<key>PlayButtonClip.png</key>
+		<data>
+		DnRFkAKquBYY2IwflF5xb4gOUuE=
+		</data>
+		<key>PlayButtonClip@2x.png</key>
+		<data>
+		/GPVW8DalS5KnNVAcSkLXU692Ik=
+		</data>
+		<key>PostInfoSeparator.png</key>
+		<data>
+		DVmB4RvMCmSpPwkg4T8bLYLlEyw=
+		</data>
+		<key>PostInfoSeparator@2x.png</key>
+		<data>
+		EsyMF1FNxKhMRpLwkjr+sy0AO6o=
+		</data>
+		<key>PostSeparator.png</key>
+		<data>
+		i9Ugma0/6TD/1iH8m4+wjzxiN7Q=
+		</data>
+		<key>PostSeparator@2x.png</key>
+		<data>
+		UgXnFsp1RDGkIivBLv0VCBa1pBU=
+		</data>
+		<key>PoweredByFoursquare.png</key>
+		<data>
+		r0I7iijnLbaAHM6XLaahg3TbAuc=
+		</data>
+		<key>PoweredByFoursquare@2x.png</key>
+		<data>
+		pE1DM71GhxXmr6kxUn2Dko4ZM4w=
+		</data>
+		<key>PrivacyCheckButton.png</key>
+		<data>
+		UQBez4x9nWJtk6En+5EutXblhSA=
+		</data>
+		<key>PrivacyCheckButton@2x.png</key>
+		<data>
+		bL1GvBJuUsJNpvxk/103iKDmt10=
+		</data>
+		<key>PrivacyXButton.png</key>
+		<data>
+		/YmU2dToo3x2BVVvHRcR9Ya33kI=
+		</data>
+		<key>PrivacyXButton@2x.png</key>
+		<data>
+		X+FcV1LcZIic9Dy3o9xwubpnBIs=
+		</data>
+		<key>PrivateGrey.png</key>
+		<data>
+		lev4K+9rFFU6nhTnzhYGlAEC5QY=
+		</data>
+		<key>PrivateGrey@2x.png</key>
+		<data>
+		ITlgs/8GTa3UYwmHvMatKnFUzUE=
+		</data>
+		<key>PrivatePostThumb.png</key>
+		<data>
+		6q8Xe9CxU9m1VWzoi6/jJumQz4Q=
+		</data>
+		<key>PrivatePostThumb@2x.png</key>
+		<data>
+		Nmc4gMX1mvFlXfdOk47LZs3SmCI=
+		</data>
+		<key>PrivateYellow.png</key>
+		<data>
+		FgDmrmC59xTAtqept+e8NrDmjqs=
+		</data>
+		<key>PrivateYellow@2x.png</key>
+		<data>
+		pv8t0K5HGq+0wG7Ul0XEYjyZFnI=
+		</data>
+		<key>ProfileFollowButton.png</key>
+		<data>
+		P2HZl+k355u3GynVE8X7He7HhG0=
+		</data>
+		<key>ProfileFollowButton@2x.png</key>
+		<data>
+		7bTzut2APErGvUGmRfm0hS2xuzQ=
+		</data>
+		<key>ProfileFollowingButton.png</key>
+		<data>
+		q9yInWsxFyHR3MchauIF9GRAK00=
+		</data>
+		<key>ProfileFollowingButton@2x.png</key>
+		<data>
+		T5WSSLIhI3tCsVXKkE7/oKWTQg4=
+		</data>
+		<key>ProfileLock.png</key>
+		<data>
+		ZAJtwB/MUgIJOToGyjkzeZ7QMfA=
+		</data>
+		<key>ProfileLock@2x.png</key>
+		<data>
+		TKwG+GGggRcIjKNYnaakVPNz0LQ=
+		</data>
+		<key>ProfileLockSmall.png</key>
+		<data>
+		lK9bih1H4gZMumdjVGUHrn2wLX8=
+		</data>
+		<key>ProfileLockSmall@2x.png</key>
+		<data>
+		4QMU3ebWmUjqSw7O1geOi6oI3GA=
+		</data>
+		<key>ProfileOptionsButton.png</key>
+		<data>
+		zHR3vUAL3jaLh53bT4cUI7JIpig=
+		</data>
+		<key>ProfileOptionsButton@2x.png</key>
+		<data>
+		VpZ0L1F+IIZwRaVKnxS7/1x9BAE=
+		</data>
+		<key>ProfilePhotoFrame.png</key>
+		<data>
+		nLRmgnepwcEWflbIFyiCCp/+eKQ=
+		</data>
+		<key>ProfilePhotoFrame@2x.png</key>
+		<data>
+		RxIIY8RdjKOPDS5sNbBX5wTZTy0=
+		</data>
+		<key>ProfileSettingsButton.png</key>
+		<data>
+		r/V1fTG2O9sysbI1qV5IKrbNlwg=
+		</data>
+		<key>ProfileSettingsButton@2x.png</key>
+		<data>
+		sOh7z/omU6RHXSl6GcIcwh+AOGM=
+		</data>
+		<key>ProfileTabLeftOff.png</key>
+		<data>
+		kxsFlVdQiID+cmdUrn2cfLvE8fM=
+		</data>
+		<key>ProfileTabLeftOff@2x.png</key>
+		<data>
+		9Qg3BgwC120BI5hZsSTvhBs9+CA=
+		</data>
+		<key>ProfileTabLeftOn.png</key>
+		<data>
+		IqAT78ETr++XxgDy/bUe6QQXf3E=
+		</data>
+		<key>ProfileTabLeftOn@2x.png</key>
+		<data>
+		NjXsRaS8H4Dx+QkY8/J7+1UNSbM=
+		</data>
+		<key>ProfileTabRightOff.png</key>
+		<data>
+		hU82ObTYGb/oSGsK+lm4Va2ERxY=
+		</data>
+		<key>ProfileTabRightOff@2x.png</key>
+		<data>
+		tuHr7FhbcNIN456RUhvZFd9AOuw=
+		</data>
+		<key>ProfileTabRightOn.png</key>
+		<data>
+		Wm8kBrQkemBcfGRSKWBfqRVnVFg=
+		</data>
+		<key>ProfileTabRightOn@2x.png</key>
+		<data>
+		3KLEtiv8VFytL9tCm6Scost2br0=
+		</data>
+		<key>ProgressBarLarge.png</key>
+		<data>
+		76IRtZfTGi4IYs+3eD3JkVx5jME=
+		</data>
+		<key>ProgressBarLarge@2x.png</key>
+		<data>
+		1aXBU1+807RxWSAdDivRVvdvTf0=
+		</data>
+		<key>ProgressBarSmall.png</key>
+		<data>
+		vrKo3y1SfP3AXoIckafNYArY+qc=
+		</data>
+		<key>ProgressBarSmall@2x.png</key>
+		<data>
+		OyFQd1Vy+T7I1Cvid+JlOgiRxeM=
+		</data>
+		<key>PullToRefreshSingleArrow.png</key>
+		<data>
+		vVQ5SCc0vnmT1ZosG85UXDg/soI=
+		</data>
+		<key>PullToRefreshSingleArrow@2x.png</key>
+		<data>
+		JdcjIwQTcrSgOZUxMxgdhVfpdyo=
+		</data>
+		<key>ReadMe.txt</key>
+		<data>
+		8qIBADxlTriNxr8PvYsm3FvvNik=
+		</data>
+		<key>RecordIcon.png</key>
+		<data>
+		3Z/k/DPLHCiurkJq7jEDEouhf0I=
+		</data>
+		<key>RecordIcon@2x.png</key>
+		<data>
+		h1eH6AGcR5UKy93BMRGnwBN+nVg=
+		</data>
+		<key>ReleaseIcon29x29.png</key>
+		<data>
+		trqzC5BZShzIr+O8ZWHeYLMD9Vs=
+		</data>
+		<key>ReleaseIcon29x29@2x.png</key>
+		<data>
+		DjRzUc/OD5EdtaQTqElVd397OVc=
+		</data>
+		<key>ReleaseIcon29x29@2x~ipad.png</key>
+		<data>
+		MPPnHpUxkPobg1y7RABv8s34o14=
+		</data>
+		<key>ReleaseIcon29x29~ipad.png</key>
+		<data>
+		AjLY0FKLNP70Tckw5wttZwJam4E=
+		</data>
+		<key>ReleaseIcon40x40@2x.png</key>
+		<data>
+		hOESiNgCya4tFfxYnxKYb0nYCIw=
+		</data>
+		<key>ReleaseIcon40x40@2x~ipad.png</key>
+		<data>
+		+t6b0ntTg9zc9mH8YkA37PZrJzE=
+		</data>
+		<key>ReleaseIcon40x40~ipad.png</key>
+		<data>
+		fAvdAtkhrdqGR/0oQOWSSnlexs4=
+		</data>
+		<key>ReleaseIcon50x50@2x~ipad.png</key>
+		<data>
+		8GOdezF0wIWFCE/qvrVnn86iAVY=
+		</data>
+		<key>ReleaseIcon50x50~ipad.png</key>
+		<data>
+		LhLGypsl4efjPFjgxeR1clXvRRw=
+		</data>
+		<key>ReleaseIcon57x57.png</key>
+		<data>
+		KhOd5dmS02uJ9ArRhY+RGDP/5bc=
+		</data>
+		<key>ReleaseIcon57x57@2x.png</key>
+		<data>
+		x1Fa5Urxg+EVZtYhmiL0yuf0Z/4=
+		</data>
+		<key>ReleaseIcon60x60@2x.png</key>
+		<data>
+		+S9wSgO0II+eXJ72wDPhfUQ4ZFc=
+		</data>
+		<key>ReleaseIcon72x72@2x~ipad.png</key>
+		<data>
+		MJ27WJwRpTshpjgab+BHeuze1es=
+		</data>
+		<key>ReleaseIcon72x72~ipad.png</key>
+		<data>
+		T7p5obfbzp8ygx7ed8tzeoMh6fc=
+		</data>
+		<key>ReleaseIcon76x76@2x~ipad.png</key>
+		<data>
+		5ISXzX1KVsJzG7wc8tcwVbam8OY=
+		</data>
+		<key>ReleaseIcon76x76~ipad.png</key>
+		<data>
+		LsruZjvV41LOde4+FuVwvCV977A=
+		</data>
+		<key>ReplyComment.png</key>
+		<data>
+		BVDE/kisYZdi69awwGiSR7rZ9XE=
+		</data>
+		<key>ReplyComment@2x.png</key>
+		<data>
+		h7RFEAkRebz8nxbvM0dOuyDBdGw=
+		</data>
+		<key>RepostIcon.png</key>
+		<data>
+		Fow6rGQ12JqN1Pk4D+ldjS4O3HI=
+		</data>
+		<key>RepostIcon@2x.png</key>
+		<data>
+		nnzptmNAg7FXWyYFd7BAM0GqXi8=
+		</data>
+		<key>RequestedButton.png</key>
+		<data>
+		+JMTmtohK71Fw1PjPEEfG2TQuw0=
+		</data>
+		<key>RequestedButton@2x.png</key>
+		<data>
+		drK5ELhxm63I5z7Ebm3N/JMLaNg=
+		</data>
+		<key>ResidentialLocationIcon.png</key>
+		<data>
+		ux2oNlsd/HVKXQP2rVVf1O8TEc8=
+		</data>
+		<key>ResidentialLocationIcon@2x.png</key>
+		<data>
+		t/g8z0ZWuHUDeS2HYWZ4cdNUSdM=
+		</data>
+		<key>ResidentialLocationTag.png</key>
+		<data>
+		rGPzzrXCYtXMZhGre3Ij1CErPac=
+		</data>
+		<key>ResidentialLocationTag@2x.png</key>
+		<data>
+		l8gt8gcdgDkV0bqWbf6IEtOC6bU=
+		</data>
+		<key>ResidentialMainFeedLocationIcon@2x.png</key>
+		<data>
+		+h9E38MzFYGTE3puo/ICHjKQMI4=
+		</data>
+		<key>ResourceRules.plist</key>
+		<data>
+		d/bl2iIqxwOE4IBWAjyDLXJVwLo=
+		</data>
+		<key>RestaurantLocationIcon.png</key>
+		<data>
+		jNGyN+j9RDf0Djr/0fn8jQr9fgU=
+		</data>
+		<key>RestaurantLocationIcon@2x.png</key>
+		<data>
+		dFhSzN1HIjnJTriE79y/kGyC1DQ=
+		</data>
+		<key>RestaurantLocationTag.png</key>
+		<data>
+		10StbaP4+koqthKYmaZHsT2sj8g=
+		</data>
+		<key>RestaurantLocationTag@2x.png</key>
+		<data>
+		qvPInrMWFKDh5Ux1AkXiQ2WqsiM=
+		</data>
+		<key>RestaurantMainFeedLocationIcon@2x.png</key>
+		<data>
+		cCVMYrqpO8MzQ7IOfGXEzkwTS/Y=
+		</data>
+		<key>RevineCorner.png</key>
+		<data>
+		BUu1/tcbHI4HgAP07XdLX6/P/Zs=
+		</data>
+		<key>RevineCorner@2x.png</key>
+		<data>
+		Xum0t+Fg3nhYnlUmc+OFr+lpP60=
+		</data>
+		<key>SVProgressHUD.bundle/error.png</key>
+		<data>
+		9XdzBY+m4812W9OUGgWPLl710PM=
+		</data>
+		<key>SVProgressHUD.bundle/error@2x.png</key>
+		<data>
+		afqZhQTmqB6Xt+dF7g6Deyb8RtU=
+		</data>
+		<key>SVProgressHUD.bundle/success.png</key>
+		<data>
+		13Uw/JN7f44Tktyp+ihXJItYAbQ=
+		</data>
+		<key>SVProgressHUD.bundle/success@2x.png</key>
+		<data>
+		Ns3GJykvNcg+3Axl5YTAIln1L5c=
+		</data>
+		<key>SearchCancel.png</key>
+		<data>
+		Ph7fu9fNPQjGRwnHhYxdwa7lzeg=
+		</data>
+		<key>SearchCancel@2x.png</key>
+		<data>
+		uvm3W7QJg020qN58xwGVDfOVn0k=
+		</data>
+		<key>SearchIcon.png</key>
+		<data>
+		xXy8Z41ctbgE+td0r2WZ2s17zus=
+		</data>
+		<key>SearchIcon@2x.png</key>
+		<data>
+		rbA68g8MHP0EN9yXmTrsKwpYbek=
+		</data>
+		<key>SearchLocationIcon.png</key>
+		<data>
+		2NZuro1NG+MFiKJZWtjv5mlQL8E=
+		</data>
+		<key>SearchLocationIcon@2x.png</key>
+		<data>
+		4mK0+HP9DYgzVkWhvGw0KD1fG0U=
+		</data>
+		<key>SendButton.png</key>
+		<data>
+		wX3EKbrlVzL5Iv03pd9PPClpRcc=
+		</data>
+		<key>SendButton@2x.png</key>
+		<data>
+		7tr62gffTne2oxsIC7WmFJGr2Ew=
+		</data>
+		<key>SettingsFormBottom.png</key>
+		<data>
+		oYcjz/qYJYaicwxWzdqGZQ4phxY=
+		</data>
+		<key>SettingsFormBottom@2x.png</key>
+		<data>
+		pCOICUJzev1O1Fhi0lmFkRSYUx4=
+		</data>
+		<key>SettingsFormMiddle.png</key>
+		<data>
+		O5IIcUVUL+bIREWJDWmn/A5AdZI=
+		</data>
+		<key>SettingsFormMiddle@2x.png</key>
+		<data>
+		Jb91UpUsge4b7rb9amlIc4R5FEg=
+		</data>
+		<key>SettingsFormSingle.png</key>
+		<data>
+		gsLJa7d4iS6643ivvQ3nzpsFEsE=
+		</data>
+		<key>SettingsFormSingle@2x.png</key>
+		<data>
+		whZojDmakL5L4vHSi594W9rxvSU=
+		</data>
+		<key>SettingsFormTop.png</key>
+		<data>
+		XSDmoddMwoTkRVpEVK31Jn+fPtw=
+		</data>
+		<key>SettingsFormTop@2x.png</key>
+		<data>
+		aUl76Yagqyhg804H6N5ymkR3kD8=
+		</data>
+		<key>SettingsLogOutButton.png</key>
+		<data>
+		qqPdGd4lSD47ycAKTcWfj0AKJJ4=
+		</data>
+		<key>SettingsLogOutButton@2x.png</key>
+		<data>
+		U0ZnzUcnlucMAyWoX2v1cfgKzqo=
+		</data>
+		<key>ShareButton.png</key>
+		<data>
+		5QILbha/sJibahZ8/9vKipgDCNc=
+		</data>
+		<key>ShareButton@2x.png</key>
+		<data>
+		qi5FvjgkLs+NFH2xMU/mgr719jM=
+		</data>
+		<key>ShareFormBottom.png</key>
+		<data>
+		/o/NiZzJMNjepDNnuDpfw+tiNX8=
+		</data>
+		<key>ShareFormBottom@2x.png</key>
+		<data>
+		+Bk80nG01N640gsHrY8wdC5LORk=
+		</data>
+		<key>ShareFormMid.png</key>
+		<data>
+		4ijqDz9KQCezS+R2S7QurPAv8e4=
+		</data>
+		<key>ShareFormMid@2x.png</key>
+		<data>
+		YYNoVn2JhCUyOJFhEgg0JZwCHoA=
+		</data>
+		<key>ShareFormTop.png</key>
+		<data>
+		XdEzMMQXxRRSc0GOqeY24pRs214=
+		</data>
+		<key>ShareFormTop@2x.png</key>
+		<data>
+		mGFdexg8EP/APfjL2PU66BKEoVM=
+		</data>
+		<key>ShareKeyboardBar.png</key>
+		<data>
+		bv7Km1jA2c6MSnI9KgKqHxr2Gsg=
+		</data>
+		<key>ShareKeyboardBar@2x.png</key>
+		<data>
+		4MA3cfPy8W+N2kD+C7mvLrG9ZhI=
+		</data>
+		<key>ShareKeyboardBarIOS6.png</key>
+		<data>
+		Pch3q8ipPX/jvqXv9HwLv5DIUAY=
+		</data>
+		<key>ShareKeyboardBarIOS6@2x.png</key>
+		<data>
+		tsVG8ooepZtc08Verp5KGkvglkQ=
+		</data>
+		<key>ShopLocationIcon.png</key>
+		<data>
+		bCUt5aJH0LjvM1uJRkBqJbJi/3Y=
+		</data>
+		<key>ShopLocationIcon@2x.png</key>
+		<data>
+		6V3Q/qjpjqa4Q0fsK7QCrJVkbnM=
+		</data>
+		<key>ShopMainFeedLocationIcon@2x.png</key>
+		<data>
+		KioOqUuBljx7VgyB4DL7ZWD60zo=
+		</data>
+		<key>SignInBackArrow.png</key>
+		<data>
+		CSdNsu3ybK0QXdHQwZrbHZ/vfS4=
+		</data>
+		<key>SignInBackArrow@2x.png</key>
+		<data>
+		g/ZeSD5TFTlxBPKpExumsNynp54=
+		</data>
+		<key>SignInClose.png</key>
+		<data>
+		5hTc3v0e1ID08WOZ45wdLe2D0aM=
+		</data>
+		<key>SignInClose@2x.png</key>
+		<data>
+		8fR8UevuhymOp4o+cGQL7WJE51s=
+		</data>
+		<key>SignInFormBottom.png</key>
+		<data>
+		vO2Lcm7bXFhs8Hd2PWBIiLmAieo=
+		</data>
+		<key>SignInFormBottom@2x.png</key>
+		<data>
+		t5/XI35oeoPBIQUll7Xrah4dues=
+		</data>
+		<key>SignInFormMid.png</key>
+		<data>
+		ZXf3nQTEQbAjVacX3JK0xewj1TI=
+		</data>
+		<key>SignInFormMid@2x.png</key>
+		<data>
+		yue2oidvwvYMS+fBh6ZNfmBU6QY=
+		</data>
+		<key>SignInFormSingle.png</key>
+		<data>
+		WsfbfbbASnV+9q+Xg38JgE3C/NI=
+		</data>
+		<key>SignInFormSingle@2x.png</key>
+		<data>
+		HQ+NdVjdpTSQA2Dmon8dX1YjFEg=
+		</data>
+		<key>SignInFormTop.png</key>
+		<data>
+		zhIDQEKqNVKiC/+1vMZMMuG6mto=
+		</data>
+		<key>SignInFormTop@2x.png</key>
+		<data>
+		m1I31z0PEDHRp7PwMJQjVscZwt4=
+		</data>
+		<key>SignInGreenButton.png</key>
+		<data>
+		Ekr8og9qBNCssJpB3l+zBYokhxo=
+		</data>
+		<key>SignInGreenButton@2x.png</key>
+		<data>
+		qioIbyplj2JF5EPBiUj6Z1kgQ7g=
+		</data>
+		<key>SignInHeaderGrey.png</key>
+		<data>
+		hQf3W7ulUEyY/AhckOHMhgTGyXk=
+		</data>
+		<key>SignInHeaderGrey@2x.png</key>
+		<data>
+		u3q/l6zSHEabViznjwyxT0hzplY=
+		</data>
+		<key>SignInLogo.png</key>
+		<data>
+		OeejGnHkGKSfTVmzFvv5NXPKmH0=
+		</data>
+		<key>SignInLogo@2x.png</key>
+		<data>
+		2vQJCOCd4lidTfn/Gk68yPGXDPY=
+		</data>
+		<key>SignInMailButton.png</key>
+		<data>
+		2kvrP71D/mCqpnn/9UTpLjIFoPs=
+		</data>
+		<key>SignInMailButton@2x.png</key>
+		<data>
+		ZSCnEQAVsn4l8JfgJE1xpMorwrI=
+		</data>
+		<key>SignInNext.png</key>
+		<data>
+		1U1F7IXWoPSXl53l7BgEzgKTSr0=
+		</data>
+		<key>SignInNext@2x.png</key>
+		<data>
+		hXcLQNQ502W721BHHZEv7Aq6E00=
+		</data>
+		<key>SignInTopBar.png</key>
+		<data>
+		wEVQb0QoR6RVXXHArhDCfLEwYpc=
+		</data>
+		<key>SignInTopBar@2x.png</key>
+		<data>
+		PcmuCRm6nEahSl/ev6f74Pwp44I=
+		</data>
+		<key>SignInTwitterButton.png</key>
+		<data>
+		877VLd7O2hsqzD1A6H+WsdRvUNo=
+		</data>
+		<key>SignInTwitterButton@2x.png</key>
+		<data>
+		WVuirO9Tln9pUpTgz5FIONX0iG0=
+		</data>
+		<key>SmallCheckButton.png</key>
+		<data>
+		V02kmStIzXKFIub9nSPPFNdhQmk=
+		</data>
+		<key>SmallCheckButton@2x.png</key>
+		<data>
+		rJXbJ4zAI3fMAjYa7ntScLJifeo=
+		</data>
+		<key>SmallSadFace.png</key>
+		<data>
+		uGo1f1AcT0lhES+AhgRyCvtbzKQ=
+		</data>
+		<key>SmallSadFace@2x.png</key>
+		<data>
+		aqzkM3yVk2xZsvFpw6S/eCBbv/8=
+		</data>
+		<key>SquareLocationIcon.png</key>
+		<data>
+		3vqUHShzmr9Pkc1jHYUx3CNZhns=
+		</data>
+		<key>SquareLocationIcon@2x.png</key>
+		<data>
+		yDCXa8jrLD9Kz5McbHxmmGlVQpg=
+		</data>
+		<key>SquareLocationTag.png</key>
+		<data>
+		jAdiD2XoTO9bwYmWWAovRXQMjWo=
+		</data>
+		<key>SquareLocationTag@2x.png</key>
+		<data>
+		m0h9eS3xF9eMnbB4Gdxzrr42ha0=
+		</data>
+		<key>SquareMainFeedLocationIcon@2x.png</key>
+		<data>
+		fl2/C6YaiefKlei5NP2WC8G/4zY=
+		</data>
+		<key>SquarespaceLocationIcon.png</key>
+		<data>
+		RSI87nwyCrUcUMbkOXlLWQ6Pdck=
+		</data>
+		<key>SquarespaceLocationIcon@2x.png</key>
+		<data>
+		RD/zUMDfXUvR7z8C1cBPzyisV4s=
+		</data>
+		<key>SquarespaceLocationTag.png</key>
+		<data>
+		eZrg0vVKofZeN8+74GJR77uJdn8=
+		</data>
+		<key>SquarespaceLocationTag@2x.png</key>
+		<data>
+		p8P+vPEgrDFKa+Rsi9Xh8AHmgSU=
+		</data>
+		<key>SquarespaceMainFeedLocationIcon@2x.png</key>
+		<data>
+		DS2E3lKajTt1v3ODBbV6frXgSew=
+		</data>
+		<key>SwitchFace.png</key>
+		<data>
+		LHdE/C1ZGBwPV44x9vk0/Hd9WaU=
+		</data>
+		<key>SwitchFace@2x.png</key>
+		<data>
+		MZnP3S0E4vE58KtKbtH3Wdawf+M=
+		</data>
+		<key>SwitchOffImage.png</key>
+		<data>
+		hqOHK7RwTLhhdh3LY2RxovfcVGQ=
+		</data>
+		<key>SwitchOffImage@2x.png</key>
+		<data>
+		OwF0LIZDFarVYaGQwQB0Cr4x0bM=
+		</data>
+		<key>SwitchOnImage.png</key>
+		<data>
+		QG1abD0ohInTVnH/FigrLuzU8+o=
+		</data>
+		<key>SwitchOnImage@2x.png</key>
+		<data>
+		lB5bq8Y0WIQfMTP2epD80JSgUiA=
+		</data>
+		<key>TabNib.png</key>
+		<data>
+		7fSzGf/DOkBviOJjNKyfTToDy00=
+		</data>
+		<key>TabNib@2x.png</key>
+		<data>
+		OH2PuJlvfYeKgkdI+H/NmX2IzMc=
+		</data>
+		<key>TagIconOff.png</key>
+		<data>
+		QZr933bN2MVmtc3Vx/wJPSzZvWQ=
+		</data>
+		<key>TagIconOff@2x.png</key>
+		<data>
+		jHAK4LyIz7a+tTn8HySQPAJWOYY=
+		</data>
+		<key>TagIconOn.png</key>
+		<data>
+		7uDNfI+Jds4c6Es283vVS0HfAho=
+		</data>
+		<key>TagIconOn@2x.png</key>
+		<data>
+		qxXQqnIITTJFli2mkcAmnKJckYY=
+		</data>
+		<key>TapToPreview.png</key>
+		<data>
+		hsTYueg3Oq+cSaCwj8622aYGOSs=
+		</data>
+		<key>TapToPreview@2x.png</key>
+		<data>
+		VEKLsWmtaTTjNQrY+VZ5ZPGm690=
+		</data>
+		<key>Textfield.png</key>
+		<data>
+		R2QIVpgjFtdK2UvW+Ui+8FJMXu4=
+		</data>
+		<key>Textfield@2x.png</key>
+		<data>
+		hw1+YJpYTLpS/Rtxkve//eUBJQw=
+		</data>
+		<key>TimeTravelBar.png</key>
+		<data>
+		5JVbdBL50a/IEmZiIQMiwWlyk+4=
+		</data>
+		<key>TimeTravelBar@2x.png</key>
+		<data>
+		+Dzf3w0DrDGeER8qHrjdvxisQ1M=
+		</data>
+		<key>TinyCameraGrey.png</key>
+		<data>
+		2OziU4ZZS9jt/PE1oOTEg8V0+kg=
+		</data>
+		<key>TinyCameraGrey@2x.png</key>
+		<data>
+		DKOo8GebuxDVFd2eCM7m66Li71M=
+		</data>
+		<key>TinyCameraWhite.png</key>
+		<data>
+		eKdjZntvD8BbOKmNgKbXu5tfshw=
+		</data>
+		<key>TinyCameraWhite@2x.png</key>
+		<data>
+		yQ10znqBK+f3/cdZhGpFq4m0XFg=
+		</data>
+		<key>TrashcanSmallGrey.png</key>
+		<data>
+		FwdiAH+Dlcny27g5lPQ8TlGMiTI=
+		</data>
+		<key>TrashcanSmallGrey@2x.png</key>
+		<data>
+		ZiuOhDdDu8YlvWBVC48/hlE8aU0=
+		</data>
+		<key>TrashcanSmallWhite.png</key>
+		<data>
+		M//vF1SWHTo+SnQfoBWpksO43B4=
+		</data>
+		<key>TrashcanSmallWhite@2x.png</key>
+		<data>
+		ZEvibq3DFDMSCH/CLYnHFFrI15s=
+		</data>
+		<key>TravelLocationIcon.png</key>
+		<data>
+		/E7xcqTGr+USQn6tKGyCVfK2+ko=
+		</data>
+		<key>TravelLocationIcon@2x.png</key>
+		<data>
+		wlr7IEQJUGXiwSfGtMnqX57sEr8=
+		</data>
+		<key>TravelLocationTag.png</key>
+		<data>
+		7y/NC0y+9nFyPdH/cRCe2YLXGHs=
+		</data>
+		<key>TravelLocationTag@2x.png</key>
+		<data>
+		LC1jYwlBSyfwKloL1wAj/7sJB6U=
+		</data>
+		<key>TravelMainFeedLocationIcon@2x.png</key>
+		<data>
+		TxFwZqnTJYZiYK5Rz2JuGxCwUFU=
+		</data>
+		<key>TutorialBackground.png</key>
+		<data>
+		N3D3v267QvaAlKUOfgkctbEJSv8=
+		</data>
+		<key>TutorialBackground@2x.png</key>
+		<data>
+		TFaV6JNUH1XO4cIdXpFs+HWLj6Q=
+		</data>
+		<key>TwitterButton.png</key>
+		<data>
+		6Fu88u7nSPIkclZCuN5pFMX1SOY=
+		</data>
+		<key>TwitterButton@2x.png</key>
+		<data>
+		P02UPxJ3NgMuGqu9w/46SpQJzAY=
+		</data>
+		<key>TwitterLocationIcon.png</key>
+		<data>
+		iCtMRVSd9Haew7pShwKbklYBYq8=
+		</data>
+		<key>TwitterLocationIcon@2x.png</key>
+		<data>
+		yhpoeOx9AMLLKfnxJ0xEm8jecCM=
+		</data>
+		<key>TwitterLocationTag.png</key>
+		<data>
+		az07gN71AhxO8qBS+tMb976XRY4=
+		</data>
+		<key>TwitterLocationTag@2x.png</key>
+		<data>
+		3kl73uAgofubiccAXF6J5GYQJVo=
+		</data>
+		<key>TwitterMainFeedLocationIcon@2x.png</key>
+		<data>
+		aEU2zEGYo0UG1WCwL4579iel8iA=
+		</data>
+		<key>TwitterOff.png</key>
+		<data>
+		tsl1FA9fy+iQ8g0Pe+pUMYnTMOs=
+		</data>
+		<key>TwitterOff@2x.png</key>
+		<data>
+		2ZB1jdZtS8iSAaadaa+lN37fNoU=
+		</data>
+		<key>TwitterOn.png</key>
+		<data>
+		MwWwgc53fD34Wit0yBS9CzDIuno=
+		</data>
+		<key>TwitterOn@2x.png</key>
+		<data>
+		8aTl2XPxyV2zJL7E4J5QZwDi2sI=
+		</data>
+		<key>TwitterWatermark.png</key>
+		<data>
+		PsmrljKcI9rNWYDRwAejkCy7T+k=
+		</data>
+		<key>TwitterWatermark@2x.png</key>
+		<data>
+		gjtXqU4/Ho+Ycx4t7t+p7QugNU4=
+		</data>
+		<key>UnLikeButton.png</key>
+		<data>
+		6UftLSyZZkx/rJzZRyP/Rvi9aQ0=
+		</data>
+		<key>UnLikeButton@2x.png</key>
+		<data>
+		L+ZZlgO9CxfmRlmds11JaaGCrdc=
+		</data>
+		<key>UnShareButton.png</key>
+		<data>
+		lnbUq2e0CGo0A3efaPI+2lQsE/0=
+		</data>
+		<key>UnShareButton@2x.png</key>
+		<data>
+		iRCs/vMp6Y9Nt/mxJqWQtgwSwbI=
+		</data>
+		<key>UniversityLocationIcon.png</key>
+		<data>
+		smUHIgVMlXoswqJIu3N800sYOfw=
+		</data>
+		<key>UniversityLocationIcon@2x.png</key>
+		<data>
+		Xg52z9yP4Sj7jfb9KfIve7IgatI=
+		</data>
+		<key>UniversityLocationTag.png</key>
+		<data>
+		ebeQ1yrymtv3dBmuJ6RIjqarMTE=
+		</data>
+		<key>UniversityMainFeedLocationIcon@2x.png</key>
+		<data>
+		gxz6phOTgjf1jaWSuqyCWkdb+RM=
+		</data>
+		<key>UploadCellSeparator.png</key>
+		<data>
+		9PEH/n1LrYNHGEk8TWqbixyA/gA=
+		</data>
+		<key>UploadCellSeparator@2x.png</key>
+		<data>
+		qZhy0lPoBGppSqq4iNaGuojO7aQ=
+		</data>
+		<key>UploadDeleteButton.png</key>
+		<data>
+		oB4J1s6XtTq1wkr9EPUJ/e4QyLg=
+		</data>
+		<key>UploadDeleteButton@2x.png</key>
+		<data>
+		dtGxbX+Z5P023i0aHg7MTfvUx+s=
+		</data>
+		<key>UploadLoader.png</key>
+		<data>
+		xoSia6CviaRh399ZbzTEwnnd0kY=
+		</data>
+		<key>UploadLoader@2x.png</key>
+		<data>
+		Fs+PQc8hzvn3uBOL/SD4d+ulRew=
+		</data>
+		<key>UploadRetryButton.png</key>
+		<data>
+		TdEZkIvbspR5i4gXVO5eouORi9g=
+		</data>
+		<key>UploadRetryButton@2x.png</key>
+		<data>
+		q5/UDRCOG8J5s0m4fIOh2zXiH1U=
+		</data>
+		<key>UploadWindow.png</key>
+		<data>
+		/jw407T4i+Axnqul1WpoQKSDCrs=
+		</data>
+		<key>UploadWindow@2x.png</key>
+		<data>
+		WlveZIzzoD8mtgQx8v51rLiZhPE=
+		</data>
+		<key>VBadge.png</key>
+		<data>
+		8gY6gPYicekujBWJVfKHG0w160w=
+		</data>
+		<key>VBadge@2x.png</key>
+		<data>
+		uSxCHwVL+oT9JugShtTZlv/5yIc=
+		</data>
+		<key>VNActivityViewController.nib/objects.nib</key>
+		<data>
+		LVOOl0K3NF58rkpIVnPXc/O6hus=
+		</data>
+		<key>VNActivityViewController.nib/runtime.nib</key>
+		<data>
+		LVOOl0K3NF58rkpIVnPXc/O6hus=
+		</data>
+		<key>VNChannelCell.nib/objects.nib</key>
+		<data>
+		A2r4yfO9s5H59AkUuU5QvJjkuLQ=
+		</data>
+		<key>VNChannelCell.nib/runtime.nib</key>
+		<data>
+		XIsM2iq3Sgan9bmbaOu3f59BPuU=
+		</data>
+		<key>VNChannelHeaderCell.nib/objects.nib</key>
+		<data>
+		NSompUS82g33NyaMOkB2tQIXUHs=
+		</data>
+		<key>VNChannelHeaderCell.nib/runtime.nib</key>
+		<data>
+		c/T9XKJo6eJBwb2p5ZetV6T0c/I=
+		</data>
+		<key>VNChannelSelectViewController.nib/objects.nib</key>
+		<data>
+		q4bySZRqkvkOUuqHRmgzZdBqfdg=
+		</data>
+		<key>VNChannelSelectViewController.nib/runtime.nib</key>
+		<data>
+		q4bySZRqkvkOUuqHRmgzZdBqfdg=
+		</data>
+		<key>VNCommentTableViewCell.nib/objects.nib</key>
+		<data>
+		QUiMdf06W0wxZHaktXFyvxHhj0E=
+		</data>
+		<key>VNCommentTableViewCell.nib/runtime.nib</key>
+		<data>
+		VUTTuZb9yw8RpjzABKqp5W3fCew=
+		</data>
+		<key>VNCommentTagCell.nib/objects.nib</key>
+		<data>
+		Qwz12bdS2EeqUZlJmDa7yr8niHE=
+		</data>
+		<key>VNCommentTagCell.nib/runtime.nib</key>
+		<data>
+		gFIGkh/88d/gZdVl1uovrMCcX6s=
+		</data>
+		<key>VNCommentViewController.nib/objects.nib</key>
+		<data>
+		aqUoug92flLeIkt9IdqoPdjgBqU=
+		</data>
+		<key>VNCommentViewController.nib/runtime.nib</key>
+		<data>
+		BBzjYJiyAk7siX+GGvTQY1o8YsQ=
+		</data>
+		<key>VNContentControlsCell.nib/objects.nib</key>
+		<data>
+		pusD3c7Exrt29XNwwctzg2IlE1A=
+		</data>
+		<key>VNContentControlsCell.nib/runtime.nib</key>
+		<data>
+		jgb+QjOBsJtsG9LNAgh7aBUNOe8=
+		</data>
+		<key>VNContentControlsViewController.nib/objects.nib</key>
+		<data>
+		PA7cvylhiqk8R7OV5bZb1OtwCSM=
+		</data>
+		<key>VNContentControlsViewController.nib/runtime.nib</key>
+		<data>
+		PA7cvylhiqk8R7OV5bZb1OtwCSM=
+		</data>
+		<key>VNEmptyLargeCell.nib/objects.nib</key>
+		<data>
+		yptJM+qfmZ3RDP4u7gR+Y2wi5cU=
+		</data>
+		<key>VNEmptyLargeCell.nib/runtime.nib</key>
+		<data>
+		DLJcOSx0Mv0TqGMa7nedmkKEr6E=
+		</data>
+		<key>VNEmptyMediumCell.nib/objects.nib</key>
+		<data>
+		CViKkJLuKKzyCGGITsrBIUEMQEk=
+		</data>
+		<key>VNEmptyMediumCell.nib/runtime.nib</key>
+		<data>
+		i1w+eBGHmMiV8dQtf7in4ANK+WY=
+		</data>
+		<key>VNEmptyTextMediumCell.nib/objects.nib</key>
+		<data>
+		6/vMGOin0HKgOvp3jzvCvdRenr0=
+		</data>
+		<key>VNEmptyTextMediumCell.nib/runtime.nib</key>
+		<data>
+		yXEwTYmZGQL5vj3JVRqjoN7YUGg=
+		</data>
+		<key>VNEntityTagCell.nib/objects.nib</key>
+		<data>
+		uaC2BSvjt2Th+WCKLYtN9tXP5AM=
+		</data>
+		<key>VNEntityTagCell.nib/runtime.nib</key>
+		<data>
+		9ppdLRgbdyF19m8M4d0oSe+NPRQ=
+		</data>
+		<key>VNEntityUserCell.nib/objects.nib</key>
+		<data>
+		rbuuicOGj33DBL5gpX5vQmARiBw=
+		</data>
+		<key>VNEntityUserCell.nib/runtime.nib</key>
+		<data>
+		pZy8Tk6/0TL5WDzW3USBORISaCE=
+		</data>
+		<key>VNExploreTagCell.nib/objects.nib</key>
+		<data>
+		gcAVk8mjvLAeBSwAgWObBfhnov0=
+		</data>
+		<key>VNExploreTagCell.nib/runtime.nib</key>
+		<data>
+		puPXrbYhfpCUTNaAbkSvybWwrP4=
+		</data>
+		<key>VNExploreViewController.nib/objects.nib</key>
+		<data>
+		PlYG/ib1JiSY26XlWpYrUp0fBr4=
+		</data>
+		<key>VNExploreViewController.nib/runtime.nib</key>
+		<data>
+		iRVvW3Ln1A1VPKseNe3/oejMOls=
+		</data>
+		<key>VNFindFriendsViewController.nib/objects.nib</key>
+		<data>
+		clHlUulfrP7mByiodAoSq8KtZq0=
+		</data>
+		<key>VNFindFriendsViewController.nib/runtime.nib</key>
+		<data>
+		rJtk8vi71AGu4Ugkw5mznPTOEe4=
+		</data>
+		<key>VNFollowRequestTableViewCell.nib/objects.nib</key>
+		<data>
+		9W/2pLbnDzawWt5zGiFtYwq7+rc=
+		</data>
+		<key>VNFollowRequestTableViewCell.nib/runtime.nib</key>
+		<data>
+		p1yU+NxFrhjsWePVKlusbhxNCwM=
+		</data>
+		<key>VNFollowRequestViewController.nib/objects.nib</key>
+		<data>
+		fA/V+1jc9vAK6xYzNBGduHStEZ8=
+		</data>
+		<key>VNFollowRequestViewController.nib/runtime.nib</key>
+		<data>
+		fA/V+1jc9vAK6xYzNBGduHStEZ8=
+		</data>
+		<key>VNHomeFeedViewController.nib/objects.nib</key>
+		<data>
+		QwipJ1r7fMFVCpEr+g6edHiwbxk=
+		</data>
+		<key>VNHomeFeedViewController.nib/runtime.nib</key>
+		<data>
+		QwipJ1r7fMFVCpEr+g6edHiwbxk=
+		</data>
+		<key>VNLoadMoreCell.nib/objects.nib</key>
+		<data>
+		hfKJVskPBAT7AlzlmHk+kqC7lmc=
+		</data>
+		<key>VNLoadMoreCell.nib/runtime.nib</key>
+		<data>
+		IWFnkjeE4MWRgw/D+EOavTkYPNI=
+		</data>
+		<key>VNLoginViewController.nib/objects.nib</key>
+		<data>
+		KFP5m2xCV7QflzLu2YiifmpKf3M=
+		</data>
+		<key>VNLoginViewController.nib/runtime.nib</key>
+		<data>
+		KFP5m2xCV7QflzLu2YiifmpKf3M=
+		</data>
+		<key>VNNotificationTableViewCell.nib/objects.nib</key>
+		<data>
+		GFqIN8zSL+3AtK9l1lTfd9455z4=
+		</data>
+		<key>VNNotificationTableViewCell.nib/runtime.nib</key>
+		<data>
+		eL275l8E9aOXDRpbARqvGChQsJA=
+		</data>
+		<key>VNOtherFriendsViewController.nib/objects.nib</key>
+		<data>
+		onh5Cqaxaiw4TCilNEHFx6quhhE=
+		</data>
+		<key>VNOtherFriendsViewController.nib/runtime.nib</key>
+		<data>
+		onh5Cqaxaiw4TCilNEHFx6quhhE=
+		</data>
+		<key>VNPeopleViewController.nib/objects.nib</key>
+		<data>
+		q4bySZRqkvkOUuqHRmgzZdBqfdg=
+		</data>
+		<key>VNPeopleViewController.nib/runtime.nib</key>
+		<data>
+		q4bySZRqkvkOUuqHRmgzZdBqfdg=
+		</data>
+		<key>VNPersonTableViewCell.nib/objects.nib</key>
+		<data>
+		ENV3s+jzcYpM5Rskpsep2aOaIrM=
+		</data>
+		<key>VNPersonTableViewCell.nib/runtime.nib</key>
+		<data>
+		hQwOWxw6MW6TQQF5SEyslz9BAlE=
+		</data>
+		<key>VNPostViewController.nib/objects.nib</key>
+		<data>
+		mF67hby/0hzYPccTwlRwKjSZZBQ=
+		</data>
+		<key>VNPostViewController.nib/runtime.nib</key>
+		<data>
+		Ig4rzFrHiefJTY76cEiEBUvlHnc=
+		</data>
+		<key>VNPrivateContentViewController.nib/objects.nib</key>
+		<data>
+		J2cqPEJyNGOnZTL8eFneYH2UcGE=
+		</data>
+		<key>VNPrivateContentViewController.nib/runtime.nib</key>
+		<data>
+		eL1EyNowQ6t5HbJVmGQV54cdfDg=
+		</data>
+		<key>VNPrivateLargeCell.nib/objects.nib</key>
+		<data>
+		QJxFDJD8sM81IEkOAE77ogZ+SvA=
+		</data>
+		<key>VNPrivateLargeCell.nib/runtime.nib</key>
+		<data>
+		JifEQ0b6KnYk8KmCglHYi37sNA0=
+		</data>
+		<key>VNPrivateSmallCell.nib/objects.nib</key>
+		<data>
+		ftumvXCl79GoUVmjS7niDIpExRI=
+		</data>
+		<key>VNPrivateSmallCell.nib/runtime.nib</key>
+		<data>
+		i35T2zoba8sGVq9nhblW+S/QwVU=
+		</data>
+		<key>VNRegionCell.nib/objects.nib</key>
+		<data>
+		b4Za2irWK4bCfIz9Jdc2IqP6fBE=
+		</data>
+		<key>VNRegionCell.nib/runtime.nib</key>
+		<data>
+		qUHjSjwMqfjocSVrhdm29r5lxFk=
+		</data>
+		<key>VNRegionViewController.nib/objects.nib</key>
+		<data>
+		AuqLLGTu7xlsT4GMkigmpnmcMoc=
+		</data>
+		<key>VNRegionViewController.nib/runtime.nib</key>
+		<data>
+		7jOrJdy0oLtegE16elOfmAm8sss=
+		</data>
+		<key>VNSearchViewController.nib</key>
+		<data>
+		6CfwqAHakgihUUsILTPbjQes2+g=
+		</data>
+		<key>VNSettingsViewController.nib/objects.nib</key>
+		<data>
+		hiFTiRHbbgDiC2PcKxFbqczKtJI=
+		</data>
+		<key>VNSettingsViewController.nib/runtime.nib</key>
+		<data>
+		hiFTiRHbbgDiC2PcKxFbqczKtJI=
+		</data>
+		<key>VNShareViewController.nib/objects.nib</key>
+		<data>
+		yIt9ixdjpDhqxOsPN6ArcQlbd4M=
+		</data>
+		<key>VNShareViewController.nib/runtime.nib</key>
+		<data>
+		az+ZZs6MbhS3cJLOKYPhKlLd2vA=
+		</data>
+		<key>VNSocialNetworkViewController.nib/objects.nib</key>
+		<data>
+		1iyXyzfVEbeYigBMb1rTo/jccXk=
+		</data>
+		<key>VNSocialNetworkViewController.nib/runtime.nib</key>
+		<data>
+		tH6r621k+siRDhNaJCI1XW/abR8=
+		</data>
+		<key>VNTwitterLoginViewController.nib/objects.nib</key>
+		<data>
+		2S5qgjd5/ZMfRnrcHZls2HWAgjc=
+		</data>
+		<key>VNTwitterLoginViewController.nib/runtime.nib</key>
+		<data>
+		jjrQtVzcYTjiao/FnxRXNKZjdwM=
+		</data>
+		<key>VNUploadManagerTableViewCell.nib/objects.nib</key>
+		<data>
+		6RBrMA2TuiMVbPQCms5cXE8KzGE=
+		</data>
+		<key>VNUploadManagerTableViewCell.nib/runtime.nib</key>
+		<data>
+		5YVUxWH/2lhOcFiwpe3RlmW58gM=
+		</data>
+		<key>VNUploadManagerViewController.nib/objects.nib</key>
+		<data>
+		9HKkTu5qav9AOlCuZS+tOAek+ew=
+		</data>
+		<key>VNUploadManagerViewController.nib/runtime.nib</key>
+		<data>
+		9HKkTu5qav9AOlCuZS+tOAek+ew=
+		</data>
+		<key>VNUserFeedViewController.nib/objects.nib</key>
+		<data>
+		6CDG4ruyHdIahBZWkRHkH7hKFTY=
+		</data>
+		<key>VNUserFeedViewController.nib/runtime.nib</key>
+		<data>
+		loktMPfHvDF6hnoDrxf2ydGo9yI=
+		</data>
+		<key>VNVenueFeedViewController.nib</key>
+		<data>
+		8mQrwlabO7eTm0G+pcTXBdc/HCw=
+		</data>
+		<key>VNVenueTableViewCell.nib/objects.nib</key>
+		<data>
+		Q0nrvyRdJjd2RLL+nN+dLaG3T0A=
+		</data>
+		<key>VNVenueTableViewCell.nib/runtime.nib</key>
+		<data>
+		7wufVGZnT9EHwfN9jI9a6YR6pCg=
+		</data>
+		<key>VNVenueViewController.nib/objects.nib</key>
+		<data>
+		9C2ZeyM+arEgE0c/PatCT6rSU/Y=
+		</data>
+		<key>VNVenueViewController.nib/runtime.nib</key>
+		<data>
+		erxOkVExIJMKe4/KN2A2NiYHEVE=
+		</data>
+		<key>VNVideoTableViewCell.nib/objects.nib</key>
+		<data>
+		oCiT4asvIhMpHlWinuAJUsAVUBA=
+		</data>
+		<key>VNVideoTableViewCell.nib/runtime.nib</key>
+		<data>
+		4gUPwwt75AcuAOLgj6GAvKDf2+E=
+		</data>
+		<key>VNViewController.nib/objects.nib</key>
+		<data>
+		AuqLLGTu7xlsT4GMkigmpnmcMoc=
+		</data>
+		<key>VNViewController.nib/runtime.nib</key>
+		<data>
+		7jOrJdy0oLtegE16elOfmAm8sss=
+		</data>
+		<key>VNWebViewController.nib/objects.nib</key>
+		<data>
+		NoNwu9V9+qNU/oLweizEU0PlC9w=
+		</data>
+		<key>VNWebViewController.nib/runtime.nib</key>
+		<data>
+		UfKVOK9/aBzGsXVWvuDDLFFiJAQ=
+		</data>
+		<key>VenueIconMapping.plist</key>
+		<data>
+		J7WFwGP0TOB8AklztOjCjIXXT2w=
+		</data>
+		<key>VerifiedBadge.png</key>
+		<data>
+		QK83PWa5ZAG5mL0crZTLLkrnv4U=
+		</data>
+		<key>VerifiedBadge@2x.png</key>
+		<data>
+		wuwV9RR0N/4dc0PulSJzK7togdA=
+		</data>
+		<key>VineLocationIcon.png</key>
+		<data>
+		FqXRhk1DcTjZcUbNHSOqgC5LnHE=
+		</data>
+		<key>VineLocationIcon@2x.png</key>
+		<data>
+		l/MxzCN54PkoCkyi7jNgO/ILK+E=
+		</data>
+		<key>VineLocationTag.png</key>
+		<data>
+		ZcW7JT2Q0V7qRlP6yDl5cGYqBZs=
+		</data>
+		<key>VineLocationTag@2x.png</key>
+		<data>
+		GtD/TY2vBwBs0nUABdBPnMeC8fI=
+		</data>
+		<key>VineLogo.png</key>
+		<data>
+		ykzNyXb0Zf82x2rKsnq0PUyBobg=
+		</data>
+		<key>VineLogo@2x.png</key>
+		<data>
+		kds2gXb2s/Yhry3LBooCv/8hpw0=
+		</data>
+		<key>VineMainFeedLocationIcon@2x.png</key>
+		<data>
+		wwuF3Mycm9V/P6b5rsD6Y4GCVVA=
+		</data>
+		<key>X.png</key>
+		<data>
+		Xss+ErwBr/NB1UjIgkOd2/doiuc=
+		</data>
+		<key>X@2x.png</key>
+		<data>
+		wLVliiXM4ClgW+0gG4qC5nh8TjE=
+		</data>
+		<key>XButton.png</key>
+		<data>
+		AtkZJefFpfz8OcxzNLp2f9vRz98=
+		</data>
+		<key>XButton@2x.png</key>
+		<data>
+		cm3RTtfd6n+lkkz7clEaRF8/eDU=
+		</data>
+		<key>background.mp4</key>
+		<data>
+		ERGYYR5Wdx0V8qA67L/rP6F8siE=
+		</data>
+		<key>da.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c2zT/v0DeaU7DbIBlCy7gENIdkE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h5d6dL5PosWqwP5R1VCAC/JNI2U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>embedded.mobileprovision</key>
+		<data>
+		VhN2Wpv/AJfy3LxintlmuUGTIzQ=
+		</data>
+		<key>en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zmV6UqBSo6r1NOz798vd5O4zTBA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gseqjsNeB+wsPAZkZf4bfdq3f1k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+pqJkY4+bg/uc5Vxe17L9Ef996k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wNVBP6VcNsdXmA6T8eIm0dsAlSU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ozcaaWWIPVJhCD89QBvWk5bWCuo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/da.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cPHpwCWLhqt77Zfz+6q//1rmC4I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ddAq22pPXIPu54N5GYlYcghb76U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CqiHY//LVzlF8xyw7qKwFUPHw3A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D2iISqDtMl+lzTf5L7AuaUOIdOk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HFihyJ8Pz/YjuA8f/Sd32J5OP30=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/he.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TutPomOiq3PuVxH4m2wSaqGxAvI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Dgj7GCAbPRrPdSIhNGrZSonfljo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Bm/+8Wf+n2LazIRjfwbO96z58zI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DZnTTnNwuiXtNKPpDPc7buHYDLg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gHdTRHzdnFV9HeMQAHu+uvjjvxA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/pl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OBx5jt+nbDXRDfjIEv6iu55nn/I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/pt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vamtUVyclkVWVoNhsNqLckQEpkA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lcqqL0K9XcEfcCPg7nQMBidJrKI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/sv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MTA6m+6OO8uVXYf4mzbzebg6HBQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/tr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FTV3oBPvAX1QMGAO0ZNumXy8YvU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/uk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u6t+DVc+wzmdm3CQ1bNEgIewFoA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/zSZv53ZAQYyE+OFHycc1Ero8j4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>iRate.bundle/zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XQi+RRVwps6/iUy5MKHaWxGpU4g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>id.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Efq91GmPpRU4xybd3LsJR8DQUMU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m2wpFUSJCdE43s8ebjW9YizaXTs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HDNq/QBzyubb9zuP09ccwRsJTZ4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cyrIo4K3+x3G3cA4UWYsoNCcTZQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ms.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ax/FpHyivTNeIIlhnkDHURGnWTE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nb.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zB+17iKr9KYwpuEteD3UwkF4fHs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JjJ+WiB4Ag8djn/dHMMKs01uzpU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DHxD9nMHqBZzrsjpvjRGoFp7afc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oVXNXY1xz1lqJdv/ViGEOW5Rark=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iKNA0Izk4J7GOQrQXP5BZr3TdfA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/xsxM051GU2l3Q4kVsui30lnM70=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>th.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8D9zRp5dRiN8TrUmz5MQwYb7JRE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>tr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			heTiZVlET4Tvvf2TOXYLM5gka2w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>tw_logo.png</key>
+		<data>
+		7Ohhn1vM7K4NT00tb16LJSmcz+0=
+		</data>
+		<key>tw_logo@2x.png</key>
+		<data>
+		0/s6fn3fh8UE7lG7Unki1VEM9A4=
+		</data>
+		<key>vinebug.png</key>
+		<data>
+		cw284cxbf6U1srDspe3YFKCBIHc=
+		</data>
+		<key>vinebug@2x.png</key>
+		<data>
+		Y0vNURQ/3wQMkeqSfigpUVaiu1w=
+		</data>
+		<key>zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DtmHZyDhjKMteATeTDWfZpT304s=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Od2RRQru8ivvuz1/L/BCBIMf5hM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>.*</key>
+		<key>^</key>
 		<true/>
-		<key>Info.plist</key>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
 			<true/>
 			<key>weight</key>
 			<real>10</real>
 		</dict>
-		<key>ResourceRules.plist</key>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
 		<dict>
-			<key>omit</key>
+			<key>optional</key>
 			<true/>
 			<key>weight</key>
-			<real>100</real>
+			<real>1000</real>
 		</dict>
-		<key>^SC_Info/.*\.sinf$</key>
+		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<integer>10000</integer>
+			<real>1100</real>
 		</dict>
-		<key>^SC_Info/.*\.supp$</key>
+		<key>^Info\.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<integer>10000</integer>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
 		</dict>
 	</dict>
 </dict>
